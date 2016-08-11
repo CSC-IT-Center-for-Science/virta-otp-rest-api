@@ -4,7 +4,7 @@ import javax.persistence.Embeddable;
 import java.io.Serializable;
 
 @Embeddable
-public class AMK7SuoratTKId implements Serializable {
+public class AMKSuoratTKId implements Serializable {
 
     private String organisaatiokoodi;
     private Integer vuosi;
@@ -39,7 +39,7 @@ public class AMK7SuoratTKId implements Serializable {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        AMK7SuoratTKId that = (AMK7SuoratTKId) o;
+        AMKSuoratTKId that = (AMKSuoratTKId) o;
 
         if (organisaatiokoodi != null ? !organisaatiokoodi.equals(that.organisaatiokoodi) : that.organisaatiokoodi != null)
             return false;

@@ -4,7 +4,6 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "amk7_suorat_tk")
-public class AMK7SuoratTK extends AMKSuoratTK {
-
+@Table(name = "amk8_suorat_tk")
+public class AMK8SuoratTK extends AMKSuoratTK {
 }
