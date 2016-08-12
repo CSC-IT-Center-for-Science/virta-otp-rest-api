@@ -17,6 +17,10 @@ bootRun {
     systemProperties System.properties
 }
 
+springBoot {
+	executable=true
+}
+
 jar {
 	baseName = "opintotieto-api"
 	version = "0.0.1-SNAPSHOT"
