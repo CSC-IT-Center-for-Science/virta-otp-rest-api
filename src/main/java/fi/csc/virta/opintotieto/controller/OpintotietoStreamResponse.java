@@ -20,7 +20,7 @@ import java.io.Serializable;
 import java.util.stream.Stream;
 
 @Component
-public class OpintotietoResponse<T, E extends Serializable> {
+public class OpintotietoStreamResponse<T, E extends Serializable> {
 
     @Autowired
     private ObjectMapper om;

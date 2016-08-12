@@ -15,7 +15,7 @@ public abstract class OpintotietoController<T, E extends Serializable> {
     private Logger log = LoggerFactory.getLogger(getClass());
 
     @Autowired
-    private OpintotietoResponse<T, E> otr;
+    private OpintotietoStreamResponse<T, E> otr;
 
     @RequestMapping(value = "")
     @Transactional(readOnly = true)
