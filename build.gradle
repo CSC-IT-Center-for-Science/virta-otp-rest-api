@@ -1,13 +1,14 @@
 buildscript {
-	ext {
-		springBootVersion = "1.4.0.RELEASE"
-	}
-	repositories {
-		mavenCentral()
-	}
-	dependencies {
-		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
-	}
+    ext {
+        springBootVersion = "1.4.0.RELEASE"
+    }
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
 }
 
 apply plugin: "java"
@@ -18,12 +19,12 @@ bootRun {
 }
 
 springBoot {
-	executable=true
+    executable = true
 }
 
 jar {
-	baseName = "opintotieto-api"
-	version = "0.0.1-SNAPSHOT"
+    baseName = "opintotieto-api"
+    version = "0.0.1-SNAPSHOT"
 }
 
 compileJava {
@@ -32,22 +33,24 @@ compileJava {
 }
 
 repositories {
-	mavenCentral()
+    jcenter()
+    mavenCentral()
     mavenLocal()
 }
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
     compile("org.springframework.boot:spring-boot-starter-data-jpa")
-	compile("org.springframework.boot:spring-boot-starter-jdbc")
-	compile("com.fasterxml.jackson.dataformat:jackson-dataformat-xml")
-	compile("org.springframework.boot:spring-boot-devtools")
-
-	compile("org.springframework.boot:spring-boot-starter-jersey")
+    compile("org.springframework.boot:spring-boot-starter-jdbc")
+    compile("com.fasterxml.jackson.dataformat:jackson-dataformat-xml")
+    compile("org.springframework.boot:spring-boot-devtools")
+    compile("io.springfox:springfox-swagger2:2.5.0")
+    compile("io.springfox:springfox-swagger-ui:2.5.0")
+    compile("org.springframework.boot:spring-boot-starter-jersey")
     // MS JDBC driver is not in Maven central, install locally
     runtime("com.microsoft.sqlserver:sqljdbc4:4.0")
-	runtime("com.h2database:h2")
-	// Test
-	testCompile("org.springframework.boot:spring-boot-starter-test")
-	testCompile("org.springframework.restdocs:spring-restdocs-mockmvc")
+    runtime("com.h2database:h2")
+    // Test
+    testCompile("org.springframework.boot:spring-boot-starter-test")
+    testCompile("org.springframework.restdocs:spring-restdocs-mockmvc")
 }

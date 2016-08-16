@@ -5,6 +5,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator;
 import fi.csc.virta.opintotieto.repository.OpintotietoRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
@@ -22,6 +24,8 @@ import java.util.stream.Stream;
 @Component
 public class OpintotietoStreamResponse<T, E extends Serializable> {
 
+    private final Logger log = LoggerFactory.getLogger(getClass());
+
     @Autowired
     private ObjectMapper om;
 
@@ -38,7 +42,7 @@ public class OpintotietoStreamResponse<T, E extends Serializable> {
                 try {
                     om.writeValue(jsonGenerator, entity);
                 } catch (IOException e) {
-                    e.printStackTrace();
+                    log.error("Could not write json value for entity!", e);
                 }
                 entityManager.detach(entity);
             });
@@ -62,7 +66,7 @@ public class OpintotietoStreamResponse<T, E extends Serializable> {
                 try {
                     xmlMapper.writeValue(writer, entity);
                 } catch (IOException e) {
-                    e.printStackTrace();
+                    log.error("Could not write xml value for entity!", e);
                 }
                 entityManager.detach(entity);
             });
