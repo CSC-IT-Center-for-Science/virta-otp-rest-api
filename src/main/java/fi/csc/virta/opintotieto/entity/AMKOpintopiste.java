@@ -1,5 +1,8 @@
 package fi.csc.virta.opintotieto.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
 import javax.persistence.Column;
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
@@ -9,6 +12,7 @@ import java.util.Date;
 
 @Entity
 @Table(name = "Amk_Opintopiste")
+@JsonPropertyOrder(alphabetic = true)
 public class AMKOpintopiste {
 
     @EmbeddedId
@@ -32,6 +36,20 @@ public class AMKOpintopiste {
     private Date luontipaivamaara;
     private String paivittaja;
     private Date paivityspaivamaara;
+
+    public AMKOpintopiste() {
+        id = new AMKOpintopisteId();
+    }
+
+    @JsonIgnore
+    public AMKOpintopisteId getId() {
+        return id;
+    }
+
+    @JsonIgnore
+    public void setId(AMKOpintopisteId id) {
+        this.id = id;
+    }
 
     public String getKuvaus() {
         return kuvaus;

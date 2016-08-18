@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Result>
+    <AMK8SuoratTK>
+        <koulutusala>1</koulutusala>
+        <miehia>1</miehia>
+        <naisia>2</naisia>
+        <organisaatiokoodi>org1</organisaatiokoodi>
+        <vuosi>2016</vuosi>
+    </AMK8SuoratTK>
+    <AMK8SuoratTK>
+        <koulutusala>2</koulutusala>
+        <miehia>3</miehia>
+        <naisia>4</naisia>
+        <organisaatiokoodi>org2</organisaatiokoodi>
+        <vuosi>2016</vuosi>
+    </AMK8SuoratTK>
+    <AMK8SuoratTK>
+        <koulutusala>3</koulutusala>
+        <miehia>5</miehia>
+        <naisia>6</naisia>
+        <organisaatiokoodi>org3</organisaatiokoodi>
+        <vuosi>2016</vuosi>
+    </AMK8SuoratTK>
+</Result>

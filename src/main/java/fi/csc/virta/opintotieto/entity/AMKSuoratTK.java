@@ -1,15 +1,33 @@
 package fi.csc.virta.opintotieto.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
 import javax.persistence.EmbeddedId;
 import javax.persistence.MappedSuperclass;
 import javax.persistence.Transient;
 
 @MappedSuperclass
+@JsonPropertyOrder(alphabetic = true)
 public abstract class AMKSuoratTK {
     @EmbeddedId
     private AMKSuoratTKId id;
     private Integer miehia = 0;
     private Integer naisia = 0;
+
+    public AMKSuoratTK() {
+        id = new AMKSuoratTKId();
+    }
+
+    @JsonIgnore
+    public AMKSuoratTKId getId() {
+        return id;
+    }
+
+    @JsonIgnore
+    public void setId(AMKSuoratTKId id) {
+        this.id = id;
+    }
 
     @Transient
     public String getOrganisaatiokoodi() {

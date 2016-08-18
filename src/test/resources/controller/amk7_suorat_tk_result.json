@@ -1,0 +1,23 @@
+[
+  {
+    "miehia": 1,
+    "naisia": 2,
+    "organisaatiokoodi": "org1",
+    "vuosi": 2016,
+    "koulutusala": 1
+  },
+  {
+    "miehia": 3,
+    "naisia": 4,
+    "organisaatiokoodi": "org2",
+    "vuosi": 2016,
+    "koulutusala": 2
+  },
+  {
+    "miehia": 5,
+    "naisia": 6,
+    "organisaatiokoodi": "org3",
+    "vuosi": 2016,
+    "koulutusala": 3
+  }
+]
