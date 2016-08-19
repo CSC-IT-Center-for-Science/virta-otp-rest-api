@@ -4,21 +4,18 @@ import fi.csc.virta.opintotieto.entity.AMKOpintopiste;
 import fi.csc.virta.opintotieto.entity.AMKOpintopisteId;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import static org.springframework.util.Assert.isTrue;
 
-public class AMKOpintopisteRepositoryTest extends BaseRepositoryTest {
+import java.util.Arrays;
+
+public class AMKOpintopisteRepositoryTest extends BaseRepositoryTest<AMKOpintopiste> {
 
     @Autowired
     private AMKOpintopisteRepository repository;
 
     @Test
     public void testStreamAll() throws Exception {
-        AMKOpintopiste op = createEntity("db1", "123abc", "abcd", 2016, "Desc", 2.5);
-        isTrue(repository.streamAll().allMatch(opintopiste ->
-                        opintopiste.getId().equals(op.getId()) &&
-                                opintopiste.getKuvaus().equals(op.getKuvaus()) &&
-                                opintopiste.getHyvaksiluetut().equals(op.getHyvaksiluetut())),
-                "All matches");
+        assertStreamResults(Arrays.asList(createEntity("db1", "123abc", "abcd", 2016, "Desc", 2.5),
+                createEntity("db2", "234abc", "bcde", 2017, "Desc2", 3.5)), repository.streamAll());
     }
 
     private AMKOpintopiste createEntity(String db, String koodi, String koulutustyyppi, int vuosi, String kuvaus, double hyvaksiluetut) {

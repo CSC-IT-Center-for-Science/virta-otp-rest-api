@@ -4,21 +4,18 @@ import fi.csc.virta.opintotieto.entity.AMK7SuoratTK;
 import fi.csc.virta.opintotieto.entity.AMKSuoratTKId;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import static org.springframework.util.Assert.isTrue;
 
-public class AMK7SuoratTKRepositoryTest extends BaseRepositoryTest {
+import java.util.Arrays;
+
+public class AMK7SuoratTKRepositoryTest extends BaseRepositoryTest<AMK7SuoratTK> {
 
     @Autowired
     private AMK7SuoratTKRepository repository;
 
     @Test
     public void testStreamAll() throws Exception {
-        AMK7SuoratTK tk = createEntity("org1", 2016, 2, 2, 3);
-        isTrue(repository.streamAll().allMatch(amk7SuoratTK ->
-                        amk7SuoratTK.getId().equals(tk.getId()) &&
-                                amk7SuoratTK.getMiehia().equals(tk.getMiehia()) &&
-                                amk7SuoratTK.getNaisia().equals(tk.getNaisia())),
-                "All matches");
+        assertStreamResults(Arrays.asList(createEntity("org1", 2016, 2, 2, 3),
+                createEntity("org2", 2017, 3, 3, 4)), repository.streamAll());
     }
 
     private AMK7SuoratTK createEntity(String organisaatiokoodi, int vuosi, int koulutusala, int miehia, int naisia) {
