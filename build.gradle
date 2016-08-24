@@ -8,15 +8,34 @@ buildscript {
     }
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+        classpath("pl.allegro.tech.build:axion-release-plugin:1.4.0")
     }
 }
 
 apply plugin: "java"
 apply plugin: "spring-boot"
 apply plugin: "jacoco"
+apply plugin: "pl.allegro.tech.build.axion-release"
+
+scmVersion {
+    versionIncrementer "incrementMinor"
+    tag {
+        prefix = ""
+        initialVersion = { tag, position -> "1.0.0" }
+    }
+}
+
+project.version = scmVersion.version
+
+processResources {
+    filesMatching("application.properties") {
+        expand(project.properties)
+    }
+}
 
 bootRun {
     systemProperties System.properties
+    systemProperties["app.version"] = project.version
 }
 
 springBoot {
@@ -25,7 +44,7 @@ springBoot {
 
 jar {
     baseName = "opintotieto-api"
-    version = "0.0.1-SNAPSHOT"
+    version = project.version
 }
 
 compileJava {

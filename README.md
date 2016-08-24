@@ -4,12 +4,20 @@ REST API for VIRTA-Opintotietopalvelu (https://www.csc.fi/virta)
 ## Development
 ### Running in development mode
 `$ sh gradlew bootRun`
+
 ### Building executable jar
 `$ sh gradlew build`
 
 Artifact is located in path:
 
 `build/libs`
+
+## Releasing
+Making a release means that current branch is tagged and pushed to remote.
+
+`$ sh gradlew release`
+
+More information about release plugin can be found from [axion-release-plugin](http://axion-release-plugin.readthedocs.io/en/latest/index.html) documentation. 
 
 ## Install
 1. Copy builded executable jar to server.
