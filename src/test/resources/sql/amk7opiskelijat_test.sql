@@ -1,0 +1,6 @@
+INSERT INTO amk7_opiskelijat (id, kk, koulutusalakoodi, opiskelija_avain, opiskelu_oikeuden_alku, opiskelu_oikeuden_paattymispvm, opiskelu_oikeus_avain, Opiskeluoikeuden_kohteena_olevan_koulutuksen_tunniste, organisaatiokoodi, sukupuoli, vuosi)
+  VALUES (1, 'kk1', 1, 'ovain1', '2016-01-02 01:02:00', '2018-01-02 00:00:00', 'oikeusAvain1', 'tunniste1', 'org1', 1, 2016);
+INSERT INTO amk7_opiskelijat (id, kk, koulutusalakoodi, opiskelija_avain, opiskelu_oikeuden_alku, opiskelu_oikeuden_paattymispvm, opiskelu_oikeus_avain, Opiskeluoikeuden_kohteena_olevan_koulutuksen_tunniste, organisaatiokoodi, sukupuoli, vuosi)
+  VALUES (2, 'kk2', 2, 'ovain2', '2016-01-02 01:02:00', '2018-01-02 00:00:00', 'oikeusAvain2', 'tunniste2', 'org2', 1, 2016);
+INSERT INTO amk7_opiskelijat (id, kk, koulutusalakoodi, opiskelija_avain, opiskelu_oikeuden_alku, opiskelu_oikeuden_paattymispvm, opiskelu_oikeus_avain, Opiskeluoikeuden_kohteena_olevan_koulutuksen_tunniste, organisaatiokoodi, sukupuoli, vuosi)
+  VALUES (3, 'kk2', 3, 'ovain3', '2016-01-02 01:02:00', '2018-01-02 00:00:00', 'oikeusAvain3', 'tunniste3', 'org3', 1, 2016);

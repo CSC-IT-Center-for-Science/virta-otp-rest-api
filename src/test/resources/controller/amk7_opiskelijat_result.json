@@ -1,0 +1,38 @@
+[
+  {
+    "kk": "kk1",
+    "koulutusalakoodi": 1,
+    "opiskelijaAvain": "ovain1",
+    "opiskeluOikeudenAlku": 1451689320000,
+    "opiskeluOikeudenPaattymispvm": 1514844000000,
+    "opiskeluOikeusAvain": "oikeusAvain1",
+    "opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste": "tunniste1",
+    "organisaatiokoodi": "org1",
+    "sukupuoli": 1,
+    "vuosi": 2016
+  },
+  {
+    "kk": "kk2",
+    "koulutusalakoodi": 2,
+    "opiskelijaAvain": "ovain2",
+    "opiskeluOikeudenAlku": 1451689320000,
+    "opiskeluOikeudenPaattymispvm": 1514844000000,
+    "opiskeluOikeusAvain": "oikeusAvain2",
+    "opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste": "tunniste2",
+    "organisaatiokoodi": "org2",
+    "sukupuoli": 1,
+    "vuosi": 2016
+  },
+  {
+    "kk": "kk2",
+    "koulutusalakoodi": 3,
+    "opiskelijaAvain": "ovain3",
+    "opiskeluOikeudenAlku": 1451689320000,
+    "opiskeluOikeudenPaattymispvm": 1514844000000,
+    "opiskeluOikeusAvain": "oikeusAvain3",
+    "opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste": "tunniste3",
+    "organisaatiokoodi": "org3",
+    "sukupuoli": 1,
+    "vuosi": 2016
+  }
+]

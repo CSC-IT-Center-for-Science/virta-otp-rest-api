@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Result>
+    <AMK7Opiskelijat>
+        <kk>kk1</kk>
+        <koulutusalakoodi>1</koulutusalakoodi>
+        <opiskelijaAvain>ovain1</opiskelijaAvain>
+        <opiskeluOikeudenAlku>1451689320000</opiskeluOikeudenAlku>
+        <opiskeluOikeudenPaattymispvm>1514844000000</opiskeluOikeudenPaattymispvm>
+        <opiskeluOikeusAvain>oikeusAvain1</opiskeluOikeusAvain>
+        <opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>tunniste1</opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>
+        <organisaatiokoodi>org1</organisaatiokoodi>
+        <sukupuoli>1</sukupuoli>
+        <vuosi>2016</vuosi>
+    </AMK7Opiskelijat>
+    <AMK7Opiskelijat>
+        <kk>kk2</kk>
+        <koulutusalakoodi>2</koulutusalakoodi>
+        <opiskelijaAvain>ovain2</opiskelijaAvain>
+        <opiskeluOikeudenAlku>1451689320000</opiskeluOikeudenAlku>
+        <opiskeluOikeudenPaattymispvm>1514844000000</opiskeluOikeudenPaattymispvm>
+        <opiskeluOikeusAvain>oikeusAvain2</opiskeluOikeusAvain>
+        <opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>tunniste2</opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>
+        <organisaatiokoodi>org2</organisaatiokoodi>
+        <sukupuoli>1</sukupuoli>
+        <vuosi>2016</vuosi>
+    </AMK7Opiskelijat>
+    <AMK7Opiskelijat>
+        <kk>kk2</kk>
+        <koulutusalakoodi>3</koulutusalakoodi>
+        <opiskelijaAvain>ovain3</opiskelijaAvain>
+        <opiskeluOikeudenAlku>1451689320000</opiskeluOikeudenAlku>
+        <opiskeluOikeudenPaattymispvm>1514844000000</opiskeluOikeudenPaattymispvm>
+        <opiskeluOikeusAvain>oikeusAvain3</opiskeluOikeusAvain>
+        <opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>tunniste3</opiskeluoikeudenKohteenaOlevanKoulutuksenTunniste>
+        <organisaatiokoodi>org3</organisaatiokoodi>
+        <sukupuoli>1</sukupuoli>
+        <vuosi>2016</vuosi>
+    </AMK7Opiskelijat>
+</Result>
