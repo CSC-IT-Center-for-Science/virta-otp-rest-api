@@ -6,8 +6,8 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "amk7_opiskelijat")
+@Table(name = "amk8_opiskelijat")
 @JsonPropertyOrder(alphabetic = true)
-public class AMK7Opiskelijat extends AMKOpiskelijat {
+public class AMK8Opiskelijat extends AMKOpiskelijat {
 
 }
