@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Result>
+    <AMKAvoimenOpintopisteetJarj>
+        <db>db</db>
+        <koodi>koodi</koodi>
+        <kuvaus>kuvaus</kuvaus>
+        <luontipaivamaara>1451685600000</luontipaivamaara>
+        <opintopisteet>10</opintopisteet>
+        <oppilaitostyyppi>tyyppi</oppilaitostyyppi>
+        <paivittaja>paivittaja</paivittaja>
+        <paivityspaivamaara>1454364000000</paivityspaivamaara>
+        <vuosi>2016</vuosi>
+        <luoja>luoja</luoja>
+    </AMKAvoimenOpintopisteetJarj>
+    <AMKAvoimenOpintopisteetJarj>
+        <db>db2</db>
+        <koodi>koodi2</koodi>
+        <kuvaus>kuvaus2</kuvaus>
+        <luontipaivamaara>1451685600000</luontipaivamaara>
+        <opintopisteet>11</opintopisteet>
+        <oppilaitostyyppi>tyyppi2</oppilaitostyyppi>
+        <paivittaja>paivittaja2</paivittaja>
+        <paivityspaivamaara>1454364000000</paivityspaivamaara>
+        <vuosi>2016</vuosi>
+        <luoja>luoja2</luoja>
+    </AMKAvoimenOpintopisteetJarj>
+    <AMKAvoimenOpintopisteetJarj>
+        <db>db3</db>
+        <koodi>koodi3</koodi>
+        <kuvaus>kuvaus3</kuvaus>
+        <luontipaivamaara>1451685600000</luontipaivamaara>
+        <opintopisteet>12</opintopisteet>
+        <oppilaitostyyppi>tyyppi3</oppilaitostyyppi>
+        <paivittaja>paivittaj3</paivittaja>
+        <paivityspaivamaara>1454364000000</paivityspaivamaara>
+        <vuosi>2016</vuosi>
+        <luoja>luoj3</luoja>
+    </AMKAvoimenOpintopisteetJarj>
+</Result>
