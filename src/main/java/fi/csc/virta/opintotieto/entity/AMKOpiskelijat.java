@@ -1,12 +1,14 @@
 package fi.csc.virta.opintotieto.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 import java.util.Date;
 
 @MappedSuperclass
+@JsonPropertyOrder(alphabetic = true)
 public abstract class AMKOpiskelijat {
 
     @Id

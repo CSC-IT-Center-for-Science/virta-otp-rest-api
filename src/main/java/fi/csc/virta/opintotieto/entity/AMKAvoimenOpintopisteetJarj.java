@@ -1,6 +1,7 @@
 package fi.csc.virta.opintotieto.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -9,6 +10,7 @@ import java.util.Date;
 
 @Entity
 @Table(name = "Amk_Avoimenopintopisteet_Jarj")
+@JsonPropertyOrder(alphabetic = true)
 public class AMKAvoimenOpintopisteetJarj {
 
     @Id

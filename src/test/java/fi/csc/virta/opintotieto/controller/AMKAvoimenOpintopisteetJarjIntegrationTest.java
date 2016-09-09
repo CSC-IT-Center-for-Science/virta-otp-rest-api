@@ -1,6 +1,6 @@
 package fi.csc.virta.opintotieto.controller;
 
-import fi.csc.virta.opintotieto.entity.AMKOpintopiste;
+import fi.csc.virta.opintotieto.entity.AMKAvoimenOpintopisteetJarj;
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.Test;
 import org.springframework.boot.test.json.ObjectContent;
@@ -10,11 +10,11 @@ import java.util.List;
 
 
 @Sql({"/sql/cleanup.sql", "/sql/amk_avoimenopintopisteet_jarj_test.sql"})
-public class AMKAvoimenOpintopisteetJarjIntegrationTest extends BaseIntegrationTest<AMKOpintopiste> {
+public class AMKAvoimenOpintopisteetJarjIntegrationTest extends BaseIntegrationTest<AMKAvoimenOpintopisteetJarj> {
 
     @Test
     public void testStreamAll() throws Exception {
-        ObjectContent<List<AMKOpintopiste>> content = jacksonTester.parse(streamAllRequest("/api/AMKAvoimenOpintopisteetJarj"));
+        ObjectContent<List<AMKAvoimenOpintopisteetJarj>> content = jacksonTester.parse(streamAllRequest("/api/AMKAvoimenOpintopisteetJarj"));
         assertJsonContent(content, "/controller/amk_avoimenopintopisteet_jarj_results.json");
     }
 

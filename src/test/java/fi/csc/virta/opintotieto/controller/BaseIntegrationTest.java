@@ -6,6 +6,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.runner.RunWith;
+import org.skyscreamer.jsonassert.JSONCompareMode;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -40,7 +41,7 @@ public abstract class BaseIntegrationTest<T> {
 
     protected void assertJsonContent(ObjectContent<List<T>> content, String expectedFileName) throws IOException {
         assertThat(jacksonTester.write(content.getObject()))
-                .isEqualToJson(getResourceAsFile(expectedFileName));
+                .isEqualToJson(getResourceAsFile(expectedFileName), JSONCompareMode.STRICT_ORDER);
     }
 
     protected File getResourceAsFile(String expectedFileName) {
