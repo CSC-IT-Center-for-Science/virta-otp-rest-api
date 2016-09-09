@@ -8,3 +8,4 @@ TRUNCATE TABLE Amk_AvoimenOpintopisteet_Jarj;
 TRUNCATE TABLE CIMO_lyhyt_lahteva;
 TRUNCATE TABLE CIMO_lyhyt_saapuva;
 TRUNCATE TABLE CIMO_pitka_lahteva;
+TRUNCATE TABLE CIMO_pitka_saapuva;
