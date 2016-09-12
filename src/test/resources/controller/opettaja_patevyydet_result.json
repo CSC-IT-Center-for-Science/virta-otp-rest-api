@@ -1,0 +1,50 @@
+[
+  {
+    "db": "db",
+    "henkiloID": 1,
+    "henkilotunnus": "henkilotunnus",
+    "laajuus": 1.1,
+    "opintosuoritusAvain": "opintosuoritusavain",
+    "opintosuorituslaji": 1,
+    "opiskelijaAvain": "opiskelijaavain",
+    "oppilaitostyyppiKoodi": "oppilaitostyyppikoodi",
+    "organisaatiokoodi": "organisaatiokoodi",
+    "paivamaara": 1451599200000,
+    "patevyysKoodi": "patevyyskoodi",
+    "patevyysNimi": "patevyysnimi",
+    "regDatum": 1451599200000,
+    "vuosi": 2016
+  },
+  {
+    "db": "db2",
+    "henkiloID": 2,
+    "henkilotunnus": "henkilotunnus2",
+    "laajuus": 2.2,
+    "opintosuoritusAvain": "opintosuoritusavain2",
+    "opintosuorituslaji": 2,
+    "opiskelijaAvain": "opiskelijaavain2",
+    "oppilaitostyyppiKoodi": "oppilaitostyyppikoodi2",
+    "organisaatiokoodi": "organisaatiokoodi2",
+    "paivamaara": 1451599200000,
+    "patevyysKoodi": "patevyyskoodi2",
+    "patevyysNimi": "patevyysnimi2",
+    "regDatum": 1451599200000,
+    "vuosi": 2016
+  },
+  {
+    "db": "db3",
+    "henkiloID": 3,
+    "henkilotunnus": "henkilotunnus3",
+    "laajuus": 3.3,
+    "opintosuoritusAvain": "opintosuoritusavain3",
+    "opintosuorituslaji": 3,
+    "opiskelijaAvain": "opiskelijaavain3",
+    "oppilaitostyyppiKoodi": "oppilaitostyyppikoodi3",
+    "organisaatiokoodi": "organisaatiokoodi3",
+    "paivamaara": 1451599200000,
+    "patevyysKoodi": "patevyyskoodi3",
+    "patevyysNimi": "patevyysnimi3",
+    "regDatum": 1451599200000,
+    "vuosi": 2016
+  }
+]

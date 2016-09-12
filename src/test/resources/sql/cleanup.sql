@@ -10,3 +10,4 @@ TRUNCATE TABLE CIMO_lyhyt_saapuva;
 TRUNCATE TABLE CIMO_pitka_lahteva;
 TRUNCATE TABLE CIMO_pitka_saapuva;
 TRUNCATE TABLE OKM_Aloittaneet_Opintopisteet_YO;
+TRUNCATE TABLE opettaja_patevyydet;
