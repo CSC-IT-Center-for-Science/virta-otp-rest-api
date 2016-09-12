@@ -1,0 +1,50 @@
+[
+  {
+    "fuksi": "fuksi",
+    "id": 1,
+    "kirtu": "kirtu",
+    "kk": "kk",
+    "koulk": "koulk",
+    "luoja": "luoja",
+    "luontipaivamaara": 1451599200000,
+    "olosyys": "olosyys",
+    "opiskelijaId": 1,
+    "opiskelijaavain": "opiskelijaavain",
+    "opiskeluoikeusId": 1,
+    "opiskeluoikeusavain": "1",
+    "opoik": "opoik",
+    "opsyksy": 1
+  },
+  {
+    "fuksi": "fuksi2",
+    "id": 2,
+    "kirtu": "kirtu2",
+    "kk": "kk2",
+    "koulk": "koulk2",
+    "luoja": "luoja2",
+    "luontipaivamaara": 1451599200000,
+    "olosyys": "olosyys2",
+    "opiskelijaId": 2,
+    "opiskelijaavain": "opiskelijaavain2",
+    "opiskeluoikeusId": 2,
+    "opiskeluoikeusavain": "2",
+    "opoik": "opoik2",
+    "opsyksy": 2
+  },
+  {
+    "fuksi": "fuksi3",
+    "id": 3,
+    "kirtu": "kirtu3",
+    "kk": "kk3",
+    "koulk": "koulk3",
+    "luoja": "luoja3",
+    "luontipaivamaara": 1451599200000,
+    "olosyys": "olosyys3",
+    "opiskelijaId": 3,
+    "opiskelijaavain": "opiskelijaavain3",
+    "opiskeluoikeusId": 3,
+    "opiskeluoikeusavain": "3",
+    "opoik": "opoik3",
+    "opsyksy": 3
+  }
+]
