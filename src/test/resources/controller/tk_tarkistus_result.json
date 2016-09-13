@@ -1,0 +1,47 @@
+[
+  {
+    "arvo": "arvo",
+    "db": "db",
+    "luoja": "luoja",
+    "luontipaivamaara": 1451599200000,
+    "opintosuoritusId": 1,
+    "opintosuoritusavain": "opintosuoritusavain",
+    "opiskelijaId": 1,
+    "opiskelijaavain": "opiskelijaavain",
+    "opiskeluoikeusId": 1,
+    "opiskeluoikeusavain": "opiskeluoikeusavain",
+    "tiedonkeruu": "tiedonkeruu",
+    "virhe": "virhe",
+    "virhekoodi": "virhekoodi"
+  },
+  {
+    "arvo": "arvo2",
+    "db": "db2",
+    "luoja": "luoja2",
+    "luontipaivamaara": 1451599200000,
+    "opintosuoritusId": 2,
+    "opintosuoritusavain": "opintosuoritusavain2",
+    "opiskelijaId": 2,
+    "opiskelijaavain": "opiskelijaavain2",
+    "opiskeluoikeusId": 2,
+    "opiskeluoikeusavain": "opiskeluoikeusavain2",
+    "tiedonkeruu": "tiedonkeruu2",
+    "virhe": "virhe2",
+    "virhekoodi": "virhekoodi2"
+  },
+  {
+    "arvo": "arvo3",
+    "db": "db3",
+    "luoja": "luoja3",
+    "luontipaivamaara": 1451599200000,
+    "opintosuoritusId": 3,
+    "opintosuoritusavain": "opintosuoritusavain3",
+    "opiskelijaId": 3,
+    "opiskelijaavain": "opiskelijaavain3",
+    "opiskeluoikeusId": 3,
+    "opiskeluoikeusavain": "opiskeluoikeusavain3",
+    "tiedonkeruu": "tiedonkeruu3",
+    "virhe": "virhe3",
+    "virhekoodi": "virhekoodi3"
+  }
+]

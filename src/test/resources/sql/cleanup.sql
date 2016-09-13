@@ -17,3 +17,4 @@ TRUNCATE TABLE opettaja_patevyydet;
 TRUNCATE TABLE TK_eriope_patevyydet;
 TRUNCATE TABLE TK_opisk_AMK;
 TRUNCATE TABLE TK_opisk_YO;
+TRUNCATE TABLE TK_tarkistus;
