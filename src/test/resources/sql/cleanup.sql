@@ -14,3 +14,4 @@ TRUNCATE TABLE OKM_Aloittaneet_Opintopisteet_YO;
 TRUNCATE TABLE opettaja_patevyydet;
 TRUNCATE TABLE TK_eriope_patevyydet;
 TRUNCATE TABLE TK_opisk_AMK;
+TRUNCATE TABLE TK_opisk_YO;

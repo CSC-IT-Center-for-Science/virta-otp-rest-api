@@ -1,0 +1,5 @@
+INSERT INTO TK_opisk_YO (id, aikieliy, askuntay, avo, enimi, fuksi, ht, kansaly, kirtu, kk, kkun, koulk, lkmmt, luoja, luontipaivamaara, olosyys, olotamm, om, opek, opes, opiskelija_id, opiskelijaavain, opiskeluoikeus_id, opiskeluoikeusavain, opker, opoik, snimi, sp, sv)
+  VALUES
+  (1, 'aikieliy', 'askuntay', 'avo', 'enimi', 'fuksi', 'ht', 'kansaly', 'kirtu', 'kk', 'kkun', 'koulk', 'lkmmt', 'luoja', '2016-01-01 00:00:00', 'olosyys', 'olotamm', 'om', 'opek', 'opes', 1, 'opiskelijaavain', 1, 'opiskeluoikeusavain', 'opker', 'opoik', 'snimi', 'sp', 'sv'),
+  (2, 'aikieliy2', 'askuntay2', 'avo2', 'enimi2', 'fuksi2', 'ht2', 'kansaly2', 'kirtu2', 'kk2', 'kkun2', 'koulk2', 'lkmmt2', 'luoja2', '2016-01-01 00:00:00', 'olosyys2', 'olotamm2', 'om2', 'opek2', 'opes2', 2, 'opiskelijaavain2', 2, 'opiskeluoikeusavain2', 'opker2', 'opoik2', 'snimi2', 'sp2', 'sv2'),
+  (3, 'aikieliy3', 'askuntay3', 'avo3', 'enimi3', 'fuksi3', 'ht3', 'kansaly3', 'kirtu3', 'kk3', 'kkun3', 'koulk3', 'lkmmt3', 'luoja3', '2016-01-01 00:00:00', 'olosyys3', 'olotamm3', 'om3', 'opek3', 'opes3', 1, 'opiskelijaavain3', 3, 'opiskeluoikeusavain3', 'opker3', 'opoik3', 'snimi3', 'sp3', 'sv3');
