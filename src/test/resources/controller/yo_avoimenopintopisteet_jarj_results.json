@@ -1,0 +1,38 @@
+[
+  {
+    "db": "db",
+    "koodi": "koodi",
+    "kuvaus": "kuvaus",
+    "luontipaivamaara": 1451685600000,
+    "opintopisteet": 10,
+    "oppilaitostyyppi": "tyyppi",
+    "paivittaja": "paivittaja",
+    "paivityspaivamaara": 1454364000000,
+    "vuosi": 2016,
+    "luoja": "luoja"
+  },
+  {
+    "db": "db2",
+    "koodi": "koodi2",
+    "kuvaus": "kuvaus2",
+    "luontipaivamaara": 1451685600000,
+    "opintopisteet": 11,
+    "oppilaitostyyppi": "tyyppi2",
+    "paivittaja": "paivittaja2",
+    "paivityspaivamaara": 1454364000000,
+    "vuosi": 2016,
+    "luoja": "luoja2"
+  },
+  {
+    "db": "db3",
+    "koodi": "koodi3",
+    "kuvaus": "kuvaus3",
+    "luontipaivamaara": 1451685600000,
+    "opintopisteet": 12,
+    "oppilaitostyyppi": "tyyppi3",
+    "paivittaja": "paivittaj3",
+    "paivityspaivamaara": 1454364000000,
+    "vuosi": 2016,
+    "luoja": "luoj3"
+  }
+]
