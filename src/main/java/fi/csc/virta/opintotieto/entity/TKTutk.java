@@ -9,27 +9,29 @@ import java.util.Date;
 
 @MappedSuperclass
 @JsonPropertyOrder(alphabetic = true)
-public abstract class TKOpisk {
+public abstract class TKTutk {
 
     @Id
     private Long id;
     private String enimi;
     private String ht;
     private String kkun;
-    private String koulk;
     private String luoja;
     private Date luontipaivamaara;
-    private String olosyys;
-    private String olotamm;
-    private String opek;
-    private String opes;
+    private Integer opintosuoritusId;
+    private String opintosuoritusavain;
     private Integer opiskelijaId;
     private String opiskelijaavain;
     private Integer opiskeluoikeusId;
     private String opiskeluoikeusavain;
+    private String opmuu;
+    private String optutk;
+    private String opulk;
+    private String opyht;
     private String snimi;
-    private String opker;
     private String sp;
+    private Date suorituspaivamaara;
+    private String suorpvm;
 
     @JsonIgnore
     public Long getId() {
@@ -65,14 +67,6 @@ public abstract class TKOpisk {
         this.kkun = kkun;
     }
 
-    public String getKoulk() {
-        return koulk;
-    }
-
-    public void setKoulk(String koulk) {
-        this.koulk = koulk;
-    }
-
     public String getLuoja() {
         return luoja;
     }
@@ -89,36 +83,20 @@ public abstract class TKOpisk {
         this.luontipaivamaara = luontipaivamaara;
     }
 
-    public String getOlosyys() {
-        return olosyys;
+    public Integer getOpintosuoritusId() {
+        return opintosuoritusId;
     }
 
-    public void setOlosyys(String olosyys) {
-        this.olosyys = olosyys;
+    public void setOpintosuoritusId(Integer opintosuoritusId) {
+        this.opintosuoritusId = opintosuoritusId;
     }
 
-    public String getOlotamm() {
-        return olotamm;
+    public String getOpintosuoritusavain() {
+        return opintosuoritusavain;
     }
 
-    public void setOlotamm(String olotamm) {
-        this.olotamm = olotamm;
-    }
-
-    public String getOpek() {
-        return opek;
-    }
-
-    public void setOpek(String opek) {
-        this.opek = opek;
-    }
-
-    public String getOpes() {
-        return opes;
-    }
-
-    public void setOpes(String opes) {
-        this.opes = opes;
+    public void setOpintosuoritusavain(String opintosuoritusavain) {
+        this.opintosuoritusavain = opintosuoritusavain;
     }
 
     public Integer getOpiskelijaId() {
@@ -153,6 +131,38 @@ public abstract class TKOpisk {
         this.opiskeluoikeusavain = opiskeluoikeusavain;
     }
 
+    public String getOpmuu() {
+        return opmuu;
+    }
+
+    public void setOpmuu(String opmuu) {
+        this.opmuu = opmuu;
+    }
+
+    public String getOptutk() {
+        return optutk;
+    }
+
+    public void setOptutk(String optutk) {
+        this.optutk = optutk;
+    }
+
+    public String getOpulk() {
+        return opulk;
+    }
+
+    public void setOpulk(String opulk) {
+        this.opulk = opulk;
+    }
+
+    public String getOpyht() {
+        return opyht;
+    }
+
+    public void setOpyht(String opyht) {
+        this.opyht = opyht;
+    }
+
     public String getSnimi() {
         return snimi;
     }
@@ -161,19 +171,27 @@ public abstract class TKOpisk {
         this.snimi = snimi;
     }
 
-    public String getOpker() {
-        return opker;
-    }
-
-    public void setOpker(String opker) {
-        this.opker = opker;
-    }
-
     public String getSp() {
         return sp;
     }
 
     public void setSp(String sp) {
         this.sp = sp;
+    }
+
+    public Date getSuorituspaivamaara() {
+        return suorituspaivamaara;
+    }
+
+    public void setSuorituspaivamaara(Date suorituspaivamaara) {
+        this.suorituspaivamaara = suorituspaivamaara;
+    }
+
+    public String getSuorpvm() {
+        return suorpvm;
+    }
+
+    public void setSuorpvm(String suorpvm) {
+        this.suorpvm = suorpvm;
     }
 }
