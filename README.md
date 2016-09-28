@@ -12,6 +12,14 @@ Artifact is located in path:
 
 `build/libs`
 
+### Adding new API endpoints
+
+1. Create entity class for corresponding database table into package `fi.csc.virta.opintotieto.entity`.
+2. Create repository interface with corresponding entity information into package `fi.csc.virta.opintotieto.repository`.
+3. Create REST controller class for new entity into package `fi.csc.virta.opintotieto.controller`.
+
+To make your job easier, you can copy existing file and modified it for new entity.
+
 ## Releasing
 Making a release means that current branch is tagged and pushed to remote.
 
