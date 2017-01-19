@@ -31,7 +31,7 @@ public class YO6AvoimetErillisetSummataulukkoRepositoryTest extends BaseReposito
         entity.setAvoMiehet(avoMiehet);
         entity.setAvoNaiset(avoNaiset);
         entity.setErillisetOikeudet(erillisetOikeudet);
-        entity. setErillisetOpettajat(erillisetOpettajat);
+        entity.setErillisetOpettajat(erillisetOpettajat);
         em.persist(entity);
         return entity;
     }
