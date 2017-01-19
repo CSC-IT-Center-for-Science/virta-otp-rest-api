@@ -14,10 +14,10 @@ public class YO6AvoimetErillisetSummataulukkoRepositoryTest extends BaseReposito
     @Test
     public void testStreamAll() throws Exception {
         assertStreamResults(Arrays.asList(
-                        createEntity(1L, "kk", "vuosi", "avoTutkintoMiehet", "avoTutkintoNaiset", "avoMiehet",
-                                "erillisetOikeudet", "erillisetOpettajat"),
-                        createEntity(2L, "kk2", "vuosi2", "avoTutkintoMiehet2", "avoTutkintoNaiset2", "avoMiehet2",
-                                "erillisetOikeudet2", "erillisetOpettajat2")),
+                        createEntity(1L, "kk", 2016, 11, 22, 33,
+                               44, 66),
+                        createEntity(2L, "kk2", 2016, 8, 23, 66,
+                                55, 0)),
                 repository.streamAll());
     }
 
