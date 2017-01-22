@@ -1,0 +1,32 @@
+[ 
+  {	"avoMiehet":11,
+	"avoNaiset":11,
+	"avoTutkintoMiehet":11,
+	"avoTutkintoNaiset":11,
+	"erillisetOikeudet":11,
+	"erillisetOpettajat":11,
+	"kk": "aa",
+	"organisaatioKoodi": "12345",
+	"vuosi": 2016
+  }, 
+  {	"avoMiehet":22,
+	"avoNaiset":22,
+	"avoTutkintoMiehet":22,
+	"avoTutkintoNaiset":22,
+	"erillisetOikeudet":22,
+	"erillisetOpettajat":22,
+	"kk": "bb",
+	"organisaatioKoodi": "23456",
+	"vuosi": 2016
+  },
+  {	"avoMiehet": 33,
+	"avoNaiset": 33,
+	"avoTutkintoMiehet": 33,
+	"avoTutkintoNaiset": 33,
+	"erillisetOikeudet": 33,
+	"erillisetOpettajat": 33,
+	"kk": "cc",
+	"organisaatioKoodi": "34567",
+	"vuosi": 2016
+  }
+]
