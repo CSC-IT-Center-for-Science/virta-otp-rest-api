@@ -31,6 +31,7 @@ public abstract class Opintopiste {
     private Date luontipaivamaara;
     private String paivittaja;
     private Date paivityspaivamaara;
+	private Double ulkomaaharjoittelu;
 
     @JsonIgnore
     public Long getId() {
@@ -168,5 +169,13 @@ public abstract class Opintopiste {
 
     public void setDb(String db) {
         this.db = db;
+    }
+	
+	public Double getUlkomaaHarjoittelu() {
+        return ulkomaaharjoittelu;
+    }
+
+    public void setUlkomaaHarjoittelu(Double ulkomaaharjoittelu) {
+        this.ulkomaaharjoittelu = ulkomaaharjoittelu;
     }
 }

@@ -15,8 +15,9 @@
     "paivittaja": "paivittaja",
     "paivityspaivamaara": 1451599200000,
     "perustutkinto": 1.1,
-    "vieraskielinen": 1.1,
-    "vuosi": 2016
+    "ulkomaaHarjoittelu": 0.0,
+	"vieraskielinen": 1.1,
+    "vuosi": 2016	
   },
   {
     "avoinKK": 2.2,
@@ -34,8 +35,9 @@
     "paivittaja": "paivittaja2",
     "paivityspaivamaara": 1451599200000,
     "perustutkinto": 2.2,
-    "vieraskielinen": 2.2,
-    "vuosi": 2016
+    "ulkomaaHarjoittelu": 0.0,
+	"vieraskielinen": 2.2,
+    "vuosi": 2016	
   },
   {
     "avoinKK": 3.3,
@@ -53,7 +55,8 @@
     "paivittaja": "paivittaja3",
     "paivityspaivamaara": 1451599200000,
     "perustutkinto": 3.3,
-    "vieraskielinen": 3.3,
-    "vuosi": 2016
+    "ulkomaaHarjoittelu": 0.0,
+	"vieraskielinen": 3.3,
+    "vuosi": 2016	
   }
 ]

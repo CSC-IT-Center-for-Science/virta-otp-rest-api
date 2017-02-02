@@ -19,6 +19,7 @@
     "tkiHarjoittelunLaajuus": 0.0,
     "tkiMuutLaajuus": 0.0,
     "tkiToiminnanLaajuus": 0.0,
+	"ulkomaaHarjoittelu": 0.0,	
     "vieraskielinen": 0.0,
     "vuosi": 2016
   },
@@ -42,8 +43,9 @@
     "tkiHarjoittelunLaajuus": 0.0,
     "tkiMuutLaajuus": 0.0,
     "tkiToiminnanLaajuus": 0.0,
+	"ulkomaaHarjoittelu": 0.0,
     "vieraskielinen": 0.0,
-    "vuosi": 2016
+    "vuosi": 2016	
   },
   {
     "avoinKK": 0.0,
@@ -65,8 +67,9 @@
     "tkiHarjoittelunLaajuus": 0.0,
     "tkiMuutLaajuus": 0.0,
     "tkiToiminnanLaajuus": 0.0,
+	"ulkomaaHarjoittelu": 0.0,
     "vieraskielinen": 0.0,
-    "vuosi": 2016
+    "vuosi": 2016	
   },
   {
     "avoinKK": 0.0,
@@ -88,7 +91,8 @@
     "tkiHarjoittelunLaajuus": 0.0,
     "tkiMuutLaajuus": 0.0,
     "tkiToiminnanLaajuus": 0.0,
-    "vieraskielinen": 0.0,
-    "vuosi": 2016
+    "ulkomaaHarjoittelu": 0.0,
+	"vieraskielinen": 0.0,
+    "vuosi": 2016	
   }
 ]

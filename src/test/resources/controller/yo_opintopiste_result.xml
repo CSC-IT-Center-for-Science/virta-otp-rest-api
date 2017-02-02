@@ -16,8 +16,9 @@
         <paivittaja>paivittaja</paivittaja>
         <paivityspaivamaara>1451599200000</paivityspaivamaara>
         <perustutkinto>1.1</perustutkinto>
-        <vieraskielinen>1.1</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>1.1</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </YOOpintopiste>
     <YOOpintopiste>
         <avoinKK>2.2</avoinKK>
@@ -35,8 +36,9 @@
         <paivittaja>paivittaja2</paivittaja>
         <paivityspaivamaara>1451599200000</paivityspaivamaara>
         <perustutkinto>2.2</perustutkinto>
-        <vieraskielinen>2.2</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>2.2</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </YOOpintopiste>
     <YOOpintopiste>
         <avoinKK>3.3</avoinKK>
@@ -54,7 +56,8 @@
         <paivittaja>paivittaja3</paivittaja>
         <paivityspaivamaara>1451599200000</paivityspaivamaara>
         <perustutkinto>3.3</perustutkinto>
-        <vieraskielinen>3.3</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>3.3</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </YOOpintopiste>
 </Result>

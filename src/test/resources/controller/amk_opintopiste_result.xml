@@ -20,8 +20,9 @@
         <tkiHarjoittelunLaajuus>0.0</tkiHarjoittelunLaajuus>
         <tkiMuutLaajuus>0.0</tkiMuutLaajuus>
         <tkiToiminnanLaajuus>0.0</tkiToiminnanLaajuus>
-        <vieraskielinen>0.0</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>0.0</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </AMKOpintopiste>
     <AMKOpintopiste>
         <avoinKK>0.0</avoinKK>
@@ -43,8 +44,9 @@
         <tkiHarjoittelunLaajuus>0.0</tkiHarjoittelunLaajuus>
         <tkiMuutLaajuus>0.0</tkiMuutLaajuus>
         <tkiToiminnanLaajuus>0.0</tkiToiminnanLaajuus>
-        <vieraskielinen>0.0</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>0.0</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </AMKOpintopiste>
     <AMKOpintopiste>
         <avoinKK>0.0</avoinKK>
@@ -66,8 +68,9 @@
         <tkiHarjoittelunLaajuus>0.0</tkiHarjoittelunLaajuus>
         <tkiMuutLaajuus>0.0</tkiMuutLaajuus>
         <tkiToiminnanLaajuus>0.0</tkiToiminnanLaajuus>
-        <vieraskielinen>0.0</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>0.0</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </AMKOpintopiste>
     <AMKOpintopiste>
         <avoinKK>0.0</avoinKK>
@@ -89,7 +92,8 @@
         <tkiHarjoittelunLaajuus>0.0</tkiHarjoittelunLaajuus>
         <tkiMuutLaajuus>0.0</tkiMuutLaajuus>
         <tkiToiminnanLaajuus>0.0</tkiToiminnanLaajuus>
-        <vieraskielinen>0.0</vieraskielinen>
-        <vuosi>2016</vuosi>
+        <ulkomaaHarjoittelu>0.0</ulkomaaHarjoittelu>
+		<vieraskielinen>0.0</vieraskielinen>
+        <vuosi>2016</vuosi>		
     </AMKOpintopiste>
 </Result>

@@ -13,11 +13,11 @@ public class YOOpintopisteRepositoryTest extends BaseRepositoryTest<YOOpintopist
 
     @Test
     public void testStreamAll() throws Exception {
-        assertStreamResults(Arrays.asList(createEntity("db1", "123abc", 2016, "Desc", 2.5, 1L, 1.1),
-                createEntity("db2", "234abc",  2017, "Desc2", 3.5, 2L, 2.2)), repository.streamAll());
+        assertStreamResults(Arrays.asList(createEntity("db1", "123abc", 2016, "Desc", 2.5, 1L, 1.1, 0.0),
+                createEntity("db2", "234abc",  2017, "Desc2", 3.5, 2L, 2.2, 0.0)), repository.streamAll());
     }
 
-    private YOOpintopiste createEntity(String db, String koodi, int vuosi, String kuvaus, double hyvaksiluetut, long id, double erillinenopettaja) {
+    private YOOpintopiste createEntity(String db, String koodi, int vuosi, String kuvaus, double hyvaksiluetut, long id, double erillinenopettaja, double ulkomaaharjoittelu) {
         YOOpintopiste op = new YOOpintopiste();
         op.setDb(db);
         op.setKoodi(koodi);
@@ -26,6 +26,7 @@ public class YOOpintopisteRepositoryTest extends BaseRepositoryTest<YOOpintopist
         op.setKuvaus(kuvaus);
         op.setHyvaksiluetut(hyvaksiluetut);
         op.setErillinenopettaja(erillinenopettaja);
+		op.setUlkomaaHarjoittelu(ulkomaaharjoittelu);
         em.persist(op);
         return op;
     }

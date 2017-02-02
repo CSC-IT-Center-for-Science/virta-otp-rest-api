@@ -13,11 +13,11 @@ public class AMKOpintopisteRepositoryTest extends BaseRepositoryTest<AMKOpintopi
 
     @Test
     public void testStreamAll() throws Exception {
-        assertStreamResults(Arrays.asList(createEntity("db1", "123abc", "abcd", 2016, "Desc", 2.5, 1L),
-                createEntity("db2", "234abc", "bcde", 2017, "Desc2", 3.5, 2L)), repository.streamAll());
+        assertStreamResults(Arrays.asList(createEntity("db1", "123abc", "abcd", 2016, "Desc", 2.5, 1L, 0.0),
+                createEntity("db2", "234abc", "bcde", 2017, "Desc2", 3.5, 2L, 0.0)), repository.streamAll());
     }
 
-    private AMKOpintopiste createEntity(String db, String koodi, String koulutustyyppi, int vuosi, String kuvaus, double hyvaksiluetut, long id) {
+    private AMKOpintopiste createEntity(String db, String koodi, String koulutustyyppi, int vuosi, String kuvaus, double hyvaksiluetut, long id, double ulkomaaharjoittelu) {
         AMKOpintopiste op = new AMKOpintopiste();
         op.setDb(db);
         op.setKoodi(koodi);
@@ -26,6 +26,7 @@ public class AMKOpintopisteRepositoryTest extends BaseRepositoryTest<AMKOpintopi
         op.setId(id);
         op.setKuvaus(kuvaus);
         op.setHyvaksiluetut(hyvaksiluetut);
+		op.setUlkomaaHarjoittelu(ulkomaaharjoittelu);
         em.persist(op);
         return op;
     }
