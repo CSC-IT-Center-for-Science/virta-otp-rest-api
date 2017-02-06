@@ -22,3 +22,6 @@ TRUNCATE TABLE Uraseuranta;
 TRUNCATE TABLE TK_tutk_AMK;
 TRUNCATE TABLE TK_tutk_YO;
 TRUNCATE TABLE Avoimet_Erilliset_YO;
+TRUNCATE TABLE Liikennevalot;
+TRUNCATE TABLE viis_viis;
+TRUNCATE TABLE TK_Tutk_Ennakko;
