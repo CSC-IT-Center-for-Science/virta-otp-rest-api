@@ -1,3 +1,9 @@
+# Tietosisältökuvaukset
+* Linkki kuvaukseen, jos on
+* Jos ei kuvausta, sarakkeiden määrittelyt
+* Kuinka paljon historiatietoa kyseisestä lähteestä löytyy
+* Kuinka usein tieto päivittyy
+
 ## Suorat tiedonkeruut
 
 ### /AMK7SuoratTK
