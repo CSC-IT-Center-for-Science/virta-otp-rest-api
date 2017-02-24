@@ -1,61 +1,61 @@
-# Suorat tiedonkeruut
+## Suorat tiedonkeruut
 
-## AMK7SuoratTK
+### /AMK7SuoratTK
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
 TODO kuvaus
 
-## AMK8SuoratTK
+### /AMK8SuoratTK
 https://confluence.csc.fi/pages/viewpage.action?pageId=62049853
 TODO kuvaus
 
-## AvoimetErillisetYO
+### /AvoimetErillisetYO
 TODO kuvaus
 
-## AMKOpintopiste
+### /AMKOpintopiste
 TODO kuvaus
 
-## YOOpintopiste
+### /YOOpintopiste
 TODO kuvaus
 
-## AmkAvoimenOpintopisteetJarj
+### /AmkAvoimenOpintopisteetJarj
 TODO kuvaus
 
-## YOAvoimenOpintopisteetJarj
+### /YOAvoimenOpintopisteetJarj
 TODO kuvaus
 
-# Kansainvälisyystiedonkeruu
+## Kansainvälisyystiedonkeruu
 
-## CIMOLyhytLahteva
+### /CIMOLyhytLahteva
 TODO kuvaus
 
-## CIMOLyhytSaapuva
+### /CIMOLyhytSaapuva
 TODO kuvaus
 
-## CIMOPitkaSaapuva
+### /CIMOPitkaSaapuva
 TODO kuvaus
 
-## CIMOPitkaLahteva
+### /CIMOPitkaLahteva
 TODO kuvaus
 
-# Tilastokeskuksen tiedonkeruut
+## Tilastokeskuksen tiedonkeruut
 
-## TKTutkYO
+### /TKTutkYO
 TODO kuvaus
 
-## TKTutkAMK
+### /TKTutkAMK
 TODO kuvaus
 
-## TKTutkintoEnnakko
+### /TKTutkintoEnnakko
 TODO kuvaus
 
-# OKM tiedonkeruut
+## OKM tiedonkeruut
 TODO kuvaus
 
-## ViisViis
+### /ViisViis
 TODO
 
-# Laaduntarkistus
+## Laaduntarkistus
 
-## Liikennevalot
+### /Liikennevalot
 TODO kuvaus
 
