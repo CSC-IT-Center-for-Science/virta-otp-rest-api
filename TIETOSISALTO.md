@@ -51,14 +51,14 @@ TODO kuvaus
 ### /TKTutkAMK
 TODO kuvaus
 
-### /TKTutkintoEnnakko
-TODO kuvaus
-
 ## OKM tiedonkeruut
 TODO kuvaus
 
 ### /ViisViis
 TODO
+
+### /TKTutkintoEnnakko
+TODO kuvaus
 
 ## Laaduntarkistus
 
