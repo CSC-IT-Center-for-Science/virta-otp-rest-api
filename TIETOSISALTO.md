@@ -11,6 +11,7 @@
 Avoimen ammattikorkeakoulukoulun opiskelijat tilasto. 
 Tilastovuonna avoimeen korkeakouluun ilmoittautuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
+Sarakkeet/tiedot:</br>
 <b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
 <b>miehia</b></br>
 <b>naisia</b></br>
@@ -27,27 +28,28 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
 Opetus- ja kulttuuriministeriön maahanmuuttajien valmentavan koulutuksen tilasto.
 Tilastovuonna valmentaavaan koulutukseen osallistuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
+Sarakkeet/tiedot:</br>
 <b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
 <b>miehia</b></br>
 <b>naisia</b></br>
 <b>organisaatiokoodi</b> (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+</br>
 
 
-
-https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
-https://confluence.csc.fi/display/VIRTA/Maahanmuuttajien+valmentavaan+koulutukseen+osallistuneet
+https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus </br>
+https://confluence.csc.fi/display/VIRTA/Maahanmuuttajien+valmentavaan+koulutukseen+osallistuneet </br>
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
 
 
 ### /AvoimetErillisetYO
 
-Tutkinnon osat avoimessa yliopisto-opetuksessa ja erillisinä opintoina
-
-https://confluence.csc.fi/pages/viewpage.action?pageId=62049880
-https://confluence.csc.fi/pages/viewpage.action?pageId=65905980
-
-
+Tutkinnon osat avoimessa yliopisto-opetuksessa ja erillisinä opintoina</br>
+</br>
+https://confluence.csc.fi/pages/viewpage.action?pageId=62049880 </br>
+https://confluence.csc.fi/pages/viewpage.action?pageId=65905980 </br>
+</br>
+Sarakkeet/tiedot:</br>
 <b>avoMiehet</b>  = Avoimen yliopisto-opetuksen opiskelijat, ei-asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
 <b>avoNaiset</b>  = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset  </br>
 <b>avoTutkintoMiehet</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
@@ -60,15 +62,16 @@ https://confluence.csc.fi/pages/viewpage.action?pageId=65905980
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
-
+</br>
 
 ### /AMKOpintopiste
 
-Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
+Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.</br>
 
-https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
-https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
-
+https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu </br>
+https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK </br>
+</br>
+Sarakkeet/tiedot:</br>
 <b>avoinKK</b> = Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet </br>
 <b>db</b> = Korkeakoulun lyhenne  </br>
 <b>erikoistumisopinnot</b> = Erikoistumiskoulutuksessa suoritetut opintopisteet </br>
@@ -94,17 +97,18 @@ https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
 Tilastovuonna 2016 ulkomaan pisteet <b>hyvaksiluetut</b> myös vuoden 2015 pisteet.
-
+</br>
 
 
 ### /YOOpintopiste
 
-Yliopistoissa tilastovuonna suoritetut opintopisteet.
+Yliopistoissa tilastovuonna suoritetut opintopisteet. </br>
 
-https://confluence.csc.fi/display/suorat/YO+3.2.+Opintopistetiedonkeruu
-https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+YO
+https://confluence.csc.fi/display/suorat/YO+3.2.+Opintopistetiedonkeruu </br>
+https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+YO </br>
+</br>
 
-
+Sarakkeet/tiedot:</br>
 <b>avoinKK</b> =  Avoimessa korkeakouluopetuksessa suoritetut opintopisteet</br>
 <b>db</b> = Korkeakoulun lyhenne  </br>
 <b>erikoistumisopinnot</b> = Erikoistumiskoulutuksessa suoritetut opintopisteet </br>
