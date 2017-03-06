@@ -7,10 +7,13 @@
 ## Suorat tiedonkeruut
 
 ### /AMK7SuoratTK
+https://confluence.csc.fi/display/suorat/AMK+3.6.+Avoimen+ammattikorkeakoulun+opiskelijat
+https://confluence.csc.fi/display/VIRTA/Avoimen+ammattikorkeakoulun+opiskelijat
 
 TODO kuvaus
 
 ### /AMK8SuoratTK
+https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
 
 TODO kuvaus
