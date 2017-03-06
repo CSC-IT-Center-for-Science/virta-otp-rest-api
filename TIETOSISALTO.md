@@ -7,11 +7,12 @@
 ## Suorat tiedonkeruut
 
 ### /AMK7SuoratTK
-https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
+
 TODO kuvaus
 
 ### /AMK8SuoratTK
-https://confluence.csc.fi/pages/viewpage.action?pageId=62049853
+https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
+
 TODO kuvaus
 
 ### /AvoimetErillisetYO
