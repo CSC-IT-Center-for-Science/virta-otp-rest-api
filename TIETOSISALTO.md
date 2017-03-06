@@ -50,8 +50,8 @@ https://confluence.csc.fi/pages/viewpage.action?pageId=62049880 </br>
 https://confluence.csc.fi/pages/viewpage.action?pageId=65905980 </br>
 </br>
 Sarakkeet/tiedot:</br>
-<b>avoMiehet</b>  = Avoimen yliopisto-opetuksen opiskelijat, ei-asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
-<b>avoNaiset</b>  = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset  </br>
+<b>avoMiehet</b>  = Avoimen yliopisto-opetuksen opiskelijat, <b>ei-asianomaisen</b> yliopiston tutkinto-opiskelija, miehet </br>
+<b>avoNaiset</b>  = Avoimen yliopisto-opetuksen opiskelijat, <b>ei-asianomaisen</b> yliopiston tutkinto-opiskelija, naiset  </br>
 <b>avoTutkintoMiehet</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
 <b>avoTutkintoNaiset</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset </br>
 <b>erillisetOikeudet</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opiskelleiden henkilöiden lukumäärä </br>
