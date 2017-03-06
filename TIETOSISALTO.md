@@ -69,6 +69,30 @@ Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
 https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
 https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
+<b>avoinKK</b> = 		</br>
+<b>db</b>  = 	Korkeakoulun lyhenne </br>	
+<b>erikoistumisopinnot</b>	 = </br>
+<b>erillinenOO</b>  = </br>
+<b>hyvaksiluetut</b>  = 	</br>
+<b>joo</b>  = </br>
+<b>koodi</b>  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto 
+<b>kuvaus</b>  = </br> = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>kvVaihto</b>	 = </br> 
+<b>luoja</b> = tiedon luoja käyttäjätunnus</br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä</br>
+<b>mValKo</b>  = </br>
+<b>paivittaja</b>= tiedon päivittäjä</br>
+<b>paivityspaivamaara</b> = tiedon päivityspäivämäärä</br>
+<b>perustutkinto</b>  = </br>
+<b>tkiHarjoittelunLaajuus</b> = </br>
+<b>tkiMuutLaajuus</b>  = </br>
+<b>tkiToiminnanLaajuus</b>  = </br>
+<b>ulkomaaHarjoittelu</b>  = </br>
+<b>vieraskielinen</b> = 
+<b>vuosi</b> = tilastovuosi </br>
+
+
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
 Tilastovuonna 2016. ulkomaan pisteet myös vuoden 2015 tiedot.
