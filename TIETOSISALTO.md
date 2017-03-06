@@ -52,8 +52,8 @@ https://confluence.csc.fi/pages/viewpage.action?pageId=65905980 </br>
 Sarakkeet/tiedot:</br>
 <b>avoMiehet</b>  = Avoimen yliopisto-opetuksen opiskelijat, <b>ei-asianomaisen</b> yliopiston tutkinto-opiskelija, miehet </br>
 <b>avoNaiset</b>  = Avoimen yliopisto-opetuksen opiskelijat, <b>ei-asianomaisen</b> yliopiston tutkinto-opiskelija, naiset  </br>
-<b>avoTutkintoMiehet</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
-<b>avoTutkintoNaiset</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset </br>
+<b>avoTutkintoMiehet</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston <b>tutkinto-opiskelija</b>, miehet </br>
+<b>avoTutkintoNaiset</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston <b>tutkinto-opiskelija</b>, naiset </br>
 <b>erillisetOikeudet</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opiskelleiden henkilöiden lukumäärä </br>
 <b>erillisetOpettajat</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opettajankoulutuksen opintoja opiskelleiden henkilöiden lukumäärä </br>
 <b>kk</b> = 	Korkeakoulun lyhenne </br>
