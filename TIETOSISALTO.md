@@ -69,6 +69,7 @@ Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
 https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
 https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
+
 <b>avoinKK</b> = 	Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet	</br>
 <b>db</b>  = 	Korkeakoulun lyhenne </br>	
 <b>erikoistumisopinnot</b>	 = Erikoistumiskoulutuksessa suoritetut opintopisteet</br>
@@ -76,7 +77,7 @@ https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 <b>hyvaksiluetut</b>  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet	</br>
 <b>joo</b>  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
 <b>koodi</b>  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)
+<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)</br>
 <b>kuvaus</b>  = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
 <b>kvVaihto</b>	 = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
 <b>luoja</b> = tiedon luoja käyttäjätunnus</br>
