@@ -69,30 +69,28 @@ Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
 https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
 https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
-
-<b>avoinKK</b> = 	Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet	</br>
-<b>db</b>  = 	Korkeakoulun lyhenne </br>	
-<b>erikoistumisopinnot</b>	 = Erikoistumiskoulutuksessa suoritetut opintopisteet</br>
-<b>erillinenOO</b>  = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br>
-<b>hyvaksiluetut</b>  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet	</br>
-<b>joo</b>  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
-<b>koodi</b>  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)</br>
-<b>kuvaus</b>  = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>kvVaihto</b>	 = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
-<b>luoja</b> = tiedon luoja käyttäjätunnus</br>
-<b>luontipaivamaara</b> = tiedonluontipäivämäärä</br>
-<b>mValKo</b>  = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet</br>
-<b>paivittaja</b>= tiedon päivittäjä</br>
-<b>paivityspaivamaara</b> = tiedon päivityspäivämäärä</br>
-<b>perustutkinto</b>  = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br>
-<b>tkiHarjoittelunLaajuus</b> = TKI-hankkeessa suoritetut opintopisteet / harjoittelu</br>
-<b>tkiMuutLaajuus</b>  = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu</br>
-<b>tkiToiminnanLaajuus</b>  = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet</br>
-<b>ulkomaaHarjoittelu</b>  = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br>
-<b>vieraskielinen</b> = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet </br>
-<b>vuosi</b> = tilastovuosi </br>
-
+avoinKK = 	Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet	</br>
+db  = 	Korkeakoulun lyhenne </br>	
+erikoistumisopinnot	 = Erikoistumiskoulutuksessa suoritetut opintopisteet</br>
+erillinenOO  = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br>
+hyvaksiluetut  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet	</br>
+joo  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
+koodi  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+koulutustyyppi = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)</br>
+kuvaus  = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+kvVaihto	 = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
+luoja = tiedon luoja käyttäjätunnus</br>
+luontipaivamaara = tiedonluontipäivämäärä</br>
+mValKo  = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet</br>
+paivittaja= tiedon päivittäjä</br>
+paivityspaivamaara = tiedon päivityspäivämäärä</br>
+perustutkinto  = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br>
+tkiHarjoittelunLaajuus = TKI-hankkeessa suoritetut opintopisteet / harjoittelu</br>
+tkiMuutLaajuus  = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu</br>
+tkiToiminnanLaajuus  = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet</br>
+ulkomaaHarjoittelu  = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br>
+vieraskielinen = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet </br>
+vuosi = tilastovuosi </br>
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
