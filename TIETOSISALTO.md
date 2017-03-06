@@ -13,8 +13,11 @@ opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
 koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )
 miehia
+
 naisia
+
 organisaatio (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)
+
 
 https://confluence.csc.fi/display/suorat/AMK+3.6.+Avoimen+ammattikorkeakoulun+opiskelijat
 https://confluence.csc.fi/display/VIRTA/Avoimen+ammattikorkeakoulun+opiskelijat
