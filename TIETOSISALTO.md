@@ -42,8 +42,10 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
 ### /AvoimetErillisetYO
 
 Tutkinnon osat avoimessa yliopisto-opetuksessa ja erillisinä opintoina
+
 https://confluence.csc.fi/pages/viewpage.action?pageId=62049880
 https://confluence.csc.fi/pages/viewpage.action?pageId=65905980
+
 
 avoMiehet  = Avoimen yliopisto-opetuksen opiskelijat, ei-asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
 avoNaiset  = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset  </br>
@@ -55,14 +57,35 @@ kk = 	Korkeakoulun lyhenne </br>
 organisaatioKoodi = Korkeakoulun oppilaitoskoodi </br>
 vuosi = tilastovuosi </br>
 
+
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
 
 
 ### /AMKOpintopiste
-TODO kuvaus
+
+Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
+
+https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
+https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
+Tilastovuonna 2016. ulkomaan pisteet myös vuoden 2015 tiedot.
+
+
 
 ### /YOOpintopiste
-TODO kuvaus
+
+Yliopistoissa tilastovuonna suoritetut opintopisteet.
+
+https://confluence.csc.fi/display/suorat/YO+3.2.+Opintopistetiedonkeruu
+https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+YO
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
+Tilastovuonna 2016. ulkomaan pisteet myös vuoden 2015 tiedot.
+
+
 
 ### /AmkAvoimenOpintopisteetJarj
 TODO kuvaus
