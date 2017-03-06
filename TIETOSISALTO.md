@@ -21,7 +21,7 @@ Sarakkeet/tiedot:</br>
 https://confluence.csc.fi/display/suorat/AMK+3.6.+Avoimen+ammattikorkeakoulun+opiskelijat
 https://confluence.csc.fi/display/VIRTA/Avoimen+ammattikorkeakoulun+opiskelijat
 
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto.
 
 ### /AMK8SuoratTK
 
@@ -39,7 +39,7 @@ Sarakkeet/tiedot:</br>
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus </br>
 https://confluence.csc.fi/display/VIRTA/Maahanmuuttajien+valmentavaan+koulutukseen+osallistuneet </br>
 
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto.
 
 
 ### /AvoimetErillisetYO
@@ -61,7 +61,7 @@ Sarakkeet/tiedot:</br>
 <b>vuosi</b> = tilastovuosi </br>
 
 
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto.
 </br>
 
 ### /AMKOpintopiste
@@ -95,7 +95,7 @@ Sarakkeet/tiedot:</br>
 <b>vieraskielinen</b> = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet  </br>
 <b>vuosi</b> = tilastovuosi  </br>
 
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. 
 Tilastovuonna 2016 ulkomaan pisteet kalenterivuoden 2016 pisteet ja huomioitava että kerätään lisäksi erikseen myös <b>hyvaksiluetut</b> tilastovuoden 2015 pisteet, tilastovuosi 2015.
 </br>
 
@@ -129,7 +129,7 @@ Sarakkeet/tiedot:</br>
 <b>vuosi</b> = tilastovuosi  </br>
 
 
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. 
 Tilastovuonna 2016 ulkomaan pisteet kalenterivuoden 2016 pisteet ja huomioitava että kerätään lisäksi erikseen myös <b>hyvaksiluetut</b> tilastovuoden 2015 pisteet, tilastovuosi 2015.
 </br>
 
@@ -158,7 +158,7 @@ Sarakkeet/tiedot:</br>
 
 
 </br>
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. </br>
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 
 ### /YOAvoimenOpintopisteetJarj
@@ -184,7 +184,7 @@ Sarakkeet/tiedot:</br>
 
 
 </br>
-Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. </br>
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 
 ## Kansainvälisyystiedonkeruu
