@@ -190,15 +190,27 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä
 ## Kansainvälisyystiedonkeruu
 
 ### /CIMOLyhytLahteva
+
+https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
+
 TODO kuvaus
 
 ### /CIMOLyhytSaapuva
+
+https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
+
 TODO kuvaus
 
 ### /CIMOPitkaSaapuva
+
+https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
+
 TODO kuvaus
 
 ### /CIMOPitkaLahteva
+
+https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
+
 TODO kuvaus
 
 ## Tilastokeskuksen tiedonkeruut
