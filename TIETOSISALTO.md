@@ -18,6 +18,7 @@ TODO kuvaus
 
 ### /AMK8SuoratTK
 
+Opetus- ja kulttuuriministeriön maahanmuuttajien valmentavan koulutuksen tilasto.
 Tilastovuonna valmentaavaan koulutukseen osallistuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
