@@ -11,10 +11,10 @@
 Avoimen ammattikorkeakoulukoulun opiskelijat tilasto. 
 Tilastovuonna avoimeen korkeakouluun ilmoittautuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
-koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-miehia</br>
-naisia</br>
-organisaatio (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>miehia</b></br>
+<b>naisia</b></br>
+<b>organisaatiokoodi</b> (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
 
 
 https://confluence.csc.fi/display/suorat/AMK+3.6.+Avoimen+ammattikorkeakoulun+opiskelijat
@@ -27,10 +27,11 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
 Opetus- ja kulttuuriministeriön maahanmuuttajien valmentavan koulutuksen tilasto.
 Tilastovuonna valmentaavaan koulutukseen osallistuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
-koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-miehia</br>
-naisia</br>
-organisaatio (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>miehia</b></br>
+<b>naisia</b></br>
+<b>organisaatiokoodi</b> (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+
 
 
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
@@ -47,15 +48,15 @@ https://confluence.csc.fi/pages/viewpage.action?pageId=62049880
 https://confluence.csc.fi/pages/viewpage.action?pageId=65905980
 
 
-avoMiehet  = Avoimen yliopisto-opetuksen opiskelijat, ei-asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
-avoNaiset  = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset  </br>
-avoTutkintoMiehet = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
-avoTutkintoNaiset = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset </br>
-erillisetOikeudet = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opiskelleiden henkilöiden lukumäärä </br>
-erillisetOpettajat = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opettajankoulutuksen opintoja opiskelleiden henkilöiden lukumäärä </br>
-kk = 	Korkeakoulun lyhenne </br>
-organisaatioKoodi = Korkeakoulun oppilaitoskoodi </br>
-vuosi = tilastovuosi </br>
+<b>avoMiehet</b>  = Avoimen yliopisto-opetuksen opiskelijat, ei-asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
+<b>avoNaiset</b>  = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset  </br>
+<b>avoTutkintoMiehet</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, miehet </br>
+<b>avoTutkintoNaiset</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset </br>
+<b>erillisetOikeudet</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opiskelleiden henkilöiden lukumäärä </br>
+<b>erillisetOpettajat</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opettajankoulutuksen opintoja opiskelleiden henkilöiden lukumäärä </br>
+<b>kk = 	Korkeakoulun lyhenne </br>
+<b>organisaatioKoodi</b> = Korkeakoulun oppilaitoskoodi </br>
+<b>vuosi</b> = tilastovuosi </br>
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto.
