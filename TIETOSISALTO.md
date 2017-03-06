@@ -96,7 +96,7 @@ Sarakkeet/tiedot:</br>
 <b>vuosi</b> = tilastovuosi  </br>
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
-Tilastovuonna 2016 ulkomaan pisteet <b>hyvaksiluetut</b> myös vuoden 2015 pisteet.
+Tilastovuonna 2016 ulkomaan pisteet kalenterivuoden 2016 pisteet ja huomioitava että kerätään lisäksi erikseen myös <b>hyvaksiluetut</b> tilastovuoden 2015 pisteet, tilastovuosi 2015.
 </br>
 
 
@@ -130,7 +130,8 @@ Sarakkeet/tiedot:</br>
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
-Tilastovuonna 2016 ulkomaan pisteet <b>hyvaksiluetut</b> myös vuoden 2015 pisteet.
+Tilastovuonna 2016 ulkomaan pisteet kalenterivuoden 2016 pisteet ja huomioitava että kerätään lisäksi erikseen myös <b>hyvaksiluetut</b> tilastovuoden 2015 pisteet, tilastovuosi 2015.
+</br>
 
 
 
