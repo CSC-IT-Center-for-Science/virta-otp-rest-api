@@ -347,7 +347,7 @@ https://extra.vipunen.fi/opintotiedot/Sivut/Tiedon-laatu.aspx
 
 
 <b>edellinenSyysolo</b> = edellisen lukuvuoden syysläsnäolotieto, opintopistelaskennan lukuvuoden syyslukukausi läsnäolotieto (1=läsnä,2=poissa,0=tieto puuttuu)</br>
-<b>hetu</b> Opiskelijan henkilötunnus, syntymäaika</br>
+<b>hetu</b> = Opiskelijan henkilötunnus, syntymäaika</br>
 <b>kevat</b> = Kevätlukukauden (1.1-31.7.tilastovuosi) opintopisteet yhteensä</br>
 <b>loAloituspvm</b> = Ensimmäinen läsnäolopäivämäärä </br>
 <b>olok</b> = Tilastovuoden kevätläsnäolotieto (1=läsnä,2=poissa,0=tieto puuttuu)</br>
@@ -379,6 +379,7 @@ Ei historiatietoja. Viimeisen 55 op laskennan mukaiset tiedot.
 
 ### /TKTutkintoEnnakko
 TODO kuvaus
+
 
 ## Laaduntarkistus
 
