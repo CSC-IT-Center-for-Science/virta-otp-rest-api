@@ -12,11 +12,8 @@ Avoimen ammattikorkeakoulukoulun opiskelijat tilasto.
 Tilastovuonna avoimeen korkeakouluun ilmoittautuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
 koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )
-
 miehia
-
 naisia
-
 organisaatio (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)
 
 
@@ -34,6 +31,7 @@ koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+
 miehia
 naisia
 organisaatio (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)
+
 
 https://confluence.csc.fi/display/suorat/AMK+3.7.+Maahanmuuttajien+valmentava+koulutus
 https://confluence.csc.fi/display/VIRTA/Maahanmuuttajien+valmentavaan+koulutukseen+osallistuneet
