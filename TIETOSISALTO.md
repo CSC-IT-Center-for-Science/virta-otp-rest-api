@@ -13,9 +13,9 @@ Tilastovuonna avoimeen korkeakouluun ilmoittautuneet opiskelijat koulutusaloitta
 
 Sarakkeet/tiedot:</br>
 <b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>miehia</b></br>
-<b>naisia</b></br>
-<b>organisaatiokoodi</b> (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>miehia</b> = miesten lukumäärä</br>
+<b>naisia</b> = naisten lukumäärä</br>
+<b>organisaatiokoodi</b> = Korkeakoulun oppilaitoskoodi  (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
 
 
 https://confluence.csc.fi/display/suorat/AMK+3.6.+Avoimen+ammattikorkeakoulun+opiskelijat
@@ -30,9 +30,9 @@ Tilastovuonna valmentaavaan koulutukseen osallistuneet opiskelijat koulutusaloit
 
 Sarakkeet/tiedot:</br>
 <b>koulutusala</b> (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>miehia</b></br>
-<b>naisia</b></br>
-<b>organisaatiokoodi</b> (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>miehia</b> = miesten lukumäärä</br>
+<b>naisia</b> = naisten lukumäärä</br>
+<b>organisaatiokoodi</b>  = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
 </br>
 
 
