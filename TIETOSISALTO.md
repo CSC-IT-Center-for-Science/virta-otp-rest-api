@@ -191,40 +191,149 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä
 
 ### /CIMOLyhytLahteva
 
+Lyhytkestoiset lähtevät liikkuvuusjaksot (1 vk - alle 3 kk)
+
 https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
 
-TODO kuvaus
+
+<b>hetu</b> </br>
+<b>jaksoAlkupvm</b>  = Liikkuvusjakson/vaihdon aloituspäivämäärä </br>
+<b>jaksoLoppupvm</b> = Liikkuvusjakson/vaihdon päättymispäivämäärä</br>
+<b>kesto</b>  = Liikkuvuuden/vaihdon kesto, päiviä  </br>
+<b>kohdemaa</b> = vaihdon kohdemaa 000-999</br>
+<b>koultyp</b> = koulutuksen tyyppi (vain AMK) 1, 2 tai 6 </br>
+<b>koulutusala</b> koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>koulutuskoodi</b> = koulutuskoodi, Tilastokeskuksen 6-numeroinen koulutuskoodi https://virkailija.opintopolku.fi/koodisto-service/rest/koulutus/koodi</br>
+<b>liikkuvuusjaksoId</b>  = Liikkuvuusjakson id</br>
+<b>liikkuvuusjaksoavain</b> = Liikkuvuusjakson yksilövä tunniste</br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintoaste</b> = opintoaste (vain YO) 1, 2 tai 3  </br>
+<b>opiskelijaId</b> = Opiskelijan id </br>
+<b>opiskelijaavain</b> = Opiskelijan yksilövä tunniste </br>
+<b>opiskeluoikeusId</b> = Opiskeluoikeuden id</br>
+<b>opiskeluoikeusavain</b>  = Opiskeluoikeuden yksilövä tunniste </br>
+<b>oppilaitos</b>  = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi) </br>
+<b>sp</b> = sukupuoli 1=mies, 2=nainen, tai 9=tuntemton </br>
+<b>tyyppi</b> = liikkuvuuden tyyppi 1=lähtevä, 2=Saapuva</br>
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ### /CIMOLyhytSaapuva
 
+Lyhytkestoiset saapuvat liikkuvuusjaksot (1 vk - alle 3 kk)
+
 https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
 
-TODO kuvaus
+<b>hetu</b> </br>
+<b>jaksoAlkupvm</b>  = Liikkuvusjakson/vaihdon aloituspäivämäärä </br>
+<b>jaksoLoppupvm</b> = Liikkuvusjakson/vaihdon päättymispäivämäärä</br>
+<b>kesto</b>  = Liikkuvuuden/vaihdon kesto, päiviä  </br>
+<b>koultyp</b> = koulutuksen tyyppi (vain AMK) 1, 2 tai 6 </br>
+<b>koulutusala</b> koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>koulutuskoodi</b> = koulutuskoodi, Tilastokeskuksen 6-numeroinen koulutuskoodi https://virkailija.opintopolku.fi/koodisto-service/rest/koulutus/koodi</br>
+<b>lahtomaa</b> = Lähtömaa</br>
+<b>liikkuvuusjaksoId</b>  = Liikkuvuusjakson id</br>
+<b>liikkuvuusjaksoavain</b> = Liikkuvuusjakson yksilövä tunniste</br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintoaste</b> = opintoaste (vain YO) 1, 2 tai 3  </br>
+<b>opiskelijaId</b> = Opiskelijan id </br>
+<b>opiskelijaavain</b> = Opiskelijan yksilövä tunniste </br>
+<b>opiskeluoikeusId</b> = Opiskeluoikeuden id</br>
+<b>opiskeluoikeusavain</b>  = Opiskeluoikeuden yksilövä tunniste </br>
+<b>oppilaitos</b>  = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>sp</b> = sukupuoli 1=mies, 2=nainen, tai 9=tuntemton </br>
+<b>tyyppi</b> = liikkuvuuden tyyppi 1=lähtevä, 2=Saapuva</br>
+
+
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ### /CIMOPitkaSaapuva
 
+Pitkäkestoiset saapuvat liikkuvuusjaksot (väh. 3 kk)
+
 https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
 
-TODO kuvaus
+
+<b>hetu</b> </br>
+<b>jaksoAlkupvm</b>  = Liikkuvusjakson/vaihdon aloituspäivämäärä </br>
+<b>jaksoLoppupvm</b> = Liikkuvusjakson/vaihdon päättymispäivämäärä</br>
+<b>kesto</b>  = Liikkuvuuden/vaihdon kesto, päiviä  </br>
+<b>koultyp</b> = koulutuksen tyyppi (vain AMK) 1, 2 tai 6 </br>
+<b>koulutusala</b> koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>koulutuskoodi</b> = koulutuskoodi, Tilastokeskuksen 6-numeroinen koulutuskoodi https://virkailija.opintopolku.fi/koodisto-service/rest/koulutus/koodi</br>
+<b>lahtomaa</b> = Lähtömaa</br>
+<b>liikkuvuusjaksoId</b>  = Liikkuvuusjakson id</br>
+<b>liikkuvuusjaksoavain</b> = Liikkuvuusjakson yksilövä tunniste</br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintoaste</b> = opintoaste (vain YO) 1, 2 tai 3  </br>
+<b>opiskelijaId</b> = Opiskelijan id </br>
+<b>opiskelijaavain</b> = Opiskelijan yksilövä tunniste </br>
+<b>opiskeluoikeusId</b> = Opiskeluoikeuden id</br>
+<b>opiskeluoikeusavain</b>  = Opiskeluoikeuden yksilövä tunniste </br>
+<b>oppilaitos</b>  =Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>sp</b> = sukupuoli 1=mies, 2=nainen, tai 9=tuntemton </br>
+<b>tyyppi</b> = liikkuvuuden tyyppi 1=lähtevä, 2=Saapuva</br>
+	
+
+
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ### /CIMOPitkaLahteva
 
+Pitkäkestoiset lähtevät liikkuvuusjaksot (väh. 3 kk)
+
 https://confluence.csc.fi/display/VIRTA/CIMOn+liikkuvuustiedonkeruu
 
-TODO kuvaus
+
+<b>hetu</b> </br>
+<b>jaksoAlkupvm</b>  = Liikkuvusjakson/vaihdon aloituspäivämäärä </br>
+<b>jaksoLoppupvm</b> = Liikkuvusjakson/vaihdon päättymispäivämäärä</br>
+<b>kesto</b>  = Liikkuvuuden/vaihdon kesto, päiviä  </br>
+<b>kohdemaa</b> = vaihdon kohdemaa 000-999</br>
+<b>koultyp</b> = koulutuksen tyyppi (vain AMK) 1, 2 tai 6 </br>
+<b>koulutusala</b> koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>koulutuskoodi</b> = koulutuskoodi, Tilastokeskuksen 6-numeroinen koulutuskoodi https://virkailija.opintopolku.fi/koodisto-service/rest/koulutus/koodi</br>
+<b>liikkuvuusjaksoId</b>  = Liikkuvuusjakson id</br>
+<b>liikkuvuusjaksoavain</b> = Liikkuvuusjakson yksilövä tunniste</br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintoaste</b> = opintoaste (vain YO) 1, 2 tai 3  </br>
+<b>opiskelijaId</b> = Opiskelijan id </br>
+<b>opiskelijaavain</b> = Opiskelijan yksilövä tunniste </br>
+<b>opiskeluoikeusId</b> = Opiskeluoikeuden id</br>
+<b>opiskeluoikeusavain</b>  = Opiskeluoikeuden yksilövä tunniste </br>
+<b>oppilaitos</b>  = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br>
+<b>sp</b> = sukupuoli 1=mies, 2=nainen, tai 9=tuntemton </br>
+<b>tyyppi</b> = liikkuvuuden tyyppi 1=lähtevä, 2=Saapuva</br>
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ## Tilastokeskuksen tiedonkeruut
 
 ### /TKTutkYO
-TODO kuvaus
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ### /TKTutkAMK
-TODO kuvaus
+
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ## OKM tiedonkeruut
-TODO kuvaus
+
 
 ### /ViisViis
+
 TODO
 
 ### /TKTutkintoEnnakko
