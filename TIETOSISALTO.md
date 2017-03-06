@@ -69,32 +69,32 @@ Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
 https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
 https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
-avoinKK = 	Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet	</br>
-db  = 	Korkeakoulun lyhenne </br>	
-erikoistumisopinnot	 = Erikoistumiskoulutuksessa suoritetut opintopisteet</br>
-erillinenOO  = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br>
-hyvaksiluetut  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet	</br>
-joo  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
-koodi  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-koulutustyyppi = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)</br>
-kuvaus  = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-kvVaihto	 = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
-luoja = tiedon luoja käyttäjätunnus</br>
-luontipaivamaara = tiedonluontipäivämäärä</br>
-mValKo  = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet</br>
-paivittaja= tiedon päivittäjä</br>
-paivityspaivamaara = tiedon päivityspäivämäärä</br>
-perustutkinto  = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br>
-tkiHarjoittelunLaajuus = TKI-hankkeessa suoritetut opintopisteet / harjoittelu</br>
-tkiMuutLaajuus  = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu</br>
-tkiToiminnanLaajuus  = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet</br>
-ulkomaaHarjoittelu  = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br>
-vieraskielinen = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet </br>
-vuosi = tilastovuosi </br>
+<b>avoinKK</b> = Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet 
+<b>db</b> = Korkeakoulun lyhenne 
+<b>erikoistumisopinnot</b> = Erikoistumiskoulutuksessa suoritetut opintopisteet
+<b>erillinenOO</b> = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet
+<b>hyvaksiluetut</b> = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet 
+<b>joo</b> = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet
+<b>koodi</b> = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )
+<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)
+<b>kuvaus</b> = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )
+<b>kvVaihto</b> = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet
+<b>luoja</b> = tiedon luoja käyttäjätunnus
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä
+<b>mValKo</b> = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet
+<b>paivittaja</b> = tiedon päivittäjä
+<b>paivityspaivamaara</b> = tiedon päivityspäivämäärä
+<b>perustutkinto</b> = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet
+<b>tkiHarjoittelunLaajuus</b> = TKI-hankkeessa suoritetut opintopisteet / harjoittelu
+<b>tkiMuutLaajuus</b> = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu
+<b>tkiToiminnanLaajuus</b> = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet
+<b>ulkomaaHarjoittelu</b> = Ulkomaisessa harjoittelussa suoritetut opintopisteet
+<b>vieraskielinen</b> = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet 
+<b>vuosi</b> = tilastovuosi 
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
-Tilastovuonna 2016. ulkomaan pisteet myös vuoden 2015 tiedot.
+Tilastovuonna 2016. ulkomaan pisteet <b>hyvaksiluetut</b> myös vuoden 2015 tiedot.
 
 
 
@@ -107,7 +107,7 @@ https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+YO
 
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. 
-Tilastovuonna 2016. ulkomaan pisteet myös vuoden 2015 tiedot.
+Tilastovuonna 2016. ulkomaan pisteet <b>hyvaksiluetut</b> myös vuoden 2015 tiedot.
 
 
 
