@@ -69,27 +69,27 @@ Ammattikorkeakoulukouluissa tilastovuonna suoritetut opintopisteet.
 https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu
 https://confluence.csc.fi/display/VIRTA/Opintopistetiedonkeruu+AMK
 
-<b>avoinKK</b> = 		</br>
+<b>avoinKK</b> = 	Avoimessa ammattikorkeakouluopetuksessa suoritetut opintopisteet	</br>
 <b>db</b>  = 	Korkeakoulun lyhenne </br>	
-<b>erikoistumisopinnot</b>	 = </br>
-<b>erillinenOO</b>  = </br>
-<b>hyvaksiluetut</b>  = 	</br>
-<b>joo</b>  = </br>
+<b>erikoistumisopinnot</b>	 = Erikoistumiskoulutuksessa suoritetut opintopisteet</br>
+<b>erillinenOO</b>  = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br>
+<b>hyvaksiluetut</b>  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet	</br>
+<b>joo</b>  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
 <b>koodi</b>  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto 
-<b>kuvaus</b>  = </br> = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
-<b>kvVaihto</b>	 = </br> 
+<b>koulutustyyppi</b> = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)
+<b>kuvaus</b>  = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>kvVaihto</b>	 = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
 <b>luoja</b> = tiedon luoja käyttäjätunnus</br>
 <b>luontipaivamaara</b> = tiedonluontipäivämäärä</br>
-<b>mValKo</b>  = </br>
+<b>mValKo</b>  = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet</br>
 <b>paivittaja</b>= tiedon päivittäjä</br>
 <b>paivityspaivamaara</b> = tiedon päivityspäivämäärä</br>
-<b>perustutkinto</b>  = </br>
-<b>tkiHarjoittelunLaajuus</b> = </br>
-<b>tkiMuutLaajuus</b>  = </br>
-<b>tkiToiminnanLaajuus</b>  = </br>
-<b>ulkomaaHarjoittelu</b>  = </br>
-<b>vieraskielinen</b> = 
+<b>perustutkinto</b>  = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br>
+<b>tkiHarjoittelunLaajuus</b> = TKI-hankkeessa suoritetut opintopisteet / harjoittelu</br>
+<b>tkiMuutLaajuus</b>  = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu</br>
+<b>tkiToiminnanLaajuus</b>  = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet</br>
+<b>ulkomaaHarjoittelu</b>  = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br>
+<b>vieraskielinen</b> = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet </br>
 <b>vuosi</b> = tilastovuosi </br>
 
 
