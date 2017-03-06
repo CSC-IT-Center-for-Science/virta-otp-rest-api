@@ -8,10 +8,11 @@
 
 ### /AMK7SuoratTK
 
-Avoimen ammattikorkeakoulukoulun opiskelijat tilasto. Tilastovuonna avoimeen korkeakouluun ilmoittautuneet
-opiskelijat koulutusaloittain miehet, naiset per organisaatio
+Avoimen ammattikorkeakoulukoulun opiskelijat tilasto. 
+Tilastovuonna avoimeen korkeakouluun ilmoittautuneet opiskelijat koulutusaloittain miehet, naiset per organisaatio
 
 koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )
+
 miehia
 
 naisia
