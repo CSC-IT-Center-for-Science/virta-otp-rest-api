@@ -321,11 +321,17 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä
 
 ### /TKTutkYO
 
+Tilastokeskuksen tutkintotiedonkeruu yliopistot
+
+https://confluence.csc.fi/display/VIRTA/Tilastokeskuksen+tutkintotiedonkeruu+yliopistot
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 ### /TKTutkAMK
 
+Tilastokeskuksen tutkintotiedonkeruu ammattikorkeakoulut
+
+https://confluence.csc.fi/display/VIRTA/Tilastokeskuksen+tutkintotiedonkeruu+ammattikorkeakoulut
 
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
