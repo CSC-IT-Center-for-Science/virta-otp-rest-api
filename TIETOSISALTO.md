@@ -348,5 +348,12 @@ TODO kuvaus
 ## Laaduntarkistus
 
 ### /Liikennevalot
-TODO kuvaus
+
+Korkeakoulujen valtakunnallisen tietovarannon VIRTA, tietosisallön laadun liikennevalot
+
+https://confluence.csc.fi/display/VIRTA/Tietosisallon+laadun+liikennevalot
+
+
+Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
+
 
