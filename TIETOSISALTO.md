@@ -340,6 +340,11 @@ Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä
 
 ### /ViisViis
 
+Väh. 55 op suorittaneet
+
+https://confluence.csc.fi/display/VIRTA/55+op+laskennan+poimintakuvaus </br>
+https://extra.vipunen.fi/opintotiedot/Sivut/Tiedon-laatu.aspx
+
 TODO
 
 ### /TKTutkintoEnnakko
