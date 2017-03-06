@@ -345,7 +345,37 @@ Väh. 55 op suorittaneet
 https://confluence.csc.fi/display/VIRTA/55+op+laskennan+poimintakuvaus </br>
 https://extra.vipunen.fi/opintotiedot/Sivut/Tiedon-laatu.aspx
 
-TODO
+
+<b>edellinenSyysolo</b> = edellisen lukuvuoden syysläsnäolotieto, opintopistelaskennan lukuvuoden syyslukukausi läsnäolotieto (1=läsnä,2=poissa,0=tieto puuttuu)</br>
+<b>hetu</b> Opiskelijan henkilötunnus, syntymäaika</br>
+<b>kevat</b> = Kevätlukukauden (1.1-31.7.tilastovuosi) opintopisteet yhteensä</br>
+<b>loAloituspvm</b> = Ensimmäinen läsnäolopäivämäärä </br>
+<b>olok</b> = Tilastovuoden kevätläsnäolotieto (1=läsnä,2=poissa,0=tieto puuttuu)</br>
+<b>olos</b> = Tilastovuoden syysläsnäolotieto (1=läsnä,2=poissa,0=tieto puuttuu)</br>
+<b>ooAloituspvm</b> = Opiskeluoikeuden alkamispäivämäärä </br>
+<b>opSummaKunOtePankista</b> = Opintopistesumma kun otettu pankista</br>
+<b>opiskelijaavain</b> = Opiskelijan yksilövä tunniste </br>
+<b>opiskeluoikeusavain</b>  = Opiskeluoikeuden yksilövä tunniste </br>
+<b>opiskeluoikeusId</b> = Opiskeluoikeuden id</br>
+<b>oppilaitos</b> = Korkeakoulun lyhenne  </br>
+<b>oppilaitos</b>  = Oppilaitos koodi </br>
+<b>pankkiKumuEnnen55</b>  = Kumulatiivinen pankkikertymä ennen 55 op laskentaa </br>
+<b>pankkiSaldo55</b>  = Pankki saldo</br>
+<b>regDatum</b>  = Päivityspäivämäärä, pisteet laskettu </br>
+<b>sukupuoli</b> = sukupuoli 1=mies, 2=nainen</br>
+<b>summa</b> = Syys ja kevät opintopisteet yhteensä</br>
+<b>suorittanut27</b> = Keväällä aloittanut,  suorittanut 27 op pankin avulla (0=ei, 1=kyllä)</br>
+<b>suorittanut55IlmanPankkia</b>  = Suorittanut 55 op ilman pankkia (0=ei, 1=kyllä)</br>
+<b>suorittanut55PankinAvulla</b> = Suorittanut 55 op pankin avulla (0=ei, 1=kyllä)</br>
+<b>syys</b> = Syyslukukauden (1.8-31.12.tilastovuosi-1) opintopisteet yhteensä</br>
+<b>tkoodi</b>  = Tilastokeskuksen koulutuskoodi </br>
+<b>uusiOpisk</b>  = Uusi opiskelija tilastovuonna (0=ei, 1=kyllä)</br>
+<b>uusiOpiskKevat</b>  = Uusi opiskelija tilastovuoden keväällä (0=ei, 1=kyllä)</br>
+<b>uuttaPankkiin</b>  = Opintopisteitä pankkiin seuraavalle vuodelle</br>
+<b>vuosi</b> = tilastovuosi  </br>	
+
+Ei historiatietoja. Viimeisen 55 op laskennan mukaiset tiedot.
+
 
 ### /TKTutkintoEnnakko
 TODO kuvaus
