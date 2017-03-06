@@ -136,10 +136,56 @@ Tilastovuonna 2016 ulkomaan pisteet kalenterivuoden 2016 pisteet ja huomioitava 
 
 
 ### /AmkAvoimenOpintopisteetJarj
-TODO kuvaus
+
+Avoimen ammattikorkeakoukun opintosuoritukset jaoteltuna järjestävän tahon mukaan.</br>
+
+
+https://confluence.csc.fi/pages/viewpage.action?pageId=47586495  </br>
+https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu#AMK3.2.Opintopistetiedonkeruu-3.2.1.7Avoimessaammattikorkeakouluopetuksessasuoritetutopintopisteet
+
+</br>
+Sarakkeet/tiedot:</br>
+<b>db</b> = Korkeakoulun lyhenne  </br>
+<b>koodi</b> = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>kuvaus</b> = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintopisteet</b> =  Suoritetut pisteet</br>
+<b>oppilaitostyyppi</b> = Tilastokeskuksen Oppilaitostyyppiluokitus https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu#AMK3.2.Opintopistetiedonkeruu-3.2.1.7Avoimessaammattikorkeakouluopetuksessasuoritetutopintopisteet</br>
+<b>paivittaja</b> = tiedon päivittäjä </br>
+<b>paivityspaivamaara</b> = tiedon päivityspäivämäärä </br>
+<b>vuosi</b> = tilastovuosi  </br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+
+
+</br>
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. </br>
+
 
 ### /YOAvoimenOpintopisteetJarj
-TODO kuvaus
+
+Avoimen yliopiston opetuksessa suoritettujen opintosuoritusten jaoteltuna järjestävän tahon mukaan.</br>
+
+https://confluence.csc.fi/pages/viewpage.action?pageId=47586495 </br>
+
+https://confluence.csc.fi/display/suorat/YO+3.2.+Opintopistetiedonkeruu#YO3.2.Opintopistetiedonkeruu-3.2.1.6Avoimessakorkeakouluopetuksessasuoritetutopintopisteet</br>
+
+</br>
+Sarakkeet/tiedot:</br>
+<b>db</b> = Korkeakoulun lyhenne  </br>
+<b>koodi</b> = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>kuvaus</b> = koulutusala kuvaus (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat ) </br>
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä </br>
+<b>opintopisteet</b> =  Suoritetut pisteet</br>
+<b>oppilaitostyyppi</b> = Tilastokeskuksen Oppilaitostyyppiluokitus https://confluence.csc.fi/display/suorat/AMK+3.2.+Opintopistetiedonkeruu#AMK3.2.Opintopistetiedonkeruu-3.2.1.7Avoimessaammattikorkeakouluopetuksessasuoritetutopintopisteet</br>
+<b>paivittaja</b> = tiedon päivittäjä </br>
+<b>paivityspaivamaara</b> = tiedon päivityspäivämäärä </br>
+<b>vuosi</b> = tilastovuosi  </br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus </br>
+
+
+</br>
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen tieto. </br>
+
 
 ## Kansainvälisyystiedonkeruu
 
