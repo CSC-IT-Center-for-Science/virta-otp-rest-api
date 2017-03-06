@@ -54,7 +54,7 @@ https://confluence.csc.fi/pages/viewpage.action?pageId=65905980
 <b>avoTutkintoNaiset</b> = Avoimen yliopisto-opetuksen opiskelijat, asianomaisen yliopiston tutkinto-opiskelija, naiset </br>
 <b>erillisetOikeudet</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opiskelleiden henkilöiden lukumäärä </br>
 <b>erillisetOpettajat</b> = Erillisinä opintoina ilman tutkinnonsuorittamisoikeutta opettajankoulutuksen opintoja opiskelleiden henkilöiden lukumäärä </br>
-<b>kk = 	Korkeakoulun lyhenne </br>
+<b>kk</b> = 	Korkeakoulun lyhenne </br>
 <b>organisaatioKoodi</b> = Korkeakoulun oppilaitoskoodi </br>
 <b>vuosi</b> = tilastovuosi </br>
 
