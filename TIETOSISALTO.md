@@ -187,6 +187,76 @@ Sarakkeet/tiedot:</br>
 Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. </br>
 
 
+  
+### /OpintopistePvmAMK
+
+Ammattikorkeakoulukouluissa  suoritetut opintopisteet suorituspäivämäärä ja lukumäärä.</br>
+
+Sarakkeet/tiedot:</br>
+   
+<b>avoinKK</b>  = Avoimessa korkeakouluopetuksessa suoritetut opintopisteet</br>
+<b>db</b>  = Korkeakoulun lyhenne</br>
+<b>erikoistumiskoulutus</b>  = Erikoistumiskoulutuksessa suoritetut opintopisteet</br> 
+<b>erillinenOpintoOikeus</b>  = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br> 
+<b>kansainvVaihto</b>  = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
+<b>kkYhteistyo</b>  = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br> 
+<b>koodi</b>  = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>koulutustyyppi</b>  = amk koulutustyyppi Tilastokeskuskoodisto (Ei OKMtilastossa käytössä mutta tässä mukana tiedoissa)</br> 
+<b>kuvaus</b>  = koulutusala kuvaus (OKM ohjauksenala)</br> 
+<b>lukumaara</b>  = suoritusten lukumaara </br>
+<b>luoja</b>  = tiedon luoja käyttäjätunnus </br>
+<b>luontipaivamaara</b>  = tiedonluontipäivämäärä</br>  
+<b>maahanmValKoulutus</b>  = Maahanmuuttajien valmentavassa koulutuksessa suoritetut opintopisteet</br> 
+<b>oppilaitostunnus</b>  = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br> 
+<b>perustutkinto</b>  = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br> 
+<b>suorituspaiva</b>  = Suorituspäivämäärä</br>
+<b>tkiHarjoittelunLaajuus</b>  = TKI-hankkeessa suoritetut opintopisteet / harjoittelu</br> 
+<b>tkiMuutLaajuus</b>  = TKI-hankkeessa suoritetut opintopisteet / muu opiskelu</br> 
+<b>tkiToiminnanLaajuus</b>   = TKI-hankkeissa suoritetun opinnäytetyön opintopisteet</br> 
+<b>ulkomaaharjoittelu</b>  = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br> 
+<b>ulkomailtaHyvLue</b>  = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet</br> 
+<b>vieraskSuoritukset</b>  = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet</br> 
+<b>vuosi</b>  = tilastovuosi</br>
+
+</br>
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. 
+    
+</br>	
+	
+### /OpintopistePvmYO
+
+Yliopistoissa  suoritetut opintopisteet suorituspäivämäärä ja lukumäärä.</br>
+
+Sarakkeet/tiedot:</br>
+	 
+<b>avoinKK</b> = Avoimessa korkeakouluopetuksessa suoritetut opintopisteet</br>
+<b>db</b> = Korkeakoulun lyhenne</br>
+<b>erikoistumiskoulutus</b> = Erikoistumiskoulutuksessa suoritetut opintopisteet</br> 
+<b>erillinenOpintoOikeus</b> = Erillisillä opinto-oikeuksilla opiskelevien suorittamat opintopisteet</br> 
+<b>erillinenOpintoOpettaja</b> = Erillisillä opinto-oikeuksilla opettajankoulutuksen opintoja suorittavien suoritukset</br>
+<b>kansainvVaihto</b> = Kansainvälisten vaihto-opiskelijoiden suorittamat opintopisteet</br> 
+<b>kkYhteistyo</b> = Korkeakoulujen välisillä yhteistyösopimuksilla opiskelevien suorittamat opintopisteet</br>
+<b>koodi</b> = koulutusala (OKM ohjauksenala https://confluence.csc.fi/display/suorat/AMK+4.2.+OKM%3An+ohjauksen+alat )</br>
+<b>kuvaus</b> = koulutusala kuvaus (OKM ohjauksenala)</br>
+<b>lukumaara</b> = suoritusten lukumaara</br>
+<b>luoja</b> = tiedon luoja käyttäjätunnus</br> 
+<b>luontipaivamaara</b> = tiedonluontipäivämäärä</br> 
+<b>oppilaitostunnus</b> = Korkeakoulun oppilaitoskoodi (https://virkailija.opintopolku.fi/koodisto-service/rest/oppilaitosnumero/koodi)</br> 
+<b>perustutkinto</b> = Kaikki tutkinto-opiskelijoiden suorittamat opintopisteet</br> 
+<b>suorituspaiva</b> = Suorituspäivämäärä</br>
+<b>ulkomaaharjoittelu</b> = Ulkomaisessa harjoittelussa suoritetut opintopisteet</br> 
+<b>ulkomailtaHyvLue</b> = Ulkomailla suoritetuista opinnoissa hyväksiluetut opintopisteet</br> 
+<b>vieraskSuoritukset</b> = Vieraskielisessä tutkinto-opetuksessa suoritetut opintopisteet</br> 
+<b>vuosi</b> = tilastovuosi</br>
+</br>
+
+Ei historiatietoja. Päivittäinen ajankohtaisen tilanteen mukainen päivittyvä tieto. 
+ 
+</br>
+	
+
+
+
 ## Kansainvälisyystiedonkeruu
 
 ### /CIMOLyhytLahteva
