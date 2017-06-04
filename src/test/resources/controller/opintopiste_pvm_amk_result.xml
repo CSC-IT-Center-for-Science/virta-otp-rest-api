@@ -3,6 +3,7 @@
     <OpintopistePvmAMK>
         <avoinKK>52</avoinKK>
         <db>DB1</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus/>
         <kansainvVaihto/>
         <kkYhteistyo>6</kkYhteistyo>
@@ -19,6 +20,7 @@
         <tkiHarjoittelunLaajuus/>
         <tkiMuutLaajuus/>
         <tkiToiminnanLaajuus/>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet/>
         <vieraskSuoritukset/>
         <vuosi>2015</vuosi>
@@ -26,6 +28,7 @@
     <OpintopistePvmAMK>
         <avoinKK/>
         <db>DB2</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus/>
         <kansainvVaihto/>
         <kkYhteistyo/>
@@ -42,6 +45,7 @@
         <tkiHarjoittelunLaajuus/>
         <tkiMuutLaajuus/>
         <tkiToiminnanLaajuus/>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet/>
         <vieraskSuoritukset/>
         <vuosi>2016</vuosi>
@@ -49,6 +53,7 @@
     <OpintopistePvmAMK>
         <avoinKK>4</avoinKK>
         <db>DB3</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus/>
         <kansainvVaihto/>
         <kkYhteistyo/>
@@ -65,6 +70,7 @@
         <tkiHarjoittelunLaajuus/>
         <tkiMuutLaajuus/>
         <tkiToiminnanLaajuus/>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet/>
         <vieraskSuoritukset/>
         <vuosi>2015</vuosi>
@@ -72,6 +78,7 @@
     <OpintopistePvmAMK>
         <avoinKK>12</avoinKK>
         <db>DB4</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus/>
         <kansainvVaihto/>
         <kkYhteistyo/>
@@ -88,6 +95,7 @@
         <tkiHarjoittelunLaajuus/>
         <tkiMuutLaajuus/>
         <tkiToiminnanLaajuus/>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet/>
         <vieraskSuoritukset/>
         <vuosi>2015</vuosi>

@@ -2,6 +2,7 @@
   {
     "avoinKK": 1,
     "db": "db1",
+	"erikoistumiskoulutus": 10,
     "erillinenOpintoOikeus": 1,
     "erillinenOpintoOpettaja": 1,
     "kansainvVaihto": 1,
@@ -14,6 +15,7 @@
     "oppilaitostunnus": "oppilaitostunnus",
     "perustutkOpiskelijat": 1,
     "suorituspaiva": 1451599200000,
+	"ulkomaaharjoittelu": 1,
     "ulkomailtaHyvLuet": 1,
     "vieraskSuoritukset": 1,
     "vuosi": 2016
@@ -21,6 +23,7 @@
   {
     "avoinKK": 2,
     "db": "db2",
+	"erikoistumiskoulutus": 10,
     "erillinenOpintoOikeus": 2,
     "erillinenOpintoOpettaja": 2,
     "kansainvVaihto": 2,
@@ -33,6 +36,7 @@
     "oppilaitostunnus": "oppilaitostunnus2",
     "perustutkOpiskelijat": 2,
     "suorituspaiva": 1451599200000,
+	"ulkomaaharjoittelu": 1,
     "ulkomailtaHyvLuet": 2,
     "vieraskSuoritukset": 2,
     "vuosi": 2016
@@ -40,6 +44,7 @@
   {
     "avoinKK": 3,
     "db": "db3",
+	"erikoistumiskoulutus": 10,
     "erillinenOpintoOikeus": 3,
     "erillinenOpintoOpettaja": 3,
     "kansainvVaihto": 3,
@@ -52,6 +57,7 @@
     "oppilaitostunnus": "oppilaitostunnus3",
     "perustutkOpiskelijat": 3,
     "suorituspaiva": 1451599200000,
+	"ulkomaaharjoittelu": 1,
     "ulkomailtaHyvLuet": 3,
     "vieraskSuoritukset": 3,
     "vuosi": 2016

@@ -3,6 +3,7 @@
     <OpintopistePvmYO>
         <avoinKK>1</avoinKK>
         <db>db1</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus>1</erillinenOpintoOikeus>
         <erillinenOpintoOpettaja>1</erillinenOpintoOpettaja>
         <kansainvVaihto>1</kansainvVaihto>
@@ -15,6 +16,7 @@
         <oppilaitostunnus>oppilaitostunnus</oppilaitostunnus>
         <perustutkOpiskelijat>1</perustutkOpiskelijat>
         <suorituspaiva>1451599200000</suorituspaiva>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet>1</ulkomailtaHyvLuet>
         <vieraskSuoritukset>1</vieraskSuoritukset>
         <vuosi>2016</vuosi>
@@ -22,6 +24,7 @@
     <OpintopistePvmYO>
         <avoinKK>2</avoinKK>
         <db>db2</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus>2</erillinenOpintoOikeus>
         <erillinenOpintoOpettaja>2</erillinenOpintoOpettaja>
         <kansainvVaihto>2</kansainvVaihto>
@@ -34,6 +37,7 @@
         <oppilaitostunnus>oppilaitostunnus2</oppilaitostunnus>
         <perustutkOpiskelijat>2</perustutkOpiskelijat>
         <suorituspaiva>1451599200000</suorituspaiva>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet>2</ulkomailtaHyvLuet>
         <vieraskSuoritukset>2</vieraskSuoritukset>
         <vuosi>2016</vuosi>
@@ -41,6 +45,7 @@
     <OpintopistePvmYO>
         <avoinKK>3</avoinKK>
         <db>db3</db>
+		<erikoistumiskoulutus>10</erikoistumiskoulutus>
         <erillinenOpintoOikeus>3</erillinenOpintoOikeus>
         <erillinenOpintoOpettaja>3</erillinenOpintoOpettaja>
         <kansainvVaihto>3</kansainvVaihto>
@@ -53,6 +58,7 @@
         <oppilaitostunnus>oppilaitostunnus3</oppilaitostunnus>
         <perustutkOpiskelijat>3</perustutkOpiskelijat>
         <suorituspaiva>1451599200000</suorituspaiva>
+		<ulkomaaharjoittelu>1</ulkomaaharjoittelu>
         <ulkomailtaHyvLuet>3</ulkomailtaHyvLuet>
         <vieraskSuoritukset>3</vieraskSuoritukset>
         <vuosi>2016</vuosi>

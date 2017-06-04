@@ -31,6 +31,10 @@ public class OpintopistePvm {
     private String oppilaitostunnus;
     private String luoja = "";
     private Date luontipaivamaara = new Date();
+	
+	private Integer ulkomaaharjoittelu;
+	private Integer erikoistumiskoulutus;
+	
 
     @JsonIgnore
     public Long getId() {
@@ -169,4 +173,28 @@ public class OpintopistePvm {
     public void setLuontipaivamaara(Date luontipaivamaara) {
         this.luontipaivamaara = luontipaivamaara;
     }
+		
+	
+	public Integer getUlkomaaharjoittelu() {
+        return ulkomaaharjoittelu;
+    }
+
+    public void setUlkomaaharjoittelu(Integer ulkomaaharjoittelu) {
+        this.ulkomaaharjoittelu = ulkomaaharjoittelu;
+    }
+	
+	public Integer getErikoistumiskoulutus() {
+        return erikoistumiskoulutus;
+    }
+
+    public void setErikoistumiskoulutus(Integer erikoistumiskoulutus) {
+        this.erikoistumiskoulutus = erikoistumiskoulutus;
+    }
+	
+	
+	
+	
+	
+	
+	
 }
