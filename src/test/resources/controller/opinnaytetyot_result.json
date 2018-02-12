@@ -1,0 +1,26 @@
+[ 
+  {	"eiHankeistettuja":11,
+	"hankeistettuja":11,
+	"kk": "aa",
+	"koulutustyyppi":11,
+	"ohjausala":11,
+	"organisaatio": "12345",
+	"vuosi": 2017
+  }, 
+  {	"eiHankeistettuja":22,
+	"hankeistettuja":22,
+	"kk": "bb",
+	"koulutustyyppi":22,
+	"ohjausala":22,	 
+	"organisaatio": "23456",
+	"vuosi": 2017
+  },
+  {	"eiHankeistettuja": 33,
+	"hankeistettuja": 33,
+	"kk": "cc",
+	"koulutustyyppi": 33,
+	"ohjausala": 33,
+	"organisaatio": "34567",
+	"vuosi": 2017
+  }
+]

@@ -25,3 +25,6 @@ TRUNCATE TABLE Avoimet_Erilliset_YO;
 TRUNCATE TABLE Liikennevalot;
 TRUNCATE TABLE viis_viis;
 TRUNCATE TABLE TK_Tutk_Ennakko;
+TRUNCATE TABLE viis_viis2017;
+TRUNCATE TABLE viis_viis2016;
+TRUNCATE TABLE opinnaytetyot;
