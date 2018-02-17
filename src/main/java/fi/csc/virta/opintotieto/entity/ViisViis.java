@@ -15,8 +15,9 @@ public class ViisViis {
     
     @Id
     private Long id; 
-	private Integer	edellinenSyysolo; 
+	private Integer	edellinenSyysolo; 	
 	private String hetu;
+	private int ika;
 	private Integer kevat; 
 	private Date loAloituspvm; 
 	private Integer olok; 
@@ -54,10 +55,14 @@ public class ViisViis {
     }
 	
 	public void setEdellinenSyysolo( Integer edellinenSyysolo ) { this.edellinenSyysolo = edellinenSyysolo; }
-	public Integer	getEdellinenSyysolo() { return edellinenSyysolo; }
+	public Integer	getEdellinenSyysolo() { return edellinenSyysolo; }	
 
 	public void setHetu( String hetu ) { this.hetu = hetu; }
 	public String getHetu() { return hetu; }
+	
+	public void setIka( int ika ) { this.ika = ika; }
+	public int getIka() { return ika; }
+
 	
 	public void setKevat( Integer kevat ) { this.kevat = kevat; }
 	public Integer getKevat() { return kevat; }

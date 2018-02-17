@@ -15,21 +15,22 @@ public class ViisViisRepositoryTest extends BaseRepositoryTest<ViisViis> {
     @Test
     public void testStreamAll() throws Exception {       
           assertStreamResults(Arrays.asList(						
-                        createEntity( 1L, 1, "1", 1, new Date(), 1, 1, new Date(), 1, "1", "1", 1, "aa", "aa", 1, 1, new Date(), 1, 0, 0, 0, 0, 1, "123456", 0, 1, 0, 2016),
-                        createEntity( 2L, 2, "2", 2, new Date(), 1, 2, new Date(), 2, "2", "2", 2, "bb", "bb", 0, 0, new Date(), 2, 0, 0, 0, 0, 0, "234567", 0, 0, 0, 2016),
-						createEntity( 3L, 0, "0", 0, new Date(), 0, 0, new Date(), 0, "0", "0", 0, "cc", "cc", 0, 0, new Date(), 1, 0, 0, 0, 0, 0, "345678", 0, 0, 0, 2016)
+                        createEntity( 1L, 1, "1", 19, 1, new Date(), 1, 1, new Date(), 1, "1", "1", 1, "aa", "aa", 1, 1, new Date(), 1, 0, 0, 0, 0, 1, "123456", 0, 1, 0, 2016),
+                        createEntity( 2L, 2, "2", 22, 2, new Date(), 1, 2, new Date(), 2, "2", "2", 2, "bb", "bb", 0, 0, new Date(), 2, 0, 0, 0, 0, 0, "234567", 0, 0, 0, 2016),
+						createEntity( 3L, 0, "0", 30, 0, new Date(), 0, 0, new Date(), 0, "0", "0", 0, "cc", "cc", 0, 0, new Date(), 1, 0, 0, 0, 0, 0, "345678", 0, 0, 0, 2016)
 						),						
 						repository.streamAll()
 										);
     }
 
-    private ViisViis createEntity( long id, int edellinenSyysolo, String hetu, int kevat, Date loAloituspvm, int olok, int olos, Date ooAloituspvm, int opSummaKunOtePankista, String opiskelijaavain, String opiskeluoikeusavain, int opiskeluoikeusid, String oppilaitos, String oppilaitostunnus, int pankkiKumuEnnen55, int pankkiSaldo55, Date regDatum, int sukupuoli, int summa, int suorittanut27, int suorittanut55IlmanPankkia, int suorittanut55PankinAvulla, int syys, String tkoodi, int uusiOpisk, int uusiOpiskKevat, int uuttaPankkiin, int vuosi) {
+    private ViisViis createEntity( long id, int edellinenSyysolo, String hetu, int ika, int kevat, Date loAloituspvm, int olok, int olos, Date ooAloituspvm, int opSummaKunOtePankista, String opiskelijaavain, String opiskeluoikeusavain, int opiskeluoikeusid, String oppilaitos, String oppilaitostunnus, int pankkiKumuEnnen55, int pankkiSaldo55, Date regDatum, int sukupuoli, int summa, int suorittanut27, int suorittanut55IlmanPankkia, int suorittanut55PankinAvulla, int syys, String tkoodi, int uusiOpisk, int uusiOpiskKevat, int uuttaPankkiin, int vuosi) {
         		
 		ViisViis entity = new ViisViis();
 		
 		entity.setId(id);
 		entity.setEdellinenSyysolo(edellinenSyysolo);
 		entity.setHetu(hetu);
+		entity.setIka(ika);
 		entity.setKevat(kevat);
 		entity.setLoAloituspvm(loAloituspvm);
 		entity.setOlok(olok);
