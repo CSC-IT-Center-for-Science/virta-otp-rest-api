@@ -28,3 +28,6 @@ TRUNCATE TABLE TK_Tutk_Ennakko;
 TRUNCATE TABLE viis_viis2017;
 TRUNCATE TABLE viis_viis2016;
 TRUNCATE TABLE opinnaytetyot;
+TRUNCATE TABLE korkeakouluhaut_hakijat_opiskeluoikeudet;
+TRUNCATE TABLE korkeakouluhaut_hakijat_tutkinnot;
+

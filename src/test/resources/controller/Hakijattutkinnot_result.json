@@ -1,0 +1,14 @@
+[ 
+  {	 
+	"korkeakoulu": "01901",
+	"oid": "1.2.3",
+	"suorituspaivamaara": 1451599200000,
+	"tutkinto": "505100"
+  }, 
+  {	 
+	"korkeakoulu": "02535",
+	"oid": "2.3.4",
+	"suorituspaivamaara": 1451599200000,
+	"tutkinto": "101010"
+  }
+]

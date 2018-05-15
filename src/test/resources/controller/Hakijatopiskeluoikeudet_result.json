@@ -1,0 +1,14 @@
+[ 
+  {	"alkamispaivamaara": 1451599200000,
+	"korkeakoulu": "01901",
+	"oid": "1.2.3",
+	"paattymispaivamaara": 1451599200000,
+	"tavoitetutkinto": "505100"
+  }, 
+  {	"alkamispaivamaara": 1451599200000,
+	"korkeakoulu": "02535",
+	"oid": "2.3.4",
+	"paattymispaivamaara": 1451599200000,
+	"tavoitetutkinto": "101010"
+  }
+]
