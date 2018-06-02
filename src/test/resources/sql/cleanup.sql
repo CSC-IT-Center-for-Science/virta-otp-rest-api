@@ -31,4 +31,5 @@ TRUNCATE TABLE opinnaytetyot;
 TRUNCATE TABLE korkeakouluhaut_hakijat_opiskeluoikeudet;
 TRUNCATE TABLE korkeakouluhaut_hakijat_tutkinnot;
 TRUNCATE TABLE erikoistumiskoulutukset;
+TRUNCATE TABLE tavoiteajassasuoritettututkinto;
 

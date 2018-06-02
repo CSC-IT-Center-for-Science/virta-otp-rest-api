@@ -1,0 +1,7 @@
+INSERT INTO tavoiteajassasuoritettututkinto (id, alkamispvm,aloitusvuosi,ika,kaytetytlukukaudet,kk,onaiempitutkinto,opintosuoritusavain,opiskelijaavain,opiskeluoikeusavain,oppilaitosnro,paivia,sukupuoli,tavoiteajassavalmistunut,tavoitelukukaudet,tutkinnonsuorituspvm,tutkintokoodi,tutkintovuosi,vaadittuop,vuosia) 
+							VALUES  ( 1,'2015-08-01',2015,31,3,'ARCADA',1,'6121-18626','6121','18626','02535',615,2,1,4,'2017-01-01','721601',2017,60,1.7);
+INSERT INTO tavoiteajassasuoritettututkinto (id, alkamispvm,aloitusvuosi,ika,kaytetytlukukaudet,kk,onaiempitutkinto,opintosuoritusavain,opiskelijaavain,opiskeluoikeusavain,oppilaitosnro,paivia,sukupuoli,tavoiteajassavalmistunut,tavoitelukukaudet,tutkinnonsuorituspvm,tutkintokoodi,tutkintovuosi,vaadittuop,vuosia)    
+							VALUES  ( 2,'2015-08-01',2015,31,3,'ARCADA',1,'7121-28626','7121','28626','02535',615,2,1,4,'2017-01-01','631101',2017,210,2.0 );
+INSERT INTO tavoiteajassasuoritettututkinto (id, alkamispvm,aloitusvuosi,ika,kaytetytlukukaudet,kk,onaiempitutkinto,opintosuoritusavain,opiskelijaavain,opiskeluoikeusavain,oppilaitosnro,paivia,sukupuoli,tavoiteajassavalmistunut,tavoitelukukaudet,tutkinnonsuorituspvm,tutkintokoodi,tutkintovuosi,vaadittuop,vuosia)  
+							VALUES  ( 3,'2015-08-01',2015,31,3,'ARCADA',1,'8121-38626','8121','38626','02535',615,2,1,4,'2017-01-01','671112',2017,210,3.0 );
+  
