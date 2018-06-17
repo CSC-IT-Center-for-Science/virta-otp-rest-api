@@ -1,0 +1,39 @@
+[
+      {
+        "hkoodi": "10045ARCADA",
+        "kk": "ARCADA",
+        "kuukausi": 12,
+        "laajuus": 5.0,
+		"lasnakevat": 1,
+        "lasnasyys": 1,
+        "ohjausalakoodi": 1,
+        "oppilaitos": "02535",
+		"osluokittelukoodi": 1,
+        "vuosi": 2011
+      },
+      {
+        "hkoodi": "10051ARCADA",
+        "kk": "ARCADA",
+        "kuukausi": 11,
+        "laajuus": 5.0,
+		"lasnakevat": 1,
+        "lasnasyys": 1,
+        "ohjausalakoodi": 1,
+        "oppilaitos": "02535",
+		"osluokittelukoodi": 1,
+        "vuosi":  2011 
+      },
+      {
+        "hkoodi": "10053ARCADA",
+        "kk": "ARCADA",
+        "kuukausi": 8,
+        "laajuus": 12.0,
+        "lasnakevat": 1,
+        "lasnasyys": 1,
+        "ohjausalakoodi": 2,
+        "oppilaitos": "02535",
+		"osluokittelukoodi": 1,
+        "vuosi":  2011 
+      }
+]
+	
