@@ -18,9 +18,7 @@ public class Opintopisteetkuukausittain  {
 	private String  hkoodi = "";
 	private String  kk = "";
 	private Integer kuukausi;	
-	private double  laajuus = 0.0;
-	private Integer lasnakevat = 0;
-	private Integer lasnasyys = 0;	
+	private double  laajuus = 0.0;	
 	private Integer ohjausalakoodi;
 	private String  oppilaitos  = "";
 	private Integer osluokittelukoodi;	
@@ -67,22 +65,6 @@ public class Opintopisteetkuukausittain  {
     public void setLaajuus(double  laajuus) {
         this.laajuus = laajuus;
     }   
-		
-    public void setLasnakevat(Integer lasnakevat) {
-        this.lasnakevat = lasnakevat;
-    }
-		
-	public Integer getLasnakevat() {
-        return lasnakevat;
-    }
-	
-    public void setLasnasyys(Integer lasnasyys) {
-        this.lasnasyys = lasnasyys;
-    }
-		
-	public Integer getLasnasyys() {
-        return lasnasyys;
-    }
 	
     public void setOhjausalakoodi(Integer ohjausalakoodi) {
         this.ohjausalakoodi = ohjausalakoodi;

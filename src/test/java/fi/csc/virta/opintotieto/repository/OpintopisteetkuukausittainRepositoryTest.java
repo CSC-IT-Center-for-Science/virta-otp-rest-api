@@ -15,16 +15,16 @@ public class OpintopisteetkuukausittainRepositoryTest extends BaseRepositoryTest
     @Test
     public void testStreamAll() throws Exception {       
           assertStreamResults(Arrays.asList(						
-                        createEntity(  1L, "10045ARCADA","ARCADA",12,5,1,1,1,"02535",1,2011),
-                        createEntity(  2L, "10051ARCADA","ARCADA",11,5,1,1,1,"02535",1,2011),
-						createEntity(  3L, "10053ARCADA","ARCADA",8,12,1,1,2,"02535",1,2011)
+                        createEntity(  1L, "10045ARCADA","ARCADA",12,5,1,"02535",1,2011),
+                        createEntity(  2L, "10051ARCADA","ARCADA",11,5,1,"02535",1,2011),
+						createEntity(  3L, "10053ARCADA","ARCADA",8,12,2,"02535",1,2011)
 						),						
 						repository.streamAll()
 										);
     }
 
     private Opintopisteetkuukausittain createEntity( long id, String hkoodi, String kk, int kuukausi, double laajuus,  
-													int lasnakevat, int lasnasyys, int ohjausalakoodi, String  oppilaitos, int osluokittelukoodi, int vuosi ) {
+													  int ohjausalakoodi, String  oppilaitos, int osluokittelukoodi, int vuosi ) {
         		
 		Opintopisteetkuukausittain entity = new Opintopisteetkuukausittain();
 		
@@ -32,9 +32,7 @@ public class OpintopisteetkuukausittainRepositoryTest extends BaseRepositoryTest
 		entity.setHkoodi(hkoodi);
 		entity.setKk(kk);	
         entity.setKuukausi(kuukausi);
-		entity.setLaajuus(laajuus);		
-		entity.setLasnakevat(lasnakevat);							
-        entity.setLasnasyys(lasnasyys);		
+		entity.setLaajuus(laajuus);
         entity.setOhjausalakoodi(ohjausalakoodi);  
 		entity.setOppilaitos(oppilaitos);		
         entity.setOsluokittelukoodi(osluokittelukoodi);			
