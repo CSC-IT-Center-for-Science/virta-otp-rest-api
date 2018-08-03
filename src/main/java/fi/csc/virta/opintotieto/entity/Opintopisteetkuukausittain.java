@@ -20,8 +20,17 @@ public class Opintopisteetkuukausittain  {
 	private Integer kuukausi;	
 	private double  laajuus = 0.0;	
 	private Integer ohjausalakoodi;
-	private String  oppilaitos  = "";
-	private Integer osluokittelukoodi;	
+
+    private String  opintosuoritusavain  = "";
+    private String  opiskelijaavain  = "";
+    private String  opiskeluoikeusavain  = "";
+	
+
+    private String  oppilaitos  = "";
+	private Integer osluokittelukoodi;	 
+
+    private Date  suorituspaivamaara; 
+
 	private Integer vuosi = 0;
 
     @JsonIgnore
@@ -89,6 +98,38 @@ public class Opintopisteetkuukausittain  {
     public void setOsluokittelukoodi(Integer osluokittelukoodi) {
         this.osluokittelukoodi = osluokittelukoodi;
     }		
+
+    public String getOpintosuoritusavain() {
+        return opintosuoritusavain;
+    }
+
+    public void setOpintosuoritusavain(String opintosuoritusavain) {
+        this.opintosuoritusavain = opintosuoritusavain;
+    }   
+    
+    public String getOpiskelijaavain() {
+        return opiskelijaavain;
+    }
+
+    public void setOpiskelijaavain(String opiskelijaavain) {
+        this.opiskelijaavain = opiskelijaavain;
+    }   
+    
+    public String getOpiskeluoikeusavain() {
+        return opiskeluoikeusavain;
+    }
+
+    public void setOpiskeluoikeusavain(String opiskeluoikeusavain) {
+        this.opiskeluoikeusavain = opiskeluoikeusavain;
+    }   
+    
+    public Date getSuorituspaivamaara() {
+        return suorituspaivamaara;
+    }
+
+    public void setSuorituspaivamaara(Date suorituspaivamaara) {
+        this.suorituspaivamaara = suorituspaivamaara;
+    }
 	
     public Integer getVuosi() {
         return vuosi;

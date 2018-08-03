@@ -6,8 +6,12 @@
 		<kuukausi>12</kuukausi>
 		<laajuus>5.0</laajuus>		
 		<ohjausalakoodi>1</ohjausalakoodi>
+		<opintosuoritusavain>AA</opintosuoritusavain>
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>
 		<oppilaitos>02535</oppilaitos>
 		<osluokittelukoodi>1</osluokittelukoodi>
+		<suorituspaivamaara>1451599200000</suorituspaivamaara>
 		<vuosi>2011</vuosi>		
 </Opintopisteetkuukausittain>
 <Opintopisteetkuukausittain>
@@ -16,8 +20,12 @@
 		<kuukausi>11</kuukausi>
 		<laajuus>5.0</laajuus>		
 		<ohjausalakoodi>1</ohjausalakoodi>
+		<opintosuoritusavain>AA</opintosuoritusavain>
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>		
 		<oppilaitos>02535</oppilaitos>
 		<osluokittelukoodi>1</osluokittelukoodi>
+		<suorituspaivamaara>1451599200000</suorituspaivamaara>
 		<vuosi>2011</vuosi>
 </Opintopisteetkuukausittain>
 <Opintopisteetkuukausittain>
@@ -26,8 +34,12 @@
 		<kuukausi>8</kuukausi>
 		<laajuus>12.0</laajuus>		
 		<ohjausalakoodi>2</ohjausalakoodi>
+		<opintosuoritusavain>AA</opintosuoritusavain>
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>		
 		<oppilaitos>02535</oppilaitos>
 		<osluokittelukoodi>1</osluokittelukoodi>
+		<suorituspaivamaara>1451599200000</suorituspaivamaara>
 		<vuosi>2011</vuosi>
 </Opintopisteetkuukausittain>
 </Result>

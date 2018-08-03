@@ -5,8 +5,12 @@
         "kuukausi": 12,
         "laajuus": 5.0,		
         "ohjausalakoodi": 1,
+        "opintosuoritusavain":"AA",
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
         "oppilaitos": "02535",
-		"osluokittelukoodi": 1,
+		    "osluokittelukoodi": 1,
+        "suorituspaivamaara": 1451599200000,
         "vuosi": 2011
       },
       {
@@ -15,8 +19,12 @@
         "kuukausi": 11,
         "laajuus": 5.0,		
         "ohjausalakoodi": 1,
+        "opintosuoritusavain":"AA",
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
         "oppilaitos": "02535",
-		"osluokittelukoodi": 1,
+		    "osluokittelukoodi": 1,
+        "suorituspaivamaara": 1451599200000,
         "vuosi":  2011 
       },
       {
@@ -25,8 +33,12 @@
         "kuukausi": 8,
         "laajuus": 12.0,        
         "ohjausalakoodi": 2,
+        "opintosuoritusavain":"AA",
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
         "oppilaitos": "02535",
-		"osluokittelukoodi": 1,
+		    "osluokittelukoodi": 1,
+        "suorituspaivamaara": 1451599200000,
         "vuosi":  2011 
       }
 ]
