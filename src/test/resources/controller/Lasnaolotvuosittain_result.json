@@ -1,0 +1,33 @@
+[
+      {
+        "hkoodi": "10045ARCADA",
+        "kk": "ARCADA",     
+		"lasnakevat": 1,
+		"lasnasyys": 1,
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
+        "oppilaitos": "02535",		
+        "vuosi": 2011
+      },
+      {
+        "hkoodi": "10051ARCADA",
+        "kk": "ARCADA",      
+		"lasnakevat": 0,
+		"lasnasyys": 1,
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
+        "oppilaitos": "02535",	
+        "vuosi":  2011 
+      },
+      {
+        "hkoodi": "10053ARCADA",
+        "kk": "ARCADA",
+		"lasnakevat": 1,
+		"lasnasyys": 0,
+        "opiskelijaavain":"BB",
+        "opiskeluoikeusavain":"CC",
+        "oppilaitos": "02535",		
+        "vuosi":  2011 
+      }
+]
+	

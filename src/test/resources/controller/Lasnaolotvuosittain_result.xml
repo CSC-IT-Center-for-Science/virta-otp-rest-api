@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Result>
+<Lasnaolotvuosittain>
+		<hkoodi>10045ARCADA</hkoodi>		
+		<kk>ARCADA</kk>	
+		<lasnakevat>1</lasnakevat>	
+		<lasnasyys>1</lasnasyys>
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>
+		<oppilaitos>02535</oppilaitos>		
+		<vuosi>2011</vuosi>		
+</Lasnaolotvuosittain>
+<Lasnaolotvuosittain>
+		<hkoodi>10051ARCADA</hkoodi>
+		<kk>ARCADA</kk>
+		<lasnakevat>0</lasnakevat>	
+		<lasnasyys>1</lasnasyys>		
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>		
+		<oppilaitos>02535</oppilaitos>		
+		<vuosi>2011</vuosi>
+</Lasnaolotvuosittain>
+<Lasnaolotvuosittain>
+		<hkoodi>10053ARCADA</hkoodi>
+		<kk>ARCADA</kk>		
+		<lasnakevat>1</lasnakevat>	
+		<lasnasyys>0</lasnasyys>		
+		<opiskelijaavain>BB</opiskelijaavain>
+		<opiskeluoikeusavain>CC</opiskeluoikeusavain>		
+		<oppilaitos>02535</oppilaitos>		
+		<vuosi>2011</vuosi>
+</Lasnaolotvuosittain>
+</Result>

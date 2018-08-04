@@ -33,4 +33,4 @@ TRUNCATE TABLE korkeakouluhaut_hakijat_tutkinnot;
 TRUNCATE TABLE erikoistumiskoulutukset;
 TRUNCATE TABLE tavoiteajassasuoritettututkinto;
 TRUNCATE TABLE opintopisteet_kuukausi_vuosittain;
-
+TRUNCATE TABLE lasnaolot_vuosittain;
