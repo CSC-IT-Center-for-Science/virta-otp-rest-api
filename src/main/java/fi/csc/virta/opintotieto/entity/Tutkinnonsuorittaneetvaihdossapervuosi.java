@@ -29,8 +29,9 @@ public class Tutkinnonsuorittaneetvaihdossapervuosi  {
 	private String opiskeluoikeudentyyppikoodi= "";
 	private String oppilaitoskoodi= "";
 	private String sukupuolikoodi= "";
-	private Integer tutkinnonsuoritusvuosi= 0;
+
 	private Date tutkinnonsuorituspaivamaara;
+	private Integer tutkinnonsuoritusvuosi = 0;
 	private String tutkintokoodi= "";
 
 
@@ -200,29 +201,37 @@ public class Tutkinnonsuorittaneetvaihdossapervuosi  {
     }	
 	
 	
-			/*getTutkinnonsuoritusvuosi*/
+	/*getTutkinnonsuoritusvuosi*/
 	public Integer getTutkinnonsuoritusvuosi() {
-        return tutkinnonsuoritusvuosi;}
+        return tutkinnonsuoritusvuosi;
+    }
 		
 		
-	   /*setTutkinnonsuoritusvuosi*/
+	/* setTutkinnonsuoritusvuosi */
     public void setTutkinnonsuoritusvuosi(Integer tutkinnonsuoritusvuosi) {
-	this.tutkinnonsuoritusvuosi = tutkinnonsuoritusvuosi;}
+
+	 	this.tutkinnonsuoritusvuosi = tutkinnonsuoritusvuosi;
+	 }
 	
 
-		/*getTutkinnonsuorituspaivamaara*/	
+	/* getTutkinnonsuorituspaivamaara */	
     public Date getTutkinnonsuorituspaivamaara() {
         return tutkinnonsuorituspaivamaara;
     }
-    /*setTutkinnonsuorituspaivamaara*/
+
+    /* setTutkinnonsuorituspaivamaara */
     public void setTutkinnonsuorituspaivamaara(Date tutkinnonsuorituspaivamaara) {
+    
         this.tutkinnonsuorituspaivamaara = tutkinnonsuorituspaivamaara;
-    }   
+    }
+
 	
 	
 	/*getTutkintokoodi*/
 	public String getTutkintokoodi() {
-        return tutkintokoodi;}
+        return tutkintokoodi;
+
+    }
 		
 		
 	   /*setTutkintokoodi*/

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Result>
 <Tutkinnonsuorittaneetvaihdossapervuosi>
-<ika>27</ika>
-<kohdemaakoodi>156</kohdemaakoodi>
-<lahtomaakoodi>246</lahtomaakoodi>
-<liikkuvuudenkesto>2</liikkuvuudenkesto>
-<liikkuvuudenkestoalle3kklkm>19</liikkuvuudenkestoalle3kklkm>
-<liikkuvuudenkestoyli3kklkm>45</liikkuvuudenkestoyli3kklkm>
-<liikkuvuudensuuntakoodi>1</liikkuvuudensuuntakoodi>
-<liikkuvuudentyyppikoodi>2</liikkuvuudentyyppikoodi>
-<liikkuvuusohjelmakoodi>101</liikkuvuusohjelmakoodi>
-<ohjauksenalakoodi>5</ohjauksenalakoodi>
-<opiskelijaavain>383316</opiskelijaavain>
-<opiskeluoikeudentyyppikoodi>1</opiskeluoikeudentyyppikoodi>
-<oppilaitoskoodi>02629</oppilaitoskoodi>
-<sukupuolikoodi>2</sukupuolikoodi>
-<tutkinnonsuoritusvuosi>2003</tutkinnonsuoritusvuosi>
-<tutkinnonsuorituspaivamaara>1451599200000</tutkinnonsuorituspaivamaara>
-<tutkintokoodi>631101</tutkintokoodi>
+	<ika>27</ika>
+	<kohdemaakoodi>156</kohdemaakoodi>
+	<lahtomaakoodi>246</lahtomaakoodi>
+	<liikkuvuudenkesto>2</liikkuvuudenkesto>
+	<liikkuvuudenkestoalle3kklkm>19</liikkuvuudenkestoalle3kklkm>
+	<liikkuvuudenkestoyli3kklkm>45</liikkuvuudenkestoyli3kklkm>
+	<liikkuvuudensuuntakoodi>1</liikkuvuudensuuntakoodi>
+	<liikkuvuudentyyppikoodi>2</liikkuvuudentyyppikoodi>
+	<liikkuvuusohjelmakoodi>101</liikkuvuusohjelmakoodi>
+	<ohjauksenalakoodi>5</ohjauksenalakoodi>
+	<opiskelijaavain>383316</opiskelijaavain>
+	<opiskeluoikeudentyyppikoodi>1</opiskeluoikeudentyyppikoodi>
+	<oppilaitoskoodi>02629</oppilaitoskoodi>
+	<sukupuolikoodi>2</sukupuolikoodi>	
+	<tutkinnonsuorituspaivamaara>1451599200000</tutkinnonsuorituspaivamaara>
+	<tutkinnonsuoritusvuosi>2003</tutkinnonsuoritusvuosi>
+	<tutkintokoodi>631101</tutkintokoodi>
 </Tutkinnonsuorittaneetvaihdossapervuosi>
 </Result>

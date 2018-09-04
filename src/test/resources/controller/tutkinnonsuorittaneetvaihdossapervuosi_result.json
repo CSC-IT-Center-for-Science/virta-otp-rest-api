@@ -13,8 +13,7 @@
 	"opiskeluoikeudentyyppikoodi": "1",
 	"oppilaitoskoodi": "02629",
 	"sukupuolikoodi": "2",
-	"tutkinnonsuoritusvuosi": 2003,
-	"tutkinnonsuorituspaivamaara": 1451599200000,
-	"tutkintokoodi": "631101" } 
-
-]
+	"tutkinnonsuorituspaivamaara" : 1451599200000,
+	"tutkinnonsuoritusvuosi" : 2003,	
+	"tutkintokoodi": "631101"
+} ]
