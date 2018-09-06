@@ -18,7 +18,7 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
                         createEntity( 	1L, 27, "156", "246"
 										, 2, 19, 45
 										, "1", "2", "101", "5", "383316", "1", "02629", "2"
-										, 2003, new Date()
+										, new Date(), 2003
 										, "631101")
                         
 						),						
@@ -44,8 +44,9 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
 															, String opiskeluoikeudentyyppikoodi
 															, String oppilaitoskoodi
 															, String sukupuolikoodi
-															, int tutkinnonsuoritusvuosi
+															
 															, Date tutkinnonsuorituspaivamaara
+															, int tutkinnonsuoritusvuosi
 															, String tutkintokoodi 
 															) 
     {
@@ -67,8 +68,9 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
 							entity.setOpiskeluoikeudentyyppikoodi(opiskeluoikeudentyyppikoodi);  
 							entity.setOppilaitoskoodi(oppilaitoskoodi);
 							entity.setSukupuolikoodi(sukupuolikoodi);		
-							entity.setTutkinnonsuoritusvuosi(tutkinnonsuoritusvuosi);
+							
 							entity.setTutkinnonsuorituspaivamaara(tutkinnonsuorituspaivamaara);  
+							entity.setTutkinnonsuoritusvuosi(tutkinnonsuoritusvuosi);
 							entity.setTutkintokoodi(tutkintokoodi);
 							em.persist(entity);		
 		
