@@ -1,0 +1,23 @@
+[ 
+   {
+        "henkilonumero": "aa",
+        "rekrykorkeakoulu": "12345",
+        "tilastovuosi": 2017,
+        "tohtoritutkintokorkeakoulu": "12345",
+        "tohtoritutkintosuoritusvuosi": 2015
+      },
+      {
+        "henkilonumero": "bb",
+        "rekrykorkeakoulu": "12345",
+        "tilastovuosi": 2017,
+        "tohtoritutkintokorkeakoulu": "23456",
+        "tohtoritutkintosuoritusvuosi": 2013
+      },
+      {
+        "henkilonumero": "cc",
+        "rekrykorkeakoulu": "12345",
+        "tilastovuosi": 2017,
+        "tohtoritutkintokorkeakoulu": "34567",
+        "tohtoritutkintosuoritusvuosi": 2011
+      }
+]

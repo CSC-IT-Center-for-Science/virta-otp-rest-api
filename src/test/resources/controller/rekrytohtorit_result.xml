@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Result>
+<Rekrytohtorit>
+<henkilonumero>aa</henkilonumero>
+<rekrykorkeakoulu>12345</rekrykorkeakoulu>
+<tilastovuosi>2017</tilastovuosi>
+<tohtoritutkintokorkeakoulu>12345</tohtoritutkintokorkeakoulu>
+<tohtoritutkintosuoritusvuosi>2015</tohtoritutkintosuoritusvuosi>
+</Rekrytohtorit>
+<Rekrytohtorit>
+<henkilonumero>bb</henkilonumero>
+<rekrykorkeakoulu>12345</rekrykorkeakoulu>
+<tilastovuosi>2017</tilastovuosi>
+<tohtoritutkintokorkeakoulu>23456</tohtoritutkintokorkeakoulu>
+<tohtoritutkintosuoritusvuosi>2013</tohtoritutkintosuoritusvuosi>
+</Rekrytohtorit>
+<Rekrytohtorit>
+<henkilonumero>cc</henkilonumero>
+<rekrykorkeakoulu>12345</rekrykorkeakoulu>
+<tilastovuosi>2017</tilastovuosi>
+<tohtoritutkintokorkeakoulu>34567</tohtoritutkintokorkeakoulu>
+<tohtoritutkintosuoritusvuosi>2011</tohtoritutkintosuoritusvuosi>
+</Rekrytohtorit>
+</Result>
