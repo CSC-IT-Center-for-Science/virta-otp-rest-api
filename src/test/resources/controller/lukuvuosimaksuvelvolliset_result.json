@@ -1,0 +1,29 @@
+[ 
+     {
+        "henkilo": "aa",
+        "ika": 22,
+        "kansalaisuus": "752",
+        "koulutuskoodi": "112345",
+        "oppilaitos": "00110",
+        "sukupuoli": 1,
+        "vuosi": 2017
+      },
+      {
+        "henkilo": "bb",
+        "ika": 23,
+        "kansalaisuus": "752",
+        "koulutuskoodi": "112345",
+        "oppilaitos": "00110",
+        "sukupuoli": 1,
+        "vuosi": 2017
+      },
+      {
+        "henkilo": "cc",
+        "ika": 24,
+        "kansalaisuus": "752",
+        "koulutuskoodi": "112345",
+        "oppilaitos": "00110",
+        "sukupuoli": 2,
+        "vuosi": 2017
+      }
+]
