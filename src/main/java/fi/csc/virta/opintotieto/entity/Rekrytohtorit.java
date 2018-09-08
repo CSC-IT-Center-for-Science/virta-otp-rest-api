@@ -20,6 +20,7 @@ public class Rekrytohtorit  {
 	private String  rekrykorkeakoulu = "";	
 	private Integer tilastovuosi = 0;	 	
 	private String  tohtoritutkintokorkeakoulu = "";
+    private String  tohtoritutkintomaa = "";
 	private Integer tohtoritutkintosuoritusvuosi = 0;
 
     @JsonIgnore
@@ -64,6 +65,15 @@ public class Rekrytohtorit  {
     public void setTohtoritutkintokorkeakoulu(String tohtoritutkintokorkeakoulu) {
         this.tohtoritutkintokorkeakoulu = tohtoritutkintokorkeakoulu;
     }
+
+    public String getTohtoritutkintomaa() {
+        return tohtoritutkintomaa;
+    }
+
+    public void setTohtoritutkintomaa(String tohtoritutkintomaa) {
+        this.tohtoritutkintomaa = tohtoritutkintomaa;
+    }
+
 	
 	public Integer getTohtoritutkintosuoritusvuosi() {
         return  tohtoritutkintosuoritusvuosi;

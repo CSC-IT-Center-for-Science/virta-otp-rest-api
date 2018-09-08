@@ -15,15 +15,19 @@ public class RekrytohtoritRepositoryTest extends BaseRepositoryTest<Rekrytohtori
     @Test
     public void testStreamAll() throws Exception {       
           assertStreamResults(Arrays.asList(						
-                        createEntity( 1L,"aa","12345", 2017, "12345", 2015 ),
-                        createEntity( 2L,"bb","12345", 2017, "23456", 2013 ),
-						createEntity( 3L,"cc","12345", 2017, "34567", 2011 )
+                        createEntity( 1L,"aa","12345", 2017, "12345", "246", 2015 ),
+                        createEntity( 2L,"bb","12345", 2017, "23456", "246", 2013 ),
+						createEntity( 3L,"cc","12345", 2017, "34567", "246", 2011 )
 						),						
 						repository.streamAll()
 										);
     }
 
-    private Rekrytohtorit createEntity( long id,  String henkilonumero, String rekrykorkeakoulu, int tilastovuosi, String tohtoritutkintokorkeakoulu, int tohtoritutkintosuoritusvuosi ) {
+    private Rekrytohtorit createEntity( long id,  String henkilonumero, 
+                                        String rekrykorkeakoulu, int tilastovuosi, 
+                                        String tohtoritutkintokorkeakoulu, 
+                                        String tohtoritutkintomaa, 
+                                        int tohtoritutkintosuoritusvuosi ) {
         		
 		Rekrytohtorit entity = new Rekrytohtorit();
 		
@@ -32,6 +36,7 @@ public class RekrytohtoritRepositoryTest extends BaseRepositoryTest<Rekrytohtori
         entity.setRekrykorkeakoulu(rekrykorkeakoulu);
 		entity.setTilastovuosi(tilastovuosi);		
         entity.setTohtoritutkintokorkeakoulu(tohtoritutkintokorkeakoulu);
+        entity.setTohtoritutkintomaa(tohtoritutkintomaa);
         entity.setTohtoritutkintosuoritusvuosi(tohtoritutkintosuoritusvuosi);  
 		 		
         em.persist(entity);		

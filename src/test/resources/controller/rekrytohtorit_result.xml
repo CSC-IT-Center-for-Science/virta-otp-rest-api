@@ -5,6 +5,7 @@
 <rekrykorkeakoulu>12345</rekrykorkeakoulu>
 <tilastovuosi>2017</tilastovuosi>
 <tohtoritutkintokorkeakoulu>12345</tohtoritutkintokorkeakoulu>
+<tohtoritutkintomaa>246</tohtoritutkintomaa>
 <tohtoritutkintosuoritusvuosi>2015</tohtoritutkintosuoritusvuosi>
 </Rekrytohtorit>
 <Rekrytohtorit>
@@ -12,6 +13,7 @@
 <rekrykorkeakoulu>12345</rekrykorkeakoulu>
 <tilastovuosi>2017</tilastovuosi>
 <tohtoritutkintokorkeakoulu>23456</tohtoritutkintokorkeakoulu>
+<tohtoritutkintomaa>246</tohtoritutkintomaa>
 <tohtoritutkintosuoritusvuosi>2013</tohtoritutkintosuoritusvuosi>
 </Rekrytohtorit>
 <Rekrytohtorit>
@@ -19,6 +21,7 @@
 <rekrykorkeakoulu>12345</rekrykorkeakoulu>
 <tilastovuosi>2017</tilastovuosi>
 <tohtoritutkintokorkeakoulu>34567</tohtoritutkintokorkeakoulu>
+<tohtoritutkintomaa>246</tohtoritutkintomaa>
 <tohtoritutkintosuoritusvuosi>2011</tohtoritutkintosuoritusvuosi>
 </Rekrytohtorit>
 </Result>

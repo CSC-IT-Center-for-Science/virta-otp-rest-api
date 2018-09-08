@@ -4,6 +4,7 @@
         "rekrykorkeakoulu": "12345",
         "tilastovuosi": 2017,
         "tohtoritutkintokorkeakoulu": "12345",
+        "tohtoritutkintomaa": "246",
         "tohtoritutkintosuoritusvuosi": 2015
       },
       {
@@ -11,6 +12,7 @@
         "rekrykorkeakoulu": "12345",
         "tilastovuosi": 2017,
         "tohtoritutkintokorkeakoulu": "23456",
+        "tohtoritutkintomaa": "246",
         "tohtoritutkintosuoritusvuosi": 2013
       },
       {
@@ -18,6 +20,7 @@
         "rekrykorkeakoulu": "12345",
         "tilastovuosi": 2017,
         "tohtoritutkintokorkeakoulu": "34567",
+        "tohtoritutkintomaa": "246",
         "tohtoritutkintosuoritusvuosi": 2011
       }
 ]
