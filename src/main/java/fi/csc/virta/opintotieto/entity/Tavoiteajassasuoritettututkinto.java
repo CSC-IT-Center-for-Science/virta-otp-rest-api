@@ -12,13 +12,20 @@ import java.util.Date;
 @Table(name = "tavoiteajassasuoritettututkinto")
 @JsonPropertyOrder(alphabetic = true)
 public class Tavoiteajassasuoritettututkinto  {
-    
+
     @Id
-    private Long id; 
-	private Date alkamispvm;	
+    private Long id;
+	private Date alkamispvm;
 	private Integer aloitusvuosi = 0;
 	private Integer ika = 0;
 	private Integer kaytetytlukukaudet ;
+
+  private Integer kaytetytpoissakoodi2kaudet = 0;
+  private Integer kaytetytpoissakoodi2paivia = 0;
+  private Integer kaytetytpoissakoodi3kaudet = 0;
+  private Integer kaytetytpoissakoodi3paivia = 0;
+
+
 	private String  kk = "";
 	private Integer onaiempitutkinto = 0;
 	private String opintosuoritusavain = "";
@@ -44,16 +51,16 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setId(Long id) {
         this.id = id;
     }
-	
-	
+
+
 	public Date getAlkamispvm() {
         return alkamispvm;
     }
 
     public void setAlkamispvm(Date alkamispvm) {
         this.alkamispvm = alkamispvm;
-    }   
-      		
+    }
+
 	public Integer getAloitusvuosi() {
         return aloitusvuosi;
     }
@@ -61,16 +68,16 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setAloitusvuosi(Integer aloitusvuosi) {
         this.aloitusvuosi = aloitusvuosi;
     }
-	
-		
+
+
     public Integer getIka() {
         return ika;
     }
 
     public void setIka(Integer ika) {
         this.ika = ika;
-    }   
-   
+    }
+
     public Integer getKaytetytlukukaudet() {
         return kaytetytlukukaudet;
     }
@@ -78,7 +85,48 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setKaytetytlukukaudet(Integer kaytetytlukukaudet) {
         this.kaytetytlukukaudet = kaytetytlukukaudet;
     }
-		
+
+
+    public Integer getKaytetytpoissakoodi2kaudet() {
+        return kaytetytpoissakoodi2kaudet;
+    }
+
+    public void setKaytetytpoissakoodi2kaudet(Integer kaytetytpoissakoodi2kaudet) {
+        this.kaytetytpoissakoodi2kaudet = kaytetytpoissakoodi2kaudet;
+    }
+
+
+    public Integer getKaytetytpoissakoodi2paivia() {
+        return kaytetytpoissakoodi2paivia;
+    }
+
+    public void setKaytetytpoissakoodi2paivia(Integer kaytetytpoissakoodi2paivia) {
+        this.kaytetytpoissakoodi2paivia = kaytetytpoissakoodi2paivia;
+    }
+
+
+    public Integer getKaytetytpoissakoodi3kaudet() {
+        return kaytetytpoissakoodi3kaudet;
+    }
+
+    public void setKaytetytpoissakoodi3kaudet(Integer kaytetytpoissakoodi3kaudet) {
+        this.kaytetytpoissakoodi3kaudet = kaytetytpoissakoodi3kaudet;
+    }
+
+    
+    public Integer getKaytetytpoissakoodi3paivia() {
+        return kaytetytpoissakoodi3paivia;
+    }
+
+    public void setKaytetytpoissakoodi3paivia(Integer kaytetytpoissakoodi3paivia) {
+        this.kaytetytpoissakoodi3paivia = kaytetytpoissakoodi3paivia;
+    }
+
+
+
+
+
+
     public Integer getOnaiempitutkinto() {
         return onaiempitutkinto;
     }
@@ -86,7 +134,7 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setOnaiempitutkinto(Integer onaiempitutkinto) {
         this.onaiempitutkinto = onaiempitutkinto;
     }
-	
+
 	public String getKk() {
         return kk;
     }
@@ -94,7 +142,7 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setKk(String kk) {
         this.kk = kk;
     }
-	
+
 	public String getOpintosuoritusavain() {
         return opintosuoritusavain;
     }
@@ -102,7 +150,7 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setOpintosuoritusavain(String opintosuoritusavain) {
         this.opintosuoritusavain = opintosuoritusavain;
     }
-	
+
 	public String getOpiskelijaavain() {
         return opiskelijaavain;
     }
@@ -110,7 +158,7 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setOpiskelijaavain(String opiskelijaavain) {
         this.opiskelijaavain = opiskelijaavain;
     }
-	
+
 	public String getOpiskeluoikeusavain() {
         return opiskeluoikeusavain;
     }
@@ -118,30 +166,30 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setOpiskeluoikeusavain(String opiskeluoikeusavain) {
         this.opiskeluoikeusavain = opiskeluoikeusavain;
     }
-	
+
 	public String getOppilaitosnro() {
         return oppilaitosnro;
     }
 
     public void setOppilaitosnro(String oppilaitosnro) {
         this.kk = oppilaitosnro;
-    }	
-	
+    }
+
 	public Integer getPaivia() {
         return  paivia;
     }
 
     public void setPaivia(Integer paivia) {
         this.paivia = paivia;
-    }		
-		
+    }
+
     public Integer getSukupuoli() {
         return sukupuoli;
     }
 
     public void setSukupuoli(Integer sukupuoli) {
         this.sukupuoli = sukupuoli;
-    }   
+    }
 
     public Integer getTavoiteajassavalmistunut() {
         return tavoiteajassavalmistunut;
@@ -149,16 +197,16 @@ public class Tavoiteajassasuoritettututkinto  {
 
     public void setTavoiteajassavalmistunut(Integer tavoiteajassavalmistunut) {
         this.tavoiteajassavalmistunut = tavoiteajassavalmistunut;
-    }     
-	
+    }
+
     public Integer getTavoitelukukaudet() {
         return tavoitelukukaudet;
     }
 
     public void setTavoitelukukaudet(Integer tavoitelukukaudet) {
         this.tavoitelukukaudet = tavoitelukukaudet;
-    }  	
-	
+    }
+
 
     public Date getTutkinnonsuorituspvm() {
         return tutkinnonsuorituspvm;
@@ -166,7 +214,7 @@ public class Tavoiteajassasuoritettututkinto  {
 
     public void setTutkinnonsuorituspvm(Date tutkinnonsuorituspvm) {
         this.tutkinnonsuorituspvm = tutkinnonsuorituspvm;
-    }      		
+    }
 
 	public String getTutkintokoodi() {
         return tutkintokoodi;
@@ -174,33 +222,33 @@ public class Tavoiteajassasuoritettututkinto  {
 
     public void setTutkintokoodi(String tutkintokoodi) {
         this.tutkintokoodi = tutkintokoodi;
-    }		
+    }
 
-	
+
     public Integer getTutkintovuosi() {
         return tutkintovuosi;
     }
 
     public void setTutkintovuosi(Integer tutkintovuosi) {
         this.tutkintovuosi = tutkintovuosi;
-    }   
-   	
-	
+    }
+
+
     public Integer getVaadittuop() {
         return vaadittuop;
     }
 
     public void setVaadittuop(Integer vaadittuop) {
         this.vaadittuop = vaadittuop;
-    }   
-   	
-	
+    }
+
+
     public double  getVuosia() {
         return vuosia;
     }
 
     public void setVuosia(double  vuosia) {
         this.vuosia = vuosia;
-    }   
-	
+    }
+
 }
