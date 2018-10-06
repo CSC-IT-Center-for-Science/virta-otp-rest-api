@@ -37,3 +37,4 @@ TRUNCATE TABLE lasnaolot_vuosittain;
 TRUNCATE TABLE tutkinnonsuorittaneetvaihdossapervuosi;
 TRUNCATE TABLE rekrytohtorit;
 TRUNCATE TABLE lukuvuosimaksuvelvolliset;
+TRUNCATE TABLE valmentavaan_koulutukseen_osallistuneet;

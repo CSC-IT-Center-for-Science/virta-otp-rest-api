@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Result>
+	<Valmentavakoulutus>
+		<atunniste>1</atunniste>
+		<ika>21</ika>
+		<sukupuoli>2</sukupuoli>
+		<tkk>ARCADA</tkk>
+		<tkoulutuskoodi>101001</tkoulutuskoodi>
+		<tooalkamispaivamaara>1438376400000</tooalkamispaivamaara>
+		<toopaattymispaivamaara>1438376400000</toopaattymispaivamaara>
+		<tootyyppi>1</tootyyppi>
+		<toppilaitosnro>02535</toppilaitosnro>
+		<ttutkinnonsuorituspvm>1438376400000</ttutkinnonsuorituspvm>
+		<vkk>ARCADA</vkk>
+		<vooalkamispaivamaara>1438376400000</vooalkamispaivamaara>
+		<voopaattymispaivamaara>1438376400000</voopaattymispaivamaara>
+		<vootyyppi>17</vootyyppi>
+		<voppilaitosnro>02535</voppilaitosnro>
+	</Valmentavakoulutus>
+	<Valmentavakoulutus>
+		<atunniste>2</atunniste>
+		<ika>22</ika>
+		<sukupuoli>1</sukupuoli>
+		<tkk>ARCADA</tkk>
+		<tkoulutuskoodi>101002</tkoulutuskoodi>
+		<tooalkamispaivamaara>1438376400000</tooalkamispaivamaara>
+		<toopaattymispaivamaara>1438376400000</toopaattymispaivamaara>
+		<tootyyppi>1</tootyyppi>
+		<toppilaitosnro>02535</toppilaitosnro>
+		<ttutkinnonsuorituspvm>1438376400000</ttutkinnonsuorituspvm>
+		<vkk>ARCADA</vkk>
+		<vooalkamispaivamaara>1438376400000</vooalkamispaivamaara>
+		<voopaattymispaivamaara>1438376400000</voopaattymispaivamaara>
+		<vootyyppi>17</vootyyppi>
+		<voppilaitosnro>02535</voppilaitosnro>
+	</Valmentavakoulutus>	
+</Result>
