@@ -31,7 +31,8 @@ public class Valmentavakoulutus  {
 	private Date voopaattymispaivamaara;	
 	private Integer vootyyppi = 0;
 	private String voppilaitosnro = "";	
-
+	private Integer xvuosi = 0;
+	
     @JsonIgnore
     public Long getId() {
         return id;
@@ -164,4 +165,14 @@ public class Valmentavakoulutus  {
     public void setVoppilaitosnro(String voppilaitosnro) {
         this.voppilaitosnro = voppilaitosnro;
     }	
+	
+	public Integer getXvuosi() {
+        return  xvuosi;
+    }
+
+    public void setXvuosi(Integer xvuosi) {
+        this.xvuosi = xvuosi;
+    }	
+	
+	
 }

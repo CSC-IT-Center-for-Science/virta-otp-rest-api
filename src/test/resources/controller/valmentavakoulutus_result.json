@@ -12,7 +12,8 @@
 	"vooalkamispaivamaara": 1438376400000,
 	"voopaattymispaivamaara": 1438376400000,
 	"vootyyppi": 17,
-	"voppilaitosnro": "02535"
+	"voppilaitosnro": "02535",
+	"xvuosi": 2015
 	}, 
 {
  	"atunniste": 2,
@@ -29,6 +30,7 @@
 	"vooalkamispaivamaara": 1438376400000,
 	"voopaattymispaivamaara": 1438376400000,
 	"vootyyppi": 17,
-	"voppilaitosnro": "02535"
+	"voppilaitosnro": "02535",
+	"xvuosi": 2016
 }
 ]

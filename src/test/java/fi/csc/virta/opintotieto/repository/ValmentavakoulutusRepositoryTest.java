@@ -16,8 +16,8 @@ public class ValmentavakoulutusRepositoryTest extends BaseRepositoryTest<Valment
     public void testStreamAll() throws Exception {
           assertStreamResults(Arrays.asList(
 		  
-				createEntity( 1L, 1, 21, 2, "ARCADA", "101001", new Date(), new Date(), 1, "02535", new Date(), "ARCADA", new Date(), new Date(), 17, "02535" ),
-				createEntity( 2L, 2, 22, 1, "ARCADA", "101002", new Date(), new Date(), 1, "02535", new Date(), "ARCADA", new Date(), new Date(), 17, "02535" )
+				createEntity( 1L, 1, 21, 2, "ARCADA", "101001", new Date(), new Date(), 1, "02535", new Date(), "ARCADA", new Date(), new Date(), 17, "02535", 2015 ),
+				createEntity( 2L, 2, 22, 1, "ARCADA", "101002", new Date(), new Date(), 1, "02535", new Date(), "ARCADA", new Date(), new Date(), 17, "02535", 2016 )
 				
 						),
 						repository.streamAll()
@@ -45,7 +45,9 @@ public class ValmentavakoulutusRepositoryTest extends BaseRepositoryTest<Valment
 											 Date voopaattymispaivamaara,	
 											 
 											 int vootyyppi,
-											 String voppilaitosnro	)
+											 String voppilaitosnro,
+											 int xvuosi
+											 )
 														
 														{
 
@@ -68,6 +70,7 @@ public class ValmentavakoulutusRepositoryTest extends BaseRepositoryTest<Valment
 					entity.setVoopaattymispaivamaara(voopaattymispaivamaara);
 					entity.setVootyyppi(vootyyppi);
 					entity.setVoppilaitosnro(voppilaitosnro);
+					entity.setXvuosi(xvuosi);
 					
         em.persist(entity);
         return entity;

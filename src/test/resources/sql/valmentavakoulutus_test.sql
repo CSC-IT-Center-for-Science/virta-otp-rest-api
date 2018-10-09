@@ -1,4 +1,4 @@
-INSERT INTO valmentavaan_koulutukseen_osallistuneet (id, atunniste, ika, sukupuoli, tkk, tkoulutuskoodi, tooalkamispaivamaara, toopaattymispaivamaara, tootyyppi, toppilaitosnro, ttutkintosuorituspvm, vkk, vooalkamispaivamaara, voopaattymispaivamaara, vootyyppi, voppilaitosnro)
- VALUES ( 1, 1, 21, 2, 'ARCADA', '101001', '2015-08-01', '2015-08-01', 1, '02535', '2015-08-01', 'ARCADA', '2015-08-01', '2015-08-01', 17, '02535' );
-INSERT INTO valmentavaan_koulutukseen_osallistuneet (id, atunniste, ika, sukupuoli, tkk, tkoulutuskoodi, tooalkamispaivamaara, toopaattymispaivamaara, tootyyppi, toppilaitosnro, ttutkintosuorituspvm, vkk, vooalkamispaivamaara, voopaattymispaivamaara, vootyyppi, voppilaitosnro)
- VALUES ( 2, 2, 22, 1, 'ARCADA', '101002', '2015-08-01', '2015-08-01', 1, '02535', '2015-08-01', 'ARCADA', '2015-08-01', '2015-08-01', 17, '02535' );
+INSERT INTO valmentavaan_koulutukseen_osallistuneet (id, atunniste, ika, sukupuoli, tkk, tkoulutuskoodi, tooalkamispaivamaara, toopaattymispaivamaara, tootyyppi, toppilaitosnro, ttutkintosuorituspvm, vkk, vooalkamispaivamaara, voopaattymispaivamaara, vootyyppi, voppilaitosnro, xvuosi)
+ VALUES ( 1, 1, 21, 2, 'ARCADA', '101001', '2015-08-01', '2015-08-01', 1, '02535', '2015-08-01', 'ARCADA', '2015-08-01', '2015-08-01', 17, '02535', 2015 );
+INSERT INTO valmentavaan_koulutukseen_osallistuneet (id, atunniste, ika, sukupuoli, tkk, tkoulutuskoodi, tooalkamispaivamaara, toopaattymispaivamaara, tootyyppi, toppilaitosnro, ttutkintosuorituspvm, vkk, vooalkamispaivamaara, voopaattymispaivamaara, vootyyppi, voppilaitosnro, xvuosi)
+ VALUES ( 2, 2, 22, 1, 'ARCADA', '101002', '2015-08-01', '2015-08-01', 1, '02535', '2015-08-01', 'ARCADA', '2015-08-01', '2015-08-01', 17, '02535', 2016 );
