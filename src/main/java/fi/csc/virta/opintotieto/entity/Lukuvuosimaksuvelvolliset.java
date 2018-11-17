@@ -15,6 +15,8 @@ public class Lukuvuosimaksuvelvolliset  {
     
     @Id
     private Long id; 	
+	
+	private Integer aloitusvuosi = 0;
 	private String  henkilo = "";		 
 	private Integer ika = 0;	 	
 	private String  kansalaisuus = "";
@@ -32,6 +34,14 @@ public class Lukuvuosimaksuvelvolliset  {
     public void setId(Long id) {
         this.id = id;
     }
+
+	public Integer getAloitusvuosi() {
+        return  aloitusvuosi;
+    }
+
+    public void setAloitusvuosi(Integer aloitusvuosi) {
+        this.aloitusvuosi = aloitusvuosi;
+    }	
 	
 	public String getHenkilo() {
         return henkilo;

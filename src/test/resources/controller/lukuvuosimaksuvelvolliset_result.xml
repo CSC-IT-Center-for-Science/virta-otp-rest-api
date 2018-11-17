@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Result>
 <Lukuvuosimaksuvelvolliset>
+<aloitusvuosi>2016</aloitusvuosi>
 <henkilo>aa</henkilo>
 <ika>22</ika>
 <kansalaisuus>752</kansalaisuus>
@@ -10,6 +11,7 @@
 <vuosi>2017</vuosi>
 </Lukuvuosimaksuvelvolliset>
 <Lukuvuosimaksuvelvolliset>
+<aloitusvuosi>2016</aloitusvuosi>
 <henkilo>bb</henkilo>
 <ika>23</ika>
 <kansalaisuus>752</kansalaisuus>
@@ -19,6 +21,7 @@
 <vuosi>2017</vuosi>
 </Lukuvuosimaksuvelvolliset>
 <Lukuvuosimaksuvelvolliset>
+<aloitusvuosi>2016</aloitusvuosi>
 <henkilo>cc</henkilo>
 <ika>24</ika>
 <kansalaisuus>752</kansalaisuus>

@@ -1,6 +1,7 @@
 [ 
      {
-        "henkilo": "aa",
+        "aloitusvuosi": 2016,
+		"henkilo": "aa",
         "ika": 22,
         "kansalaisuus": "752",
         "koulutuskoodi": "112345",
@@ -9,7 +10,8 @@
         "vuosi": 2017
       },
       {
-        "henkilo": "bb",
+        "aloitusvuosi": 2016,
+		"henkilo": "bb",
         "ika": 23,
         "kansalaisuus": "752",
         "koulutuskoodi": "112345",
@@ -18,7 +20,8 @@
         "vuosi": 2017
       },
       {
-        "henkilo": "cc",
+        "aloitusvuosi": 2016,
+		"henkilo": "cc",
         "ika": 24,
         "kansalaisuus": "752",
         "koulutuskoodi": "112345",

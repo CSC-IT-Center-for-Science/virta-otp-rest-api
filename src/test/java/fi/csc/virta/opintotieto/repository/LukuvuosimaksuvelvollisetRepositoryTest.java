@@ -15,19 +15,21 @@ public class LukuvuosimaksuvelvollisetRepositoryTest extends BaseRepositoryTest<
     @Test
     public void testStreamAll() throws Exception {       
           assertStreamResults(Arrays.asList(						
-                        createEntity( 1L, "aa", 22, "752", "112345", "00110", 1, 2017 ),
-                        createEntity( 2L, "bb", 23, "752", "112345", "00110", 1, 2017),
-						createEntity( 3L, "cc", 24, "752", "112345", "00110", 2, 2017)
+                        createEntity( 1L, 2016, "aa", 22, "752", "112345", "00110", 1, 2017 ),
+                        createEntity( 2L, 2016, "bb", 23, "752", "112345", "00110", 1, 2017),
+						createEntity( 3L, 2016, "cc", 24, "752", "112345", "00110", 2, 2017)
 						),						
 						repository.streamAll()
 										);
     }
 
-    private Lukuvuosimaksuvelvolliset createEntity( long id, String henkilo, int ika, String kansalaisuus, String koulutuskoodi, String oppilaitos,  int sukupuoli, int vuosi ) {
+    private Lukuvuosimaksuvelvolliset createEntity( long id, int aloitusvuosi, String henkilo, int ika, String kansalaisuus, String koulutuskoodi, String oppilaitos,  int sukupuoli, int vuosi ) {
         		
 		Lukuvuosimaksuvelvolliset entity = new Lukuvuosimaksuvelvolliset();
 		
 		entity.setId(id);
+		
+		entity.setAloitusvuosi(aloitusvuosi); 
 		entity.setHenkilo(henkilo);
         entity.setIka(ika);
 		entity.setKansalaisuus(kansalaisuus);		
