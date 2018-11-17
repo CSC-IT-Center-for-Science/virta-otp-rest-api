@@ -10,6 +10,7 @@
 		<kaytetytpoissakoodi3kaudet>0</kaytetytpoissakoodi3kaudet>
 		<kaytetytpoissakoodi3paivia>0</kaytetytpoissakoodi3paivia>
 		<kk>ARCADA</kk>
+		<lasnaololukukaudet>6</lasnaololukukaudet>
 		<onaiempitutkinto>1</onaiempitutkinto>
 		<opintosuoritusavain>6121-18626</opintosuoritusavain>
 		<opiskelijaavain>6121</opiskelijaavain>
@@ -17,9 +18,11 @@
 		<oppilaitosnro>02535</oppilaitosnro>
 		<paivia>615</paivia>
 		<sukupuoli>2</sukupuoli>
+		<tavoiteaikavuosia>5.0</tavoiteaikavuosia>
 		<tavoiteajassavalmistunut>1</tavoiteajassavalmistunut>
 		<tavoitelukukaudet>4</tavoitelukukaudet>
 		<tutkinnonsuorituspvm>1483221600000</tutkinnonsuorituspvm>
+		<tutkintokerroin>1.5</tutkintokerroin>
 		<tutkintokoodi>721601</tutkintokoodi>
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>60</vaadittuop>
@@ -35,6 +38,7 @@
 		<kaytetytpoissakoodi3kaudet>0</kaytetytpoissakoodi3kaudet>
 		<kaytetytpoissakoodi3paivia>0</kaytetytpoissakoodi3paivia>
 		<kk>ARCADA</kk>
+		<lasnaololukukaudet>6</lasnaololukukaudet>
 		<onaiempitutkinto>1</onaiempitutkinto>
 		<opintosuoritusavain>7121-28626</opintosuoritusavain>
 		<opiskelijaavain>7121</opiskelijaavain>
@@ -42,9 +46,11 @@
 		<oppilaitosnro>02535</oppilaitosnro>
 		<paivia>615</paivia>
 		<sukupuoli>2</sukupuoli>
+		<tavoiteaikavuosia>5.0</tavoiteaikavuosia>
 		<tavoiteajassavalmistunut>1</tavoiteajassavalmistunut>
 		<tavoitelukukaudet>4</tavoitelukukaudet>
 		<tutkinnonsuorituspvm>1483221600000</tutkinnonsuorituspvm>
+		<tutkintokerroin>1.5</tutkintokerroin>
 		<tutkintokoodi>631101</tutkintokoodi>
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>210</vaadittuop>
@@ -60,6 +66,7 @@
 		<kaytetytpoissakoodi3kaudet>0</kaytetytpoissakoodi3kaudet>
 		<kaytetytpoissakoodi3paivia>0</kaytetytpoissakoodi3paivia>
 		<kk>ARCADA</kk>
+		<lasnaololukukaudet>6</lasnaololukukaudet>
 		<onaiempitutkinto>1</onaiempitutkinto>
 		<opintosuoritusavain>8121-38626</opintosuoritusavain>
 		<opiskelijaavain>8121</opiskelijaavain>
@@ -67,9 +74,11 @@
 		<oppilaitosnro>02535</oppilaitosnro>
 		<paivia>615</paivia>
 		<sukupuoli>2</sukupuoli>
+		<tavoiteaikavuosia>5.0</tavoiteaikavuosia>
 		<tavoiteajassavalmistunut>1</tavoiteajassavalmistunut>
 		<tavoitelukukaudet>4</tavoitelukukaudet>
 		<tutkinnonsuorituspvm>1483221600000</tutkinnonsuorituspvm>
+		<tutkintokerroin>1.5</tutkintokerroin>
 		<tutkintokoodi>671112</tutkintokoodi>
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>210</vaadittuop>

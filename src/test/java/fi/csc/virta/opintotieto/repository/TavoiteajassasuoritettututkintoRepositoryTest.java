@@ -15,9 +15,18 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
     @Test
     public void testStreamAll() throws Exception {
           assertStreamResults(Arrays.asList(
-                        createEntity(  1L, new Date(), 2015, 31, 3, 0, 0, 0, 0, "ARCADA", 1, "6121-18626", "6121", "18626", "02535",615,2,1,4, new Date(), "721601", 2017, 60, 1.7 ),
-                        createEntity(  2L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 1, "7121-28626", "7121", "28626", "02535",615,2,1,4, new Date(), "631101", 2017, 210, 2.0 ),
-						createEntity(  3L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 1, "8121-38626", "8121", "38626", "02535",615,2,1,4, new Date(), "671112", 2017, 210, 3.0 )
+                        createEntity(  1L, new Date(), 2015, 31, 3, 0, 0, 0, 0, "ARCADA", 6  
+																				, 1, "6121-18626", "6121", "18626", "02535",615,2, 5.0
+																				,1,4, new Date(), 1.5, "721601"
+																				, 2017, 60, 1.7 ),
+                        createEntity(  2L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
+																				, 1, "7121-28626", "7121", "28626", "02535",615,2, 5.0
+																				,1,4, new Date(), 1.5, "631101"
+																				, 2017, 210, 2.0 ),
+						createEntity(  3L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
+																				, 1, "8121-38626", "8121", "38626", "02535",615,2, 5.0
+																				,1,4, new Date(), 1.5, "671112"
+																				, 2017, 210, 3.0 )
 						),
 						repository.streamAll()
 										);
@@ -26,36 +35,47 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
     private Tavoiteajassasuoritettututkinto createEntity( long id, Date alkamispvm, int aloitusvuosi, int ika, int kaytetytlukukaudet,
                             int kaytetytpoissakoodi2kaudet, int kaytetytpoissakoodi2paivia,
                             int kaytetytpoissakoodi3kaudet, int kaytetytpoissakoodi3paivia,
-														String kk, int onaiempitutkinto, String opintosuoritusavain,String opiskelijaavain,
+														String kk, 
+														int lasnaololukukaudet,
+														int onaiempitutkinto, String opintosuoritusavain,String opiskelijaavain,
 														String opiskeluoikeusavain, String oppilaitosnro, int paivia, int sukupuoli,
+														double tavoiteaikavuosia,
 														int tavoiteajassavalmistunut, int tavoitelukukaudet, Date tutkinnonsuorituspvm,
+														double tutkintokerroin,
 														String  tutkintokoodi, int tutkintovuosi, int vaadittuop, double vuosia ) {
 
 		Tavoiteajassasuoritettututkinto entity = new Tavoiteajassasuoritettututkinto();
 
 		entity.setId(id);
 		entity.setAlkamispvm(alkamispvm);
-    entity.setAloitusvuosi(aloitusvuosi);
+		entity.setAloitusvuosi(aloitusvuosi);
 		entity.setIka(ika);
 		entity.setKaytetytlukukaudet(kaytetytlukukaudet);
 
-    entity.setKaytetytpoissakoodi2kaudet(kaytetytpoissakoodi2kaudet);		
-    entity.setKaytetytpoissakoodi2paivia(kaytetytpoissakoodi2paivia);
-    entity.setKaytetytpoissakoodi3kaudet(kaytetytpoissakoodi3kaudet);
-    entity.setKaytetytpoissakoodi3paivia(kaytetytpoissakoodi3paivia);
-
-
-    entity.setKk(kk);
-    entity.setOnaiempitutkinto(onaiempitutkinto);
-    entity.setOpintosuoritusavain(opintosuoritusavain);
+		entity.setKaytetytpoissakoodi2kaudet(kaytetytpoissakoodi2kaudet);		
+		entity.setKaytetytpoissakoodi2paivia(kaytetytpoissakoodi2paivia);
+		entity.setKaytetytpoissakoodi3kaudet(kaytetytpoissakoodi3kaudet);
+		entity.setKaytetytpoissakoodi3paivia(kaytetytpoissakoodi3paivia);
+		entity.setKk(kk);
+		
+		entity.setLasnaololukukaudet(lasnaololukukaudet);
+		
+		entity.setOnaiempitutkinto(onaiempitutkinto);
+		entity.setOpintosuoritusavain(opintosuoritusavain);
 		entity.setOpiskelijaavain(opiskelijaavain);
-    entity.setOpiskeluoikeusavain(opiskeluoikeusavain);
+		entity.setOpiskeluoikeusavain(opiskeluoikeusavain);
 		entity.setOppilaitosnro(oppilaitosnro) ;
 		entity.setPaivia(paivia);
-		entity.setSukupuoli(sukupuoli);
+		entity.setSukupuoli(sukupuoli);		
+		
+		entity.setTavoiteaikavuosia(tavoiteaikavuosia);		
+		
 		entity.setTavoiteajassavalmistunut(tavoiteajassavalmistunut) ;
 		entity.setTavoitelukukaudet(tavoitelukukaudet);
 		entity.setTutkinnonsuorituspvm(tutkinnonsuorituspvm);
+		
+		entity.setTutkintokerroin(tutkintokerroin);
+		
 		entity.setTutkintokoodi(tutkintokoodi);
 		entity.setTutkintovuosi(tutkintovuosi);
 		entity.setVaadittuop(vaadittuop);
