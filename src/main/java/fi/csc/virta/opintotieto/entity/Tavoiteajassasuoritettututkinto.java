@@ -49,6 +49,17 @@ public class Tavoiteajassasuoritettututkinto  {
 	private Integer vaadittuop = 0;
 	private double  vuosia = 0.0;
 
+	
+	private String xkoulutuskieli  = "";
+	private String xkoulutuskunta  = "";
+	private Integer xonenintaan12kk = 0;
+	private Integer xonryhmaa = 0;
+	private Integer xonryhmab = 0;
+	private Integer xonryhmac = 0;
+	private Integer xonyli12kk = 0;
+
+	
+	
     @JsonIgnore
     public Long getId() {
         return id;
@@ -266,6 +277,66 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setVuosia(double vuosia) {
         this.vuosia = vuosia;
     }
+
+	
+    public Integer getXonenintaan12kk() {
+        return xonenintaan12kk;
+    }
+
+    public void setXonenintaan12kk(Integer xonenintaan12kk) {
+        this.xonenintaan12kk = xonenintaan12kk;
+    }		
+	
+    public String getXkoulutuskieli() {
+        return xkoulutuskieli;
+    }
+
+    public void setXkoulutuskieli(String xkoulutuskieli) {
+        this.xkoulutuskieli = xkoulutuskieli;
+    }
+	
+	public String getXkoulutuskunta() {
+        return xkoulutuskunta;
+    }
+
+    public void setXkoulutuskunta(String xkoulutuskunta) {
+        this.xkoulutuskunta = xkoulutuskunta;
+    }
+	
+    public Integer getXonryhmaa() {
+        return xonryhmaa;
+    }
+
+    public void setXonryhmaa(Integer xonryhmaa) {
+        this.xonryhmaa = xonryhmaa;
+    }
+	
 		
+    public Integer getXonryhmab() {
+        return xonryhmab;
+    }
+
+    public void setXonryhmab(Integer xonryhmab) {
+        this.xonryhmab = xonryhmab;
+    }
+		
+		
+    public Integer getXonryhmac() {
+        return xonryhmac;
+    }
+
+    public void setXonryhmac(Integer xonryhmac) {
+        this.xonryhmac = xonryhmac;
+    }
+		
+    public Integer getXonyli12kk() {
+        return xonyli12kk;
+    }
+
+    public void setXonyli12kk(Integer xonyli12kk) {
+        this.xonyli12kk = xonyli12kk;
+    }
+	
+	
 
 }

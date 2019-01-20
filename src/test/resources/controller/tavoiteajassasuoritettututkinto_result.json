@@ -24,7 +24,14 @@
 "tutkintokoodi":"721601",
 "tutkintovuosi":2017,
 "vaadittuop":60,
-"vuosia":1.7
+"vuosia":1.7,
+"xkoulutuskieli":"fi",
+"xkoulutuskunta":"091",
+"xonenintaan12kk":0,
+"xonryhmaa":0,
+"xonryhmab":0,
+"xonryhmac":0,
+"xonyli12kk":0
 },
 {"alkamispvm":1438376400000,
 "aloitusvuosi":2015,
@@ -51,7 +58,14 @@
 "tutkintokoodi":"631101",
 "tutkintovuosi":2017,
 "vaadittuop":210,
-"vuosia":2.0
+"vuosia":2.0,
+"xkoulutuskieli":"fi",
+"xkoulutuskunta":"091",
+"xonenintaan12kk":0,
+"xonryhmaa":0,
+"xonryhmab":0,
+"xonryhmac":0,
+"xonyli12kk":0
 },
 {"alkamispvm":1438376400000,
 "aloitusvuosi":2015,
@@ -78,7 +92,14 @@
 "tutkintokoodi":"671112",
 "tutkintovuosi":2017,
 "vaadittuop":210,
-"vuosia":3.0
+"vuosia":3.0,
+"xkoulutuskieli":"fi",
+"xkoulutuskunta":"091",
+"xonenintaan12kk":0,
+"xonryhmaa":0,
+"xonryhmab":0,
+"xonryhmac":0,
+"xonyli12kk":0
 }
 
 

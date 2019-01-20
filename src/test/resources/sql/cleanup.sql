@@ -39,3 +39,4 @@ TRUNCATE TABLE rekrytohtorit;
 TRUNCATE TABLE lukuvuosimaksuvelvolliset;
 TRUNCATE TABLE valmentavaan_koulutukseen_osallistuneet;
 TRUNCATE TABLE tk_opisk_ennakko;
+TRUNCATE TABLE kansainvalisettutkinnot;

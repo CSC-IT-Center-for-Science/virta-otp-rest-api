@@ -27,6 +27,13 @@
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>60</vaadittuop>
 		<vuosia>1.7</vuosia>
+		<xkoulutuskieli>fi</xkoulutuskieli>
+		<xkoulutuskunta>091</xkoulutuskunta>
+		<xonenintaan12kk>0</xonenintaan12kk>
+		<xonryhmaa>0</xonryhmaa>
+		<xonryhmab>0</xonryhmab>
+		<xonryhmac>0</xonryhmac>
+		<xonyli12kk>0</xonyli12kk>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -55,6 +62,13 @@
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>210</vaadittuop>
 		<vuosia>2.0</vuosia>
+		<xkoulutuskieli>fi</xkoulutuskieli>
+		<xkoulutuskunta>091</xkoulutuskunta>
+		<xonenintaan12kk>0</xonenintaan12kk>
+		<xonryhmaa>0</xonryhmaa>
+		<xonryhmab>0</xonryhmab>
+		<xonryhmac>0</xonryhmac>
+		<xonyli12kk>0</xonyli12kk>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -83,5 +97,12 @@
 		<tutkintovuosi>2017</tutkintovuosi>
 		<vaadittuop>210</vaadittuop>
 		<vuosia>3.0</vuosia>
+		<xkoulutuskieli>fi</xkoulutuskieli>
+		<xkoulutuskunta>091</xkoulutuskunta>
+		<xonenintaan12kk>0</xonenintaan12kk>
+		<xonryhmaa>0</xonryhmaa>
+		<xonryhmab>0</xonryhmab>
+		<xonryhmac>0</xonryhmac>
+		<xonyli12kk>0</xonyli12kk>
 </Tavoiteajassasuoritettututkinto>
 </Result>
