@@ -21,20 +21,32 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				, 2017, 60, 1.7 
 																				,"fi","091"
 																				,0,0,0,0,0
+																				,0,0,0,0
+																				,0,0,0
+																				,"123456", new Date(), "NOVIA"
+																				,0,0
 																				),
                         createEntity(  2L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "7121-28626", "7121", "28626", "02535",615,2, 5.0
 																				,1,4, new Date(), 1.5, "631101"
 																				, 2017, 210, 2.0 
 																				,"fi","091"
-																				,0,0,0,0,0																				
+																				,0,0,0,0,0	
+																				,0,0,0,0
+																				,0,0,0
+																				,"123456", new Date(), "NOVIA"
+																				,0,0	
 																				),
 						createEntity(  3L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "8121-38626", "8121", "38626", "02535",615,2, 5.0
 																				,1,4, new Date(), 1.5, "671112"
 																				, 2017, 210, 3.0 
 																				,"fi","091"
-																				,0,0,0,0,0																				
+																				,0,0,0,0,0
+																				,0,0,0,0
+																				,0,0,0
+																				,"123456", new Date(), "NOVIA"
+																				,0,0
 																				)
 						),
 						repository.streamAll()
@@ -53,7 +65,11 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 														double tutkintokerroin,
 														String  tutkintokoodi, int tutkintovuosi, int vaadittuop, double vuosia,
 														String xkoulutuskieli, String xkoulutuskunta, 
-														int xonenintaan12kk, int xonryhmaa, int xonryhmab, int xonryhmac, int xonyli12kk
+														int xonenintaan12kk, int xonryhmaa, int xonryhmab, int xonryhmac, int xonyli12kk,
+														int xxalasnaololukukaudet, int xxblasnaolokuukaudet, int xxcpoissaololukukaudet, int xxdpoissaolokuukaudet,
+														int xxetavoiteaikakuukausia, int xxfkaytettyaikakk, int xxgkokonaisaikakk,
+														String xxhaiempitutkintokoodi, Date xxiaiempitutkintosuorituspvm, String xxjaiempikk, 
+														int xxksiirtoopiskelija, int xxlavoimenvayla
 
 
 														) {
@@ -103,6 +119,19 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 		entity.setXonryhmac(xonryhmac);
 		entity.setXonyli12kk(xonyli12kk);
 		
+		entity.setXxalasnaololukukaudet(xxalasnaololukukaudet); 
+		entity.setXxblasnaolokuukaudet(xxblasnaolokuukaudet);
+		entity.setXxcpoissaololukukaudet(xxcpoissaololukukaudet);
+		entity.setXxdpoissaolokuukaudet(xxdpoissaolokuukaudet);
+		entity.setXxetavoiteaikakuukausia(xxetavoiteaikakuukausia);
+		entity.setXxetavoiteaikakuukausia(xxetavoiteaikakuukausia);
+		entity.setXxfkaytettyaikakk(xxfkaytettyaikakk);
+		entity.setXxgkokonaisaikakk(xxgkokonaisaikakk);
+		entity.setXxhaiempitutkintokoodi(xxhaiempitutkintokoodi);
+		entity.setXxiaiempitutkintosuorituspvm(xxiaiempitutkintosuorituspvm);
+		entity.setXxjaiempikk(xxjaiempikk);
+		entity.setXxksiirtoopiskelija(xxksiirtoopiskelija);
+		entity.setXxlavoimenvayla(xxlavoimenvayla);
 		
 		
 

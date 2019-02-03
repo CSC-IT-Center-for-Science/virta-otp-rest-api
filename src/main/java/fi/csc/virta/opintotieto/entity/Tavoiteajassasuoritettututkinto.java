@@ -58,6 +58,19 @@ public class Tavoiteajassasuoritettututkinto  {
 	private Integer xonryhmac = 0;
 	private Integer xonyli12kk = 0;
 
+	/* 2019-02-03*/
+	private Integer xxalasnaololukukaudet = 0;
+	private Integer xxblasnaolokuukaudet = 0;
+	private Integer xxcpoissaololukukaudet = 0;
+	private Integer xxdpoissaolokuukaudet = 0;
+	private Integer xxetavoiteaikakuukausia = 0;
+	private Integer xxfkaytettyaikakk = 0;
+	private Integer xxgkokonaisaikakk = 0;
+	private String  xxhaiempitutkintokoodi = "";
+	private Date    xxiaiempitutkintosuorituspvm;
+	private String  xxjaiempikk = "";
+	private Integer xxksiirtoopiskelija = 0;
+	private Integer xxlavoimenvayla = 0;
 	
 	
     @JsonIgnore
@@ -337,6 +350,101 @@ public class Tavoiteajassasuoritettututkinto  {
         this.xonyli12kk = xonyli12kk;
     }
 	
-	
+	/* 2019-02-03 */	
+	public Integer getXxalasnaololukukaudet() {
+        return xxalasnaololukukaudet;
+    }
 
+    public void setXxalasnaololukukaudet(Integer xxalasnaololukukaudet) {
+        this.xxalasnaololukukaudet = xxalasnaololukukaudet;
+    }
+		
+	public Integer getXxblasnaolokuukaudet() {
+        return xxblasnaolokuukaudet;
+    }
+
+    public void setXxblasnaolokuukaudet(Integer xxblasnaolokuukaudet) {
+        this.xxblasnaolokuukaudet = xxblasnaolokuukaudet;
+    }
+	
+	public Integer getXxcpoissaololukukaudet() {
+        return xxcpoissaololukukaudet;
+    }
+
+    public void setXxcpoissaololukukaudet(Integer xxcpoissaololukukaudet) {
+        this.xxcpoissaololukukaudet = xxcpoissaololukukaudet;
+    }
+		
+	public Integer getXxdpoissaolokuukaudet() {
+        return xxdpoissaolokuukaudet;
+    }
+
+    public void setXxdpoissaolokuukaudet(Integer xxdpoissaolokuukaudet) {
+        this.xxdpoissaolokuukaudet = xxdpoissaolokuukaudet;
+    }
+			
+	public Integer getXxetavoiteaikakuukausia() {
+        return xxetavoiteaikakuukausia;
+    }
+
+    public void setXxetavoiteaikakuukausia(Integer xxetavoiteaikakuukausia) {
+        this.xxetavoiteaikakuukausia = xxetavoiteaikakuukausia;
+    }
+		
+	public Integer getXxfkaytettyaikakk() {
+        return xxfkaytettyaikakk;
+    }
+
+    public void setXxfkaytettyaikakk(Integer xxfkaytettyaikakk) {
+        this.xxfkaytettyaikakk = xxfkaytettyaikakk;
+    }
+
+	public Integer getXxgkokonaisaikakk() {
+        return xxgkokonaisaikakk;
+    }
+
+    public void setXxgkokonaisaikakk(Integer xxgkokonaisaikakk) {
+        this.xxgkokonaisaikakk = xxgkokonaisaikakk;
+    }
+		
+	public String getXxhaiempitutkintokoodi() {
+        return xxhaiempitutkintokoodi;
+    }
+
+    public void setXxhaiempitutkintokoodi(String xxhaiempitutkintokoodi) {
+        this.xxhaiempitutkintokoodi = xxhaiempitutkintokoodi;
+    }
+
+	public Date getXxiaiempitutkintosuorituspvm() {
+        return xxiaiempitutkintosuorituspvm;
+    }
+
+    public void setXxiaiempitutkintosuorituspvm(Date xxiaiempitutkintosuorituspvm) {
+        this.xxiaiempitutkintosuorituspvm = xxiaiempitutkintosuorituspvm;
+    }	
+	
+	public String getXxjaiempikk() {
+        return xxjaiempikk;
+    }
+
+    public void setXxjaiempikk(String xxjaiempikk) {
+        this.xxjaiempikk = xxjaiempikk;
+    }	
+	
+	public Integer getXxksiirtoopiskelija() {
+        return xxksiirtoopiskelija;
+    }
+
+    public void setXxksiirtoopiskelija(Integer xxksiirtoopiskelija) {
+        this.xxksiirtoopiskelija = xxksiirtoopiskelija;
+    }
+
+	public Integer getXxlavoimenvayla() {
+        return xxlavoimenvayla;
+    }
+
+    public void setXxlavoimenvayla(Integer xxlavoimenvayla) {
+        this.xxlavoimenvayla = xxlavoimenvayla;
+    }	
+	
 }
