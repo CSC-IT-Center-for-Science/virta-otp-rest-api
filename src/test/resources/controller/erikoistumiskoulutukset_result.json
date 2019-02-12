@@ -5,7 +5,11 @@
 	"ohjauksenalakoodi": "8",
 	"opiskeluoikeudenalkamispaivamaara":1506027600000,
 	"oppilaitoskoodi":"02509",
-	"sukupuolikoodi": "1"
+	"sukupuolikoodi": "1",
+	"tutkinnonsuorituspvm": 1506027600000,
+	"tutkinnonsuoropkoodi":"10118",
+	"tutkinnontasokoodi":"1",
+	"ylinuusintutkintokoodi": "671113"
   }, 
   {	
     "erikoistumiskoulutuskoodi":"024",
@@ -13,6 +17,10 @@
 	"ohjauksenalakoodi": "2",
 	"opiskeluoikeudenalkamispaivamaara":1506027600000,
 	"oppilaitoskoodi":"02535",	 
-	"sukupuolikoodi": "2"
+	"sukupuolikoodi": "2",
+	"tutkinnonsuorituspvm": 1506027600000,
+	"tutkinnonsuoropkoodi":"02470",
+	"tutkinnontasokoodi":"2",
+	"ylinuusintutkintokoodi": "671101"
   }
 ]

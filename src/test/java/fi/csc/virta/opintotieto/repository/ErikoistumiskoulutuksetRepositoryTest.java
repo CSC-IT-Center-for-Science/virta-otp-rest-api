@@ -15,14 +15,14 @@ public class ErikoistumiskoulutuksetRepositoryTest extends BaseRepositoryTest<Er
     @Test
     public void testStreamAll() throws Exception {       
           assertStreamResults(Arrays.asList(						
-                        createEntity( 1,"048",60,"8",new Date(),"02509","1"),
-                        createEntity( 2,"024",18,"2",new Date(),"02535","2")
+                        createEntity( 1,"048",60,"8",new Date(),"02509","1",new Date(),"10118","1","671113"),
+                        createEntity( 2,"024",18,"2",new Date(),"02535","2",new Date(),"02470","2","671101")
 						),						
 						repository.streamAll()
 										);
     }
 
-    private Erikoistumiskoulutukset createEntity( long id, String erikoistumiskoulutuskoodi, int ika, String ohjauksenalakoodi, Date opiskeluoikeudenalkamispaivamaara, String oppilaitoskoodi, String sukupuolikoodi ) {
+    private Erikoistumiskoulutukset createEntity( long id, String erikoistumiskoulutuskoodi, int ika, String ohjauksenalakoodi, Date opiskeluoikeudenalkamispaivamaara, String oppilaitoskoodi, String sukupuolikoodi, Date tutkinnonsuorituspvm, String tutkinnonsuoropkoodi,String tutkinnontasokoodi,String ylinuusintutkintokoodi  ) {
         		
 		Erikoistumiskoulutukset entity = new Erikoistumiskoulutukset();
 		
@@ -33,7 +33,10 @@ public class ErikoistumiskoulutuksetRepositoryTest extends BaseRepositoryTest<Er
         entity.setOpiskeluoikeudenalkamispaivamaara(opiskeluoikeudenalkamispaivamaara);
         entity.setOppilaitoskoodi(oppilaitoskoodi);  
 		entity.setSukupuolikoodi(sukupuolikoodi);	
-		
+		entity.setTutkinnonsuorituspvm(tutkinnonsuorituspvm);
+		entity.setTutkinnonsuoropkoodi(tutkinnonsuoropkoodi);
+		entity.setTutkinnontasokoodi(tutkinnontasokoodi);
+		entity.setYlinuusintutkintokoodi(ylinuusintutkintokoodi);
         em.persist(entity);		
 		
         return entity;

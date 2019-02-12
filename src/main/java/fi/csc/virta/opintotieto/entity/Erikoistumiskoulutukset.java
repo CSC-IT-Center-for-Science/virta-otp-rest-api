@@ -21,6 +21,11 @@ public class Erikoistumiskoulutukset  {
 	private Date opiskeluoikeudenalkamispaivamaara;
 	private String oppilaitoskoodi;	 	
 	private String sukupuolikoodi;
+	private Date tutkinnonsuorituspvm;
+	private String tutkinnonsuoropkoodi;
+	private String tutkinnontasokoodi;
+	private String ylinuusintutkintokoodi;
+	
 
     /*getId funktio   */
     @JsonIgnore
@@ -96,6 +101,53 @@ public class Erikoistumiskoulutukset  {
     public void setSukupuolikoodi(String sukupuolikoodi) {
         this.sukupuolikoodi = sukupuolikoodi;
     }	
+	
+	
+	
+    /*getOTutkinnonsuorituspvm*/	
+    public Date getTutkinnonsuorituspvm() {
+        return tutkinnonsuorituspvm;
+    }
+	
+	 /*setTutkinnonsuorituspvm*/
+    public void setTutkinnonsuorituspvm(Date tutkinnonsuorituspvm) {
+        this.tutkinnonsuorituspvm = tutkinnonsuorituspvm;
+    }   
    
-		
+   
+   
+   
+    /*getOTutkinnonsuoropkoodi*/	
+    public String getTutkinnonsuoropkoodi() {
+        return tutkinnonsuoropkoodi;
+    }
+   
+    /*setTutkinnonsuoropkoodi*/
+    public void setTutkinnonsuoropkoodi(String tutkinnonsuoropkoodi) {
+        this.tutkinnonsuoropkoodi = tutkinnonsuoropkoodi;
+    }	
+	
+	
+	
+	 /*geTutkinnontasokoodi*/	
+    public String getTutkinnontasokoodi() {
+        return tutkinnontasokoodi;
+    }
+	 /*setTutkinnontasokoodi*/
+    public void setTutkinnontasokoodi(String tutkinnontasokoodi) {
+        this.tutkinnontasokoodi = tutkinnontasokoodi;
+    }	
+	
+	
+	
+    /*geYlinuusintutkintokoodi*/	
+    public String getYlinuusintutkintokoodi() {
+        return ylinuusintutkintokoodi;
+    }
+   
+	 /*setYlinuusintutkintokoodi*/
+    public void setYlinuusintutkintokoodi(String ylinuusintutkintokoodi) {
+        this.ylinuusintutkintokoodi = ylinuusintutkintokoodi;
+    }	
+
 }

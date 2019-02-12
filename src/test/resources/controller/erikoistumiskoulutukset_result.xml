@@ -7,6 +7,10 @@
 <opiskeluoikeudenalkamispaivamaara>1506027600000</opiskeluoikeudenalkamispaivamaara>
 <oppilaitoskoodi>02509</oppilaitoskoodi>
 <sukupuolikoodi>1</sukupuolikoodi>
+<tutkinnonsuorituspvm>1506027600000</tutkinnonsuorituspvm>
+<tutkinnonsuoropkoodi>10118</tutkinnonsuoropkoodi>
+<tutkinnontasokoodi>1</tutkinnontasokoodi>
+<ylinuusintutkintokoodi>671113</ylinuusintutkintokoodi>
 </Erikoistumiskoulutukset>
 <Erikoistumiskoulutukset>
 <erikoistumiskoulutuskoodi>024</erikoistumiskoulutuskoodi>
@@ -15,5 +19,9 @@
 <opiskeluoikeudenalkamispaivamaara>1506027600000</opiskeluoikeudenalkamispaivamaara>
 <oppilaitoskoodi>02535</oppilaitoskoodi>
 <sukupuolikoodi>2</sukupuolikoodi>
+<tutkinnonsuorituspvm>1506027600000</tutkinnonsuorituspvm>
+<tutkinnonsuoropkoodi>02470</tutkinnonsuoropkoodi>
+<tutkinnontasokoodi>2</tutkinnontasokoodi>
+<ylinuusintutkintokoodi>671101</ylinuusintutkintokoodi>
 </Erikoistumiskoulutukset>
 </Result>
