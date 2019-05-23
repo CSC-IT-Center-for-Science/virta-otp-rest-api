@@ -33,6 +33,7 @@ public class Tutkinnonsuorittaneetvaihdossapervuosi  {
 	private Date tutkinnonsuorituspaivamaara;
 	private Integer tutkinnonsuoritusvuosi = 0;
 	private String tutkintokoodi= "";
+	private Integer vaihtovuosi = 0;
 
 
     /*getId funktio   */
@@ -240,7 +241,17 @@ public class Tutkinnonsuorittaneetvaihdossapervuosi  {
     }	
 	
 	
+    /*getVaihtovuosi*/
+	public Integer getVaihtovuosi() {
+        return vaihtovuosi;
+    }
+		
+		
+	/* setTutkinnonsuoritusvuosi */
+    public void setVaihtovuosi(Integer vaihtovuosi) {
 
+	 	this.vaihtovuosi = vaihtovuosi;
+	 }
    
 		
 }

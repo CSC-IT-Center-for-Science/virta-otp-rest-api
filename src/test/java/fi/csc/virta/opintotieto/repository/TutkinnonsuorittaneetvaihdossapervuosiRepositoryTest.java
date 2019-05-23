@@ -19,7 +19,7 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
 										, 2, 19, 45
 										, "1", "2", "101", "5", "383316", "1", "02629", "2"
 										, new Date(), 2003
-										, "631101")
+										, "631101",2016)
                         
 						),						
 						repository.streamAll()
@@ -48,6 +48,7 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
 															, Date tutkinnonsuorituspaivamaara
 															, int tutkinnonsuoritusvuosi
 															, String tutkintokoodi 
+															, int vaihtovuosi
 															) 
     {
         		
@@ -72,6 +73,7 @@ public class TutkinnonsuorittaneetvaihdossapervuosiRepositoryTest extends BaseRe
 							entity.setTutkinnonsuorituspaivamaara(tutkinnonsuorituspaivamaara);  
 							entity.setTutkinnonsuoritusvuosi(tutkinnonsuoritusvuosi);
 							entity.setTutkintokoodi(tutkintokoodi);
+							entity.setVaihtovuosi(vaihtovuosi);
 							em.persist(entity);		
 		
 							return entity;

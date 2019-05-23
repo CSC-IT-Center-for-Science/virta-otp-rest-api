@@ -5,7 +5,8 @@ INSERT INTO tutkinnonsuorittaneetvaihdossapervuosi
 		   , ohjauksenalakoodi, opiskelijaavain, opiskeluoikeudentyyppikoodi
 		   , oppilaitoskoodi, sukupuolikoodi,tutkinnonsuorituspaivamaara,
 		    tutkinnonsuoritusvuosi, 
-		    tutkintokoodi
+		    tutkintokoodi, 
+			vaihtovuosi
 		   )
 	VALUES  (  1, 27, '156', '246'
 	         , 2, 19, 45
@@ -13,4 +14,5 @@ INSERT INTO tutkinnonsuorittaneetvaihdossapervuosi
 			 , '5', '383316', '1'
 			 , '02629', '2', '2016-01-01'
 			 , 2003
-			 , '631101' );  
+			 , '631101'
+             ,2016			 );  
