@@ -1,6 +1,10 @@
 # Directories
+.git
 .gradle
 .idea
+.settings
+.vscode
+bin/
 build/
 
 # Files
@@ -8,3 +12,5 @@ build/
 !gradle-wrapper.jar
 *.iml
 *.log
+.classpath
+.project

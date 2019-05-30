@@ -43,7 +43,9 @@
 "xxiaiempitutkintosuorituspvm":1483221600000, 
 "xxjaiempikk":"NOVIA",
 "xxksiirtoopiskelija":0,
-"xxlavoimenvayla":0
+"xxlavoimenvayla":0,
+"xxlkoulutustyyppi":1,
+"xxltutkintoryhma":"A"
 },
 {"alkamispvm":1438376400000,
 "aloitusvuosi":2015,
@@ -89,7 +91,9 @@
 "xxiaiempitutkintosuorituspvm":1483221600000, 
 "xxjaiempikk":"NOVIA",
 "xxksiirtoopiskelija":0,
-"xxlavoimenvayla":0
+"xxlavoimenvayla":0,
+"xxlkoulutustyyppi":1,
+"xxltutkintoryhma":"A"
 },
 {"alkamispvm":1438376400000,
 "aloitusvuosi":2015,
@@ -135,7 +139,9 @@
 "xxiaiempitutkintosuorituspvm":1483221600000, 
 "xxjaiempikk":"NOVIA",
 "xxksiirtoopiskelija":0,
-"xxlavoimenvayla":0
+"xxlavoimenvayla":0,
+"xxlkoulutustyyppi":1,
+"xxltutkintoryhma":"A"
 }
 
 

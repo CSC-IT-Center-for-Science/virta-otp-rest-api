@@ -71,7 +71,9 @@ public class Tavoiteajassasuoritettututkinto  {
 	private String  xxjaiempikk = "";
 	private Integer xxksiirtoopiskelija = 0;
 	private Integer xxlavoimenvayla = 0;
-	
+    
+    private Integer xxlkoulutustyyppi = 0;
+	private String xxltutkintoryhma = "";
 	
     @JsonIgnore
     public Long getId() {
@@ -445,6 +447,22 @@ public class Tavoiteajassasuoritettututkinto  {
 
     public void setXxlavoimenvayla(Integer xxlavoimenvayla) {
         this.xxlavoimenvayla = xxlavoimenvayla;
+    }	
+      
+    public Integer getXxlkoulutustyyppi() {
+        return xxlkoulutustyyppi;
+    }
+
+    public void setXxlkoulutustyyppi(Integer xxlkoulutustyyppi) {
+        this.xxlkoulutustyyppi = xxlkoulutustyyppi;
+    }	
+
+    public String getXxltutkintoryhma() {
+        return xxltutkintoryhma;
+    }
+
+    public void setXxltutkintoryhma(String xxltutkintoryhma) {
+        this.xxltutkintoryhma = xxltutkintoryhma;
     }	
 	
 }

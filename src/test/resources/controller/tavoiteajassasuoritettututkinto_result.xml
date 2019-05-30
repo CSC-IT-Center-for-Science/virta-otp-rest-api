@@ -46,6 +46,8 @@
 		<xxjaiempikk>NOVIA</xxjaiempikk>
 		<xxksiirtoopiskelija>0</xxksiirtoopiskelija>
 		<xxlavoimenvayla>0</xxlavoimenvayla>
+		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
+		<xxltutkintoryhma>A</xxltutkintoryhma>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -93,6 +95,8 @@
 		<xxjaiempikk>NOVIA</xxjaiempikk>
 		<xxksiirtoopiskelija>0</xxksiirtoopiskelija>
 		<xxlavoimenvayla>0</xxlavoimenvayla>
+		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
+		<xxltutkintoryhma>A</xxltutkintoryhma>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -140,5 +144,7 @@
 		<xxjaiempikk>NOVIA</xxjaiempikk>
 		<xxksiirtoopiskelija>0</xxksiirtoopiskelija>
 		<xxlavoimenvayla>0</xxlavoimenvayla>
+		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
+		<xxltutkintoryhma>A</xxltutkintoryhma>
 </Tavoiteajassasuoritettututkinto>
 </Result>

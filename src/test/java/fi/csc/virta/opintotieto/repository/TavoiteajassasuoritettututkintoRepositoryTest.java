@@ -25,6 +25,7 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,0,0,0
 																				,"123456", new Date(), "NOVIA"
 																				,0,0
+																				,1,"A"
 																				),
                         createEntity(  2L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "7121-28626", "7121", "28626", "02535",615,2, 5.0
@@ -35,7 +36,8 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,0,0,0,0
 																				,0,0,0
 																				,"123456", new Date(), "NOVIA"
-																				,0,0	
+																				,0,0
+																				,1,"A"	
 																				),
 						createEntity(  3L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "8121-38626", "8121", "38626", "02535",615,2, 5.0
@@ -47,6 +49,7 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,0,0,0
 																				,"123456", new Date(), "NOVIA"
 																				,0,0
+																				,1,"A"
 																				)
 						),
 						repository.streamAll()
@@ -69,8 +72,8 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 														int xxalasnaololukukaudet, int xxblasnaolokuukaudet, int xxcpoissaololukukaudet, int xxdpoissaolokuukaudet,
 														int xxetavoiteaikakuukausia, int xxfkaytettyaikakk, int xxgkokonaisaikakk,
 														String xxhaiempitutkintokoodi, Date xxiaiempitutkintosuorituspvm, String xxjaiempikk, 
-														int xxksiirtoopiskelija, int xxlavoimenvayla
-
+														int xxksiirtoopiskelija, int xxlavoimenvayla,
+														int xxlkoulutustyyppi, String xxltutkintoryhma
 
 														) {
 
@@ -132,7 +135,9 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 		entity.setXxjaiempikk(xxjaiempikk);
 		entity.setXxksiirtoopiskelija(xxksiirtoopiskelija);
 		entity.setXxlavoimenvayla(xxlavoimenvayla);
-		
+
+		entity.setXxlkoulutustyyppi(xxlkoulutustyyppi);
+		entity.setXxltutkintoryhma(xxltutkintoryhma);		
 		
 
         em.persist(entity);
