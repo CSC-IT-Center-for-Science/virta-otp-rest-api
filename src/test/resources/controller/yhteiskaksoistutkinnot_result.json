@@ -1,0 +1,35 @@
+[ 
+     {
+        "ika": 25,
+		"kansalaisuus": "246",   
+		"kk": "ARCADA", 
+		"luokittelukoodi": "9",       
+		"opiskelijaavain": "AAA",
+        "oppilaitoskoodi": "02535",
+		"sukupuoli": 2,
+        "tutkintokoodi": "101199",
+        "tutkintovuosi": 2017
+      },
+      {
+        "ika": 25,
+		"kansalaisuus": "246",   
+		"kk": "ARCADA", 
+		"luokittelukoodi": "9",       
+        "opiskelijaavain": "BBB",
+		"oppilaitoskoodi": "02535",
+		"sukupuoli": 2,
+        "tutkintokoodi": "101199",
+        "tutkintovuosi": 2017
+      },
+      {
+        "ika": 25,
+		"kansalaisuus": "246",   
+		"kk": "ARCADA", 
+		"luokittelukoodi": "9",  
+		"opiskelijaavain": "CCC",		
+        "oppilaitoskoodi": "02535",
+		"sukupuoli": 2,
+        "tutkintokoodi": "101199",
+        "tutkintovuosi": 2017
+      }
+]
