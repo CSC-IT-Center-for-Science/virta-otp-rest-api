@@ -9,6 +9,8 @@ public class CIMOPitkaLahteva extends Cimo {
 
     private String kohdemaa;
     private String liikkuvuusohjelma;
+	private String lahtomaa;
+
 
     public String getKohdemaa() {
         return kohdemaa;
@@ -25,4 +27,6 @@ public class CIMOPitkaLahteva extends Cimo {
     public void setLiikkuvuusohjelma(String liikkuvuusohjelma) {
         this.liikkuvuusohjelma = liikkuvuusohjelma;
     }
+	
+
 }

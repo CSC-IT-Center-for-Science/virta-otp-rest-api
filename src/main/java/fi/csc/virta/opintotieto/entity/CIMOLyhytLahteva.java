@@ -16,4 +16,6 @@ public class CIMOLyhytLahteva extends Cimo {
     public void setKohdemaa(String kohdemaa) {
         this.kohdemaa = kohdemaa;
     }
+
+	
 }

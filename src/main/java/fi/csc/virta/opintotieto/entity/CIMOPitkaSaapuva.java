@@ -10,6 +10,7 @@ public class CIMOPitkaSaapuva extends Cimo {
     private String lahtomaa;
     private String kansalaisuus;
     private String liikkuvuusohjelma;
+	
 
     public String getLahtomaa() {
         return lahtomaa;
@@ -34,4 +35,6 @@ public class CIMOPitkaSaapuva extends Cimo {
     public void setLiikkuvuusohjelma(String liikkuvuusohjelma) {
         this.liikkuvuusohjelma = liikkuvuusohjelma;
     }
+	
+	
 }

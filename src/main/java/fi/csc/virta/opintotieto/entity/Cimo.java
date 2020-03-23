@@ -32,6 +32,8 @@ public abstract class Cimo {
     private String oppilaitos;
     private String sp;
     private String tyyppi;
+	private Integer xika;
+	
 
     @JsonIgnore
     public Long getId() {
@@ -50,7 +52,8 @@ public abstract class Cimo {
     public void setHetu(String hetu) {
         this.hetu = hetu;
     }
-
+	
+	
     public Date getJaksoAlkupvm() {
         return jaksoAlkupvm;
     }
@@ -194,4 +197,15 @@ public abstract class Cimo {
     public void setTyyppi(String tyyppi) {
         this.tyyppi = tyyppi;
     }
+	
+	public Integer getXIka() {
+        return xika;
+    }
+    
+    public void setXIka(Integer xika) {
+        this.xika = xika;
+    }
+
+	
+	
 }

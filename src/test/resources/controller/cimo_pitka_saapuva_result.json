@@ -21,7 +21,8 @@
     "opiskeluoikeusavain": "opiskeluoikeusavain",
     "oppilaitos": "oppilaitos",
     "sp": "sp",
-    "tyyppi": "tyyppi"
+    "tyyppi": "tyyppi",
+	"xika":1
   },
   {
     "hetu": "hetu2",
@@ -45,7 +46,8 @@
     "opiskeluoikeusavain": "opiskeluoikeusavain1",
     "oppilaitos": "oppilaitos1",
     "sp": "sp1",
-    "tyyppi": "tyyppi1"
+    "tyyppi": "tyyppi1",
+	"xika":2
   },
   {
     "hetu": "hetu3",
@@ -69,6 +71,7 @@
     "opiskeluoikeusavain": "opiskeluoikeusavain2",
     "oppilaitos": "oppilaitos2",
     "sp": "sp2",
-    "tyyppi": "tyyppi2"
+    "tyyppi": "tyyppi2",
+	"xika":3
   }
 ]

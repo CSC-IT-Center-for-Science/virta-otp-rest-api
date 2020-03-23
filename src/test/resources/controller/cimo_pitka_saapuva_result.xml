@@ -23,6 +23,7 @@
         <oppilaitos>oppilaitos</oppilaitos>
         <sp>sp</sp>
         <tyyppi>tyyppi</tyyppi>
+		<xika>1</xika>
     </CIMOPitkaSaapuva>
     <CIMOPitkaSaapuva>
         <hetu>hetu2</hetu>
@@ -47,6 +48,7 @@
         <oppilaitos>oppilaitos1</oppilaitos>
         <sp>sp1</sp>
         <tyyppi>tyyppi1</tyyppi>
+		<xika>2</xika>
     </CIMOPitkaSaapuva>
     <CIMOPitkaSaapuva>
         <hetu>hetu3</hetu>
@@ -71,5 +73,6 @@
         <oppilaitos>oppilaitos2</oppilaitos>
         <sp>sp2</sp>
         <tyyppi>tyyppi2</tyyppi>
+		<xika>3</xika>
     </CIMOPitkaSaapuva>
 </Result>

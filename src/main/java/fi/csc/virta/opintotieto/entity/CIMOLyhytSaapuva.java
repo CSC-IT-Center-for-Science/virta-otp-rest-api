@@ -8,7 +8,7 @@ import javax.persistence.Table;
 public class CIMOLyhytSaapuva extends Cimo {
 
     private String lahtomaa;
-
+	
     public String getLahtomaa() {
         return lahtomaa;
     }
@@ -16,4 +16,5 @@ public class CIMOLyhytSaapuva extends Cimo {
     public void setLahtomaa(String lahtomaa) {
         this.lahtomaa = lahtomaa;
     }
+	
 }
