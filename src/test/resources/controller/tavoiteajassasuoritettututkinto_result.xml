@@ -48,6 +48,8 @@
 		<xxlavoimenvayla>0</xxlavoimenvayla>
 		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
 		<xxltutkintoryhma>A</xxltutkintoryhma>
+		<xxmikatutkinnonaloitusajankohtana>25</xxmikatutkinnonaloitusajankohtana>
+		<xxmrahoituslahde>1</xxmrahoituslahde>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -97,6 +99,8 @@
 		<xxlavoimenvayla>0</xxlavoimenvayla>
 		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
 		<xxltutkintoryhma>A</xxltutkintoryhma>
+		<xxmikatutkinnonaloitusajankohtana>25</xxmikatutkinnonaloitusajankohtana>
+		<xxmrahoituslahde>1</xxmrahoituslahde>
 </Tavoiteajassasuoritettututkinto>
 <Tavoiteajassasuoritettututkinto>
 		<alkamispvm>1438376400000</alkamispvm>
@@ -146,5 +150,7 @@
 		<xxlavoimenvayla>0</xxlavoimenvayla>
 		<xxlkoulutustyyppi>1</xxlkoulutustyyppi>
 		<xxltutkintoryhma>A</xxltutkintoryhma>
+		<xxmikatutkinnonaloitusajankohtana>25</xxmikatutkinnonaloitusajankohtana>
+		<xxmrahoituslahde>1</xxmrahoituslahde>
 </Tavoiteajassasuoritettututkinto>
 </Result>

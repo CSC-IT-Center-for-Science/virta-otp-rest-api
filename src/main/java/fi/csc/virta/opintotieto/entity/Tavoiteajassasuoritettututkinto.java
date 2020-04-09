@@ -74,7 +74,11 @@ public class Tavoiteajassasuoritettututkinto  {
     
     private Integer xxlkoulutustyyppi = 0;
 	private String xxltutkintoryhma = "";
-	
+    
+    /* 2020-04-09 */
+    private Integer xxmikatutkinnonaloitusajankohtana = 0;
+    private Integer xxmrahoituslahde = 0;
+
     @JsonIgnore
     public Long getId() {
         return id;
@@ -464,5 +468,24 @@ public class Tavoiteajassasuoritettututkinto  {
     public void setXxltutkintoryhma(String xxltutkintoryhma) {
         this.xxltutkintoryhma = xxltutkintoryhma;
     }	
+
+    /* 2020-04-09 */
+    public Integer getXxmikatutkinnonaloitusajankohtana() {
+        return xxmikatutkinnonaloitusajankohtana;
+    }
+
+    public void setXxmikatutkinnonaloitusajankohtana(Integer xxmikatutkinnonaloitusajankohtana) {
+        this.xxmikatutkinnonaloitusajankohtana = xxmikatutkinnonaloitusajankohtana;
+    }
+		
+    public Integer getXxmrahoituslahde() {
+        return xxmrahoituslahde;
+    }
+
+    public void setXxmrahoituslahde(Integer xxmrahoituslahde) {
+        this.xxmrahoituslahde = xxmrahoituslahde;
+    }		    
+
+    
 	
 }

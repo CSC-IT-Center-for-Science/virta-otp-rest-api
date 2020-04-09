@@ -26,6 +26,7 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,"123456", new Date(), "NOVIA"
 																				,0,0
 																				,1,"A"
+																				,25,1
 																				),
                         createEntity(  2L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "7121-28626", "7121", "28626", "02535",615,2, 5.0
@@ -38,6 +39,7 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,"123456", new Date(), "NOVIA"
 																				,0,0
 																				,1,"A"	
+																				,25,1
 																				),
 						createEntity(  3L, new Date(), 2015, 31, 3, 0, 0, 0, 0,  "ARCADA", 6 
 																				, 1, "8121-38626", "8121", "38626", "02535",615,2, 5.0
@@ -50,6 +52,7 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 																				,"123456", new Date(), "NOVIA"
 																				,0,0
 																				,1,"A"
+																				,25,1
 																				)
 						),
 						repository.streamAll()
@@ -73,7 +76,8 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 														int xxetavoiteaikakuukausia, int xxfkaytettyaikakk, int xxgkokonaisaikakk,
 														String xxhaiempitutkintokoodi, Date xxiaiempitutkintosuorituspvm, String xxjaiempikk, 
 														int xxksiirtoopiskelija, int xxlavoimenvayla,
-														int xxlkoulutustyyppi, String xxltutkintoryhma
+														int xxlkoulutustyyppi, String xxltutkintoryhma,
+														int xxmikatutkinnonaloitusajankohtana, int xxmrahoituslahde
 
 														) {
 
@@ -137,8 +141,11 @@ public class TavoiteajassasuoritettututkintoRepositoryTest extends BaseRepositor
 		entity.setXxlavoimenvayla(xxlavoimenvayla);
 
 		entity.setXxlkoulutustyyppi(xxlkoulutustyyppi);
-		entity.setXxltutkintoryhma(xxltutkintoryhma);		
+		entity.setXxltutkintoryhma(xxltutkintoryhma);	
 		
+		/* 2020-09-04 */
+		entity.setXxmikatutkinnonaloitusajankohtana(xxmikatutkinnonaloitusajankohtana);
+		entity.setXxmrahoituslahde(xxmrahoituslahde);			
 
         em.persist(entity);
         return entity;
