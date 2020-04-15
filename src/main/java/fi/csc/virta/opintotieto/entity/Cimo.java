@@ -33,6 +33,7 @@ public abstract class Cimo {
     private String sp;
     private String tyyppi;
 	private Integer xika;
+	private Integer xxaloitusvuosi;
 	
 
     @JsonIgnore
@@ -206,6 +207,13 @@ public abstract class Cimo {
         this.xika = xika;
     }
 
+    public Integer getXXAloitusvuosi() {
+        return xxaloitusvuosi;
+    }
+    
+    public void setXXAloitusvuosi(Integer xxaloitusvuosi) {
+        this.xxaloitusvuosi = xxaloitusvuosi;
+    }
 	
 	
 }

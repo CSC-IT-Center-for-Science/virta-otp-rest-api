@@ -29,6 +29,7 @@ public abstract class CIMORepositoryTest<T extends Cimo> extends BaseRepositoryT
         entity.setSp("sp" + id);
         entity.setTyyppi("tyyppi" + id);	
 		entity.setXIka(id.intValue());
+		entity.setXXAloitusvuosi(id.intValue());
         em.persist(entity);
         return entity;
     }

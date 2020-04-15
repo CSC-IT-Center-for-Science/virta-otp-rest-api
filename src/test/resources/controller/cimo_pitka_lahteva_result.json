@@ -21,7 +21,8 @@
     "oppilaitos": "oppilaitos",
     "sp": "sp",
     "tyyppi": "tyyppi",
-	"xika":1
+	"xika":1,
+	"xxaloitusvuosi":2016
   },
   {
     "hetu": "hetu2",
@@ -45,7 +46,8 @@
     "oppilaitos": "oppilaitos1",
     "sp": "sp1",
     "tyyppi": "tyyppi1",
-	"xika":2
+	"xika":2,
+	"xxaloitusvuosi":2017
   },
   {
     "hetu": "hetu3",
@@ -69,6 +71,7 @@
     "oppilaitos": "oppilaitos2",
     "sp": "sp2",
     "tyyppi": "tyyppi2",
-	"xika":3
+	"xika":3,
+	"xxaloitusvuosi":2018
   }
 ]

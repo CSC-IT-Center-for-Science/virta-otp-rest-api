@@ -22,6 +22,7 @@
         <sp>sp</sp>
         <tyyppi>tyyppi</tyyppi>
 		<xika>1</xika>
+		<xxaloitusvuosi>2016</xxaloitusvuosi>
     </CIMOLyhytLahteva>
     <CIMOLyhytLahteva>
         <hetu>hetu2</hetu>
@@ -45,6 +46,7 @@
         <sp>sp1</sp>
         <tyyppi>tyyppi1</tyyppi>
 		<xika>2</xika>
+		<xxaloitusvuosi>2017</xxaloitusvuosi>
     </CIMOLyhytLahteva>
     <CIMOLyhytLahteva>
         <hetu>hetu3</hetu>
@@ -68,5 +70,6 @@
         <sp>sp2</sp>
         <tyyppi>tyyppi2</tyyppi>
 		<xika>3</xika>
+		<xxaloitusvuosi>2018</xxaloitusvuosi>
     </CIMOLyhytLahteva>
 </Result>
