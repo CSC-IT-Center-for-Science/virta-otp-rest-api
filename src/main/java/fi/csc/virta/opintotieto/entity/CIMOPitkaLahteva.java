@@ -9,7 +9,6 @@ public class CIMOPitkaLahteva extends Cimo {
 
     private String kohdemaa;
     private String liikkuvuusohjelma;
-	private String lahtomaa;
 
 
     public String getKohdemaa() {
